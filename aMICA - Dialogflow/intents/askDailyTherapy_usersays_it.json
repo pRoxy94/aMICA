@@ -1,0 +1,334 @@
+[
+  {
+    "id": "49af43e0-c04d-4ea6-80a9-92ebdee803aa",
+    "data": [
+      {
+        "text": "seguo ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cura per l\u0027 ",
+        "userDefined": false
+      },
+      {
+        "text": "alzheimer",
+        "alias": "descrizione",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c8197b63-de30-433f-b5fe-105aa8058188",
+    "data": [
+      {
+        "text": "ho ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cura ",
+        "userDefined": false
+      },
+      {
+        "text": "tutti giorni",
+        "alias": "drugusetype",
+        "meta": "@drugUseType",
+        "userDefined": true
+      },
+      {
+        "text": " per l\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "Alzheimer",
+        "alias": "descrizione",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "cb1d87ac-0d6d-4e58-adb3-2170173f6992",
+    "data": [
+      {
+        "text": "ho ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " terapia ",
+        "userDefined": false
+      },
+      {
+        "text": "giornaliera",
+        "alias": "drugusetype",
+        "meta": "@drugUseType",
+        "userDefined": false
+      },
+      {
+        "text": " per il ",
+        "userDefined": false
+      },
+      {
+        "text": "sangue",
+        "alias": "descrizione",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b27a9ac-0ca1-4b4f-8bdb-d5667fc33e55",
+    "data": [
+      {
+        "text": "seguo ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " terapia ",
+        "userDefined": false
+      },
+      {
+        "text": "tutti i giorni",
+        "alias": "drugusetype",
+        "meta": "@drugUseType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a45f89fb-0e4d-4aed-96a5-d6bdadfdf1cd",
+    "data": [
+      {
+        "text": "seguo ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cura ",
+        "userDefined": false
+      },
+      {
+        "text": "tutti i giorni",
+        "alias": "drugusetype",
+        "meta": "@drugUseType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5b224e4-12d7-4988-a541-1571fdb1a9b0",
+    "data": [
+      {
+        "text": "ho ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nuova cura ",
+        "userDefined": false
+      },
+      {
+        "text": "giornaliera",
+        "alias": "drugusetype",
+        "meta": "@drugUseType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "af0cc593-4e1b-4a29-81e3-754126c9e628",
+    "data": [
+      {
+        "text": "ho ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cura ",
+        "userDefined": false
+      },
+      {
+        "text": "giornaliera",
+        "alias": "drugusetype",
+        "meta": "@drugUseType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "185a3796-b783-4e92-8b4f-86567f337398",
+    "data": [
+      {
+        "text": "inserisci cura ",
+        "userDefined": false
+      },
+      {
+        "text": "giornaliera",
+        "alias": "drugusetype",
+        "meta": "@drugUseType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3fb7d86-4d10-4476-bfd0-0c8f79dbf872",
+    "data": [
+      {
+        "text": "aggiungi cura ",
+        "userDefined": false
+      },
+      {
+        "text": "giornaliera",
+        "alias": "drugusetype",
+        "meta": "@drugUseType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "43c6f9f2-1637-40b6-a52f-5f4380abbb8f",
+    "data": [
+      {
+        "text": "prendo ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " compressa per il ",
+        "userDefined": false
+      },
+      {
+        "text": "diabete",
+        "alias": "descrizione",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ogni giorno",
+        "alias": "drugusetype",
+        "meta": "@drugUseType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b749712f-eb37-44c3-9086-4c23526f98b5",
+    "data": [
+      {
+        "text": "aggiungi terapia ",
+        "userDefined": false
+      },
+      {
+        "text": "giornaliera",
+        "alias": "drugusetype",
+        "meta": "@drugUseType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "93804691-2a41-4926-8a6d-a97c189fa005",
+    "data": [
+      {
+        "text": "terapia ",
+        "userDefined": false
+      },
+      {
+        "text": "giornaliera",
+        "alias": "drugusetype",
+        "meta": "@drugUseType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5efbf932-871f-4b34-98ec-f78e1f3b243f",
+    "data": [
+      {
+        "text": "giornaliera",
+        "alias": "drugusetype",
+        "meta": "@drugUseType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

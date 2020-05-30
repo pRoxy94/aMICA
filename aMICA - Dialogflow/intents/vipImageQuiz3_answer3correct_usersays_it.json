@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1986dbd2-946a-41e1-bb69-55e19da621a7",
+    "data": [
+      {
+        "text": "Amedeus",
+        "alias": "vip_quiz",
+        "meta": "@typeOfVips",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

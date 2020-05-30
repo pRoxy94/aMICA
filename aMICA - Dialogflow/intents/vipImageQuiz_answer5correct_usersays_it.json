@@ -1,0 +1,16 @@
+[
+  {
+    "id": "8153d3b6-615c-4203-85a3-067b125bcd83",
+    "data": [
+      {
+        "text": "Elvis Presley",
+        "alias": "vipQuiz",
+        "meta": "@typeOfVips",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

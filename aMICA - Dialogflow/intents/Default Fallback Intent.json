@@ -1,0 +1,115 @@
+{
+  "id": "f74e3249-ad90-4e16-8b3e-240497118d95",
+  "name": "Default Fallback Intent",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": [
+            "Uhm, vediamo un po\u0027... la tua richiesta è un po\u0027 strana, sai?",
+            "Che ne dici di cambiare argomento?",
+            "Non credo che sia fra le mie possibilità... beh, può capitare a chiunque!",
+            "Cerca di navigare tra le risorse messe a disposizione!",
+            "Cerchiamo di aiutarci, scegli un argomento che possa trattare!"
+          ]
+        },
+        {
+          "type": 4,
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "payload": {
+                  "template_type": "generic",
+                  "elements": [
+                    {
+                      "title": "Aggiungi informazioni",
+                      "buttons": [
+                        {
+                          "title": "Scopri di più",
+                          "payload": "aggiungi info",
+                          "type": "postback"
+                        }
+                      ],
+                      "subtitle": "Aggiungi informazioni al tuo profilo, mi serviranno per aiutarti in futuro!",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Fplus%20(1).png?alt\u003dmedia\u0026token\u003d2d7680bb-0f4a-4347-880a-ca7bfe1c536c"
+                    },
+                    {
+                      "title": "Mostra informazioni",
+                      "buttons": [
+                        {
+                          "payload": "mostra info",
+                          "type": "postback",
+                          "title": "Scopri di più"
+                        }
+                      ],
+                      "subtitle": "Non ricordi qualcosa? Chiedimi di mostrarti le tue informazioni!",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Finfo%20(1).png?alt\u003dmedia\u0026token\u003d935a3c60-c3c6-49ab-9e4a-3dc1e4f3288f"
+                    },
+                    {
+                      "title": "Modifica informazioni",
+                      "buttons": [
+                        {
+                          "title": "Scopri di più",
+                          "payload": "modifica info",
+                          "type": "postback"
+                        }
+                      ],
+                      "subtitle": "Hai sbagliato qualcosa? Modifica le informazioni del tuo profilo!",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Fpen%20(1).png?alt\u003dmedia\u0026token\u003de02325e9-2a28-4ca6-88f1-aa5e9163fe93"
+                    },
+                    {
+                      "title": "Elimina informazioni",
+                      "buttons": [
+                        {
+                          "payload": "elimina info",
+                          "type": "postback",
+                          "title": "Scopri di più"
+                        }
+                      ],
+                      "subtitle": "Elimina informazioni inutili dal tuo profilo!",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Fclose%20(1).png?alt\u003dmedia\u0026token\u003d6ccbf373-b988-4a68-bda4-61a1af42248f"
+                    },
+                    {
+                      "title": "Allenamento",
+                      "buttons": [
+                        {
+                          "title": "Scopri di più",
+                          "payload": "allenamento",
+                          "type": "postback"
+                        }
+                      ],
+                      "subtitle": "Non sai cosa fare? Alleniamoci un pò insieme!",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Fgym%20(1).png?alt\u003dmedia\u0026token\u003d91a9e1a9-6bd5-4243-95f2-c8404a61262c"
+                    }
+                  ]
+                },
+                "type": "template"
+              }
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

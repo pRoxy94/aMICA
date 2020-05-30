@@ -1,0 +1,216 @@
+[
+  {
+    "id": "c8539113-e3e1-4816-930e-cb95189ff5a5",
+    "data": [
+      {
+        "text": "voglio sapere se ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace ",
+        "userDefined": false
+      },
+      {
+        "text": "il cinema",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8ad2c9b-3420-4e9b-a1dc-8cf0d1322bdd",
+    "data": [
+      {
+        "text": "cosa sai sulle mie preferenze cinematografiche?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f4db2abf-7c16-4446-bdb0-242ad354cd96",
+    "data": [
+      {
+        "text": "sai se ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace ",
+        "userDefined": false
+      },
+      {
+        "text": "il cinema",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "62487a9f-752e-47fb-a611-77a872f733c7",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dici cosa ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace del ",
+        "userDefined": false
+      },
+      {
+        "text": "cinema",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae4dfdba-4c85-4e95-b226-279ef1d8e731",
+    "data": [
+      {
+        "text": "dimmi le mie preferenze sul ",
+        "userDefined": false
+      },
+      {
+        "text": "cinema",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "098b8a06-4cba-4d0b-8f94-ce8e928c7ac6",
+    "data": [
+      {
+        "text": "preferenze ",
+        "userDefined": false
+      },
+      {
+        "text": "cinema",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9b7499c-b327-44b0-90e6-f52019a5e0ed",
+    "data": [
+      {
+        "text": "il cinema",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17127824-9495-4427-be3b-ba757ed8d3ad",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace ",
+        "userDefined": false
+      },
+      {
+        "text": "il cinema",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f184830a-a7d2-451c-abbd-fb7bf73db5e1",
+    "data": [
+      {
+        "text": "le mie preferenze cinematografiche",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "523a433e-db17-48fe-b8ab-72513b7705a2",
+    "data": [
+      {
+        "text": "il mio cinema",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

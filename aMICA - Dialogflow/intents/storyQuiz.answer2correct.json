@@ -1,0 +1,93 @@
+{
+  "id": "5f729670-ba73-4427-a9dc-b22c2bc31f95",
+  "name": "storyQuiz.answer2correct",
+  "auto": true,
+  "contexts": [
+    "storyQuiz_await_answer2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "storyQuiz_await_answer3",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "speech": "La risposta è corretta. Passiamo alla prossima domanda."
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "title": "Domanda 3",
+          "subtitle": "Cosa capitò a Lorenzo?",
+          "buttons": [
+            {
+              "text": "fu ucciso dai tre fratelli",
+              "postback": "fu ucciso dai tre fratelli"
+            },
+            {
+              "text": "si sposò con Elisabetta",
+              "postback": "si sposò con Elisabetta"
+            },
+            {
+              "text": "partì per il militare",
+              "postback": "partì per il militare"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "La risposta è corretta. ☺️ Passiamo alla prossima domanda."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Domanda 3",
+          "subtitle": "Cosa capitò a Lorenzo?",
+          "buttons": [
+            {
+              "text": "fu ucciso dai tre fratelli",
+              "postback": "fu ucciso dai tre fratelli"
+            },
+            {
+              "text": "si sposò con Elisabetta",
+              "postback": "si sposò con Elisabetta"
+            },
+            {
+              "text": "partì per il militare",
+              "postback": "partì per il militare"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,48 @@
+{
+  "id": "5359fe60-8f15-46a8-b39a-4018e50adae2",
+  "parentId": "53538339-5ed1-4aa2-8235-0ba443efa464",
+  "rootParentId": "53538339-5ed1-4aa2-8235-0ba443efa464",
+  "name": "askDailyTherapy - yes",
+  "auto": true,
+  "contexts": [
+    "askDailyTherapy-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "askDailyTherapy.askDailyTherapy-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Quale tipologia di terapia vuoi aggiungere?",
+          "replies": [
+            "Giornaliera",
+            "Intervallare",
+            "Cancella"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 750000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

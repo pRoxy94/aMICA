@@ -1,0 +1,121 @@
+{
+  "id": "718f40b1-ba11-434e-b1c4-4362501a8e1f",
+  "name": "getLocationType",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "askLocationType-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "text": "Di cosa hai bisogno?",
+              "reply_markup": {
+                "one_time_keyboard": true,
+                "keyboard": [
+                  [
+                    {
+                      "text": "Dove abito",
+                      "callback_data": "dove abito"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Naviga verso casa",
+                      "callback_data": "naviga verso casa"
+                    }
+                  ],
+                  [
+                    {
+                      "callback_data": "niente",
+                      "text": "Niente"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Cancella",
+                      "callback_data": "cancella"
+                    }
+                  ]
+                ],
+                "resize_keyboard": true
+              }
+            }
+          }
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Non ricordi più dove abiti o ti sei perso? Non preoccuparti, puoi scegliere se rivedere il tuo indirizzo di residenza  🏠 oppure tornare a casa utilizzando il navigatore 📍. Di cosa hai bisogno?"
+        },
+        {
+          "type": 4,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "generic",
+                  "elements": [
+                    {
+                      "title": "Dove abiti",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Freading.png?alt\u003dmedia\u0026token\u003d14085909-0d89-4f8c-b001-4b7f3f05a353",
+                      "subtitle": "Rivedi il tuo indirizzo di casa",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Scopri di più",
+                          "payload": "dove abito"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Naviga verso casa",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Fmap.png?alt\u003dmedia\u0026token\u003dea338ded-7737-4c97-8fcb-27d550c1b24a",
+                      "subtitle": "Ti sei perso? Torna a casa utilizzando la navigazione",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Naviga",
+                          "payload": "naviga verso casa"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

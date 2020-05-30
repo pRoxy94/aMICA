@@ -1,0 +1,80 @@
+[
+  {
+    "id": "126a1a90-4d51-4218-8989-1648705f9e86",
+    "data": [
+      {
+        "text": "palestra",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fdd6dd55-eadd-4a74-a189-567bba502be7",
+    "data": [
+      {
+        "text": "esercizi motori",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "789ed7e6-99a6-4667-87fa-9c7dd3f1fac2",
+    "data": [
+      {
+        "text": "fammi fare esercizi motori",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2bddf7ea-db25-44b3-acd4-23fb23c25698",
+    "data": [
+      {
+        "text": "facciamo qualche esercizio fisico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e96b1c6f-f31a-4b81-b3e1-fdaa6387052a",
+    "data": [
+      {
+        "text": "alleniamoci insieme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "82085a25-2bf2-412e-8944-be03486e2391",
+    "data": [
+      {
+        "text": "voglio fare ",
+        "userDefined": false
+      },
+      {
+        "text": "palestra",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

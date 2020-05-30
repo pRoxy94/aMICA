@@ -1,0 +1,62 @@
+[
+  {
+    "id": "8b4b9511-10a0-4550-ac54-cd8c0348e250",
+    "data": [
+      {
+        "text": "chi ti ha inventato?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c3bbb3c-7a9d-42b9-aabf-1481cdc12148",
+    "data": [
+      {
+        "text": "ti ha creato qualcuno?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5fc7bfe-fb70-4804-a6b5-d6a6221bf8de",
+    "data": [
+      {
+        "text": "chi ti ha costruito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c1883518-18fe-4edb-a709-3de4b081473a",
+    "data": [
+      {
+        "text": "chi sono i tuoi creatori?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf1b6be6-1ad7-43ee-a894-c4671b3d9ecc",
+    "data": [
+      {
+        "text": "chi ti ha creato?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

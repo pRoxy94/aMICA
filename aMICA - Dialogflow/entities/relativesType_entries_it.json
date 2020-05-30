@@ -1,0 +1,123 @@
+[
+  {
+    "value": "figlio",
+    "synonyms": [
+      "figlio",
+      "figli"
+    ]
+  },
+  {
+    "value": "madre",
+    "synonyms": [
+      "madre",
+      "mamma",
+      "madri"
+    ]
+  },
+  {
+    "value": "padre",
+    "synonyms": [
+      "padre",
+      "papà",
+      "padri"
+    ]
+  },
+  {
+    "value": "zio",
+    "synonyms": [
+      "zio",
+      "zii"
+    ]
+  },
+  {
+    "value": "cugino",
+    "synonyms": [
+      "cugino",
+      "cugini"
+    ]
+  },
+  {
+    "value": "fratello",
+    "synonyms": [
+      "fratello",
+      "fratelli"
+    ]
+  },
+  {
+    "value": "sorella",
+    "synonyms": [
+      "sorella",
+      "sorelle"
+    ]
+  },
+  {
+    "value": "nonno",
+    "synonyms": [
+      "nonno",
+      "nonni"
+    ]
+  },
+  {
+    "value": "figlia",
+    "synonyms": [
+      "figlia",
+      "figlie"
+    ]
+  },
+  {
+    "value": "zia",
+    "synonyms": [
+      "zia",
+      "zie"
+    ]
+  },
+  {
+    "value": "cugina",
+    "synonyms": [
+      "cugina",
+      "cugine"
+    ]
+  },
+  {
+    "value": "nonna",
+    "synonyms": [
+      "nonna",
+      "nonne"
+    ]
+  },
+  {
+    "value": "moglie",
+    "synonyms": [
+      "moglie",
+      "mogli"
+    ]
+  },
+  {
+    "value": "marito",
+    "synonyms": [
+      "marito",
+      "mariti"
+    ]
+  },
+  {
+    "value": "nuora",
+    "synonyms": [
+      "nuora",
+      "nuore"
+    ]
+  },
+  {
+    "value": "genero",
+    "synonyms": [
+      "genero",
+      "generi"
+    ]
+  },
+  {
+    "value": "suocera",
+    "synonyms": [
+      "suocera",
+      "suocere"
+    ]
+  }
+]

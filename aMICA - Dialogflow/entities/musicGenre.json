@@ -1,0 +1,9 @@
+{
+  "id": "9b080acd-d21f-483a-b386-bff89eb05ac4",
+  "name": "musicGenre",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

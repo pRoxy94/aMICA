@@ -1,0 +1,47 @@
+{
+  "id": "5dffc68a-5871-440a-90ce-bad72d4dae71",
+  "parentId": "fa668324-4e87-4176-a279-44401f5c06f5",
+  "rootParentId": "fa668324-4e87-4176-a279-44401f5c06f5",
+  "name": "memoryNotFunction - yes",
+  "auto": true,
+  "contexts": [
+    "memoryNotFunction-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "memoryNotFunction.memoryNotFunction-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Cosa vuoi che ti ricordi?",
+          "replies": [
+            "Mostra Info",
+            "Cancella"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

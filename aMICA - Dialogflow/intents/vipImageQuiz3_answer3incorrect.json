@@ -1,0 +1,110 @@
+{
+  "id": "75b39b57-3b5b-4a51-b782-805f24f73b86",
+  "name": "vipImageQuiz3_answer3incorrect",
+  "auto": true,
+  "contexts": [
+    "vipImageQuiz3_await_answer3"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "vipImageQuiz3_await_answer4",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "78d7515a-9881-4d9c-9863-ab29b99887f8",
+          "required": false,
+          "dataType": "@typeOfVips",
+          "name": "quiz_vip",
+          "value": "$quiz_vip",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "speech": "Mi dispiace, era Luciano Pavarotti! Passiamo al prossimo volto!"
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "title": "Di chi tratta?",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/facce%2Fbongiorno.jpg?alt\u003dmedia\u0026token\u003d17f96a8f-18ff-4b0c-bf14-7d4588923978",
+          "buttons": [
+            {
+              "text": "Mike Bongiorno",
+              "postback": "Mike Bongiorno"
+            },
+            {
+              "text": "Tot�",
+              "postback": "Tot�"
+            },
+            {
+              "text": "Lino Banfi",
+              "postback": "Lino Banfi"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Mi dispiace, era Amedeus! Passiamo al prossimo volto."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Di chi si tratta?",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/facce%2FvipImageQuiz3%2F3%20-%204%20-%20Carlo%20Contijpg.jpg?alt\u003dmedia\u0026token\u003df53c8916-f4e0-4970-b94d-a6d51d02c596",
+          "buttons": [
+            {
+              "text": "Roberto Benigni",
+              "postback": "Roberto Benigni"
+            },
+            {
+              "text": "Michele Placido",
+              "postback": "Michele Placido"
+            },
+            {
+              "text": "Carlo Conti",
+              "postback": "Carlo Conti"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

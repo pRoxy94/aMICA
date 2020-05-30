@@ -1,0 +1,36 @@
+{
+  "id": "e0b3f208-80d5-495e-ab46-4d8c7416b4f6",
+  "parentId": "f406d23f-79ae-453a-98d7-be7033eab429",
+  "rootParentId": "f406d23f-79ae-453a-98d7-be7033eab429",
+  "name": "getSportPref - later",
+  "auto": true,
+  "contexts": [
+    "getSportPref-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "getSportPref.getSportPref-later",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": "Certo. Sono sempre a tua disposizione!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

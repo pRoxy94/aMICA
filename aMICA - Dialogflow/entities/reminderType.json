@@ -1,0 +1,9 @@
+{
+  "id": "1abf1358-a738-4a78-a5e4-61e484319395",
+  "name": "reminderType",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

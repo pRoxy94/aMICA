@@ -1,0 +1,77 @@
+{
+  "id": "db2700fe-cb18-419c-980f-50b6f678c57c",
+  "name": "musicQuiz.answer1correct",
+  "auto": true,
+  "contexts": [
+    "await_answer1"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "await_answer2",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Corretto! Passiamo alla prossima canzone!"
+        },
+        {
+          "type": 4,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "audio",
+                "payload": {
+                  "url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/musica%2F2)%20Mina%20-%20Stessa%20spiaggia%20stesso%20mare.mp3?alt\u003dmedia\u0026token\u003d2e9a9a26-bce1-4f2e-ba4c-5464f436cb6c"
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Chi è il cantante di questa canzone?",
+          "buttons": [
+            {
+              "text": "Carmen Villani",
+              "postback": "Carmen Villani"
+            },
+            {
+              "text": "Claudio Baglioni",
+              "postback": "Claudio Baglioni"
+            },
+            {
+              "text": "Mina",
+              "postback": "Mina"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

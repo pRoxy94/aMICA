@@ -1,0 +1,36 @@
+{
+  "id": "88d932f9-7c7d-4aa3-9199-3012613f5b51",
+  "parentId": "93785814-a74a-4c5c-837a-734e31410710",
+  "rootParentId": "18a64a52-f846-401c-8733-57b7f80cf024",
+  "name": "askRelativesInfo - addPhoto - no - no",
+  "auto": true,
+  "contexts": [
+    "askRelativesInfo-addPhoto-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "askRelativesInfo-addPhoto.askRelativesInfo-addPhoto-no.askRelativesInfo-addPhoto-no-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": "Bene. Ci sentiamo presto!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "afb28a3a-07f4-4d68-9800-d924d79a006e",
+  "name": "musicArtists",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,96 @@
+{
+  "id": "65d8b958-9016-404f-8272-0ecc1e89f9d5",
+  "name": "musicQuiz.answer2incorrect",
+  "auto": true,
+  "contexts": [
+    "await_answer2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "await_answer3",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "fb6476ac-a53e-44b1-ab3a-705b54763d37",
+          "required": false,
+          "dataType": "@musicArtists",
+          "name": "quiz_cantante",
+          "value": "$quiz_cantante",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Ahi.. La risposta era \"Mina\". Non preoccuparti, passiamo alla terza domanda!"
+        },
+        {
+          "type": 4,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "audio",
+                "payload": {
+                  "url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/musica%2F3)%20Rita%20Pavone%20-%20Datemi%20Un%20Martello.mp3?alt\u003dmedia\u0026token\u003ded86b860-96a5-4fb2-b1f9-906a424c87ba"
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Come si chiama il cantante di questo brano?",
+          "buttons": [
+            {
+              "text": "Fiorella Mannoia",
+              "postback": "1) Fiorella Mannoia"
+            },
+            {
+              "text": "Rita Pavone",
+              "postback": "2) Rita Pavone"
+            },
+            {
+              "text": "Raffaella Carrà",
+              "postback": "3) Raffaella Carrà"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

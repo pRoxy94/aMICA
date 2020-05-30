@@ -1,0 +1,63 @@
+[
+  {
+    "value": "rock",
+    "synonyms": [
+      "rock"
+    ]
+  },
+  {
+    "value": "pop",
+    "synonyms": [
+      "pop"
+    ]
+  },
+  {
+    "value": "classica",
+    "synonyms": [
+      "classica"
+    ]
+  },
+  {
+    "value": "elettronica",
+    "synonyms": [
+      "elettronica"
+    ]
+  },
+  {
+    "value": "jazz",
+    "synonyms": [
+      "jazz"
+    ]
+  },
+  {
+    "value": "blues",
+    "synonyms": [
+      "blues"
+    ]
+  },
+  {
+    "value": "reggae",
+    "synonyms": [
+      "reggae"
+    ]
+  },
+  {
+    "value": "funk",
+    "synonyms": [
+      "funk"
+    ]
+  },
+  {
+    "value": "latina",
+    "synonyms": [
+      "latina",
+      "latino"
+    ]
+  },
+  {
+    "value": "metal",
+    "synonyms": [
+      "metal"
+    ]
+  }
+]

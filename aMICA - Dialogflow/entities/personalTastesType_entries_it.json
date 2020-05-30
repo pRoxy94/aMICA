@@ -1,0 +1,49 @@
+[
+  {
+    "value": "musica",
+    "synonyms": [
+      "musica",
+      "musicali",
+      "canzoni",
+      "brani musicali",
+      "canto"
+    ]
+  },
+  {
+    "value": "cinema",
+    "synonyms": [
+      "cinema",
+      "film"
+    ]
+  },
+  {
+    "value": "cibo",
+    "synonyms": [
+      "cibo",
+      "mangiare"
+    ]
+  },
+  {
+    "value": "sport",
+    "synonyms": [
+      "sport",
+      "attività sportiva",
+      "calcio",
+      "basket",
+      "pallavolo",
+      "nuoto",
+      "tennis",
+      "ballo"
+    ]
+  },
+  {
+    "value": "teatro",
+    "synonyms": [
+      "teatro",
+      "opera teatrale",
+      "recitazione",
+      "opera",
+      "teatrale"
+    ]
+  }
+]

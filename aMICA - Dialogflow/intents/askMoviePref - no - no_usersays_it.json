@@ -1,0 +1,110 @@
+[
+  {
+    "id": "774b356d-8aac-4fbc-8f1b-5094d57476f4",
+    "data": [
+      {
+        "text": "non credo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55864947-b0c5-4ef7-bdf5-959a5c8f986a",
+    "data": [
+      {
+        "text": "no grazie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d7e6bd4-3c7d-49e1-9943-46b7af2dd6c0",
+    "data": [
+      {
+        "text": "non farlo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a2efa11-2198-4248-845d-65037153d1b0",
+    "data": [
+      {
+        "text": "non proprio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2eceb40b-a35b-4e6c-bdee-85032ff0f4bb",
+    "data": [
+      {
+        "text": "assolutamente no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae0c0967-4fb2-4f13-b5e6-a702dc8ab03c",
+    "data": [
+      {
+        "text": "no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4b8ccd4e-f612-44be-acc2-165ddcf210db",
+    "data": [
+      {
+        "text": "non voglio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f174398f-5a48-4a1b-8cd9-7913633ffd42",
+    "data": [
+      {
+        "text": "non sono d\u0027accordo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "05875651-43dd-4415-830c-651f894f2e22",
+    "data": [
+      {
+        "text": "non mi interessa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

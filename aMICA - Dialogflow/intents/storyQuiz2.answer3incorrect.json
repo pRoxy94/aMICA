@@ -1,0 +1,68 @@
+{
+  "id": "6a47f4d2-14b2-4e26-a156-80218b830005",
+  "name": "storyQuiz2.answer3incorrect",
+  "auto": true,
+  "contexts": [
+    "storyQuiz2_await_answer3"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "storyQuiz2_await_answer4",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Errato. La risposta corretta era \"Ruggeri di Lauria\". Passiamo alla domanda successiva."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Domanda 4",
+          "subtitle": "A cosa furono condannati?",
+          "buttons": [
+            {
+              "text": "al rogo",
+              "postback": "al rogo"
+            },
+            {
+              "text": "alla prigione",
+              "postback": "alla prigione"
+            },
+            {
+              "text": "all\u0027espatrio",
+              "postback": "all\u0027espatrio"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

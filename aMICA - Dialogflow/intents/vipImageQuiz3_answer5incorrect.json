@@ -1,0 +1,59 @@
+{
+  "id": "78fd8a2c-6ed9-4d72-abd7-49d6027892b7",
+  "name": "vipImageQuiz3_answer5incorrect",
+  "auto": true,
+  "contexts": [
+    "vipImageQuiz3_await_answer5"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "vipImageQuiz3_endQuiz",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "95addc9f-8d54-44bf-9d2f-e139b6381dfa",
+          "required": false,
+          "dataType": "@typeOfVips",
+          "name": "vipQuiz",
+          "value": "$vipQuiz",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Sbagliato. La risposta corretta era Carlo Conti. Ci sentiamo al prossimo quiz"
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

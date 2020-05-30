@@ -1,0 +1,107 @@
+{
+  "id": "50089ad7-a59d-4025-b85b-92e1cf2d7d9c",
+  "name": "askMusicGenre",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "text": "Che genere di musica ascolti?",
+              "reply_markup": {
+                "resize_keyboard": true,
+                "one_time_keyboard": true,
+                "keyboard": [
+                  [
+                    {
+                      "text": "Rock",
+                      "callback_data": "rock"
+                    },
+                    {
+                      "text": "Pop",
+                      "callback_data": "pop"
+                    },
+                    {
+                      "callback_data": "classica",
+                      "text": "Classica"
+                    },
+                    {
+                      "text": "Blues",
+                      "callback_data": "blues"
+                    },
+                    {
+                      "text": "Metal",
+                      "callback_data": "metal"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Jazz",
+                      "callback_data": "jazz"
+                    },
+                    {
+                      "text": "Funk",
+                      "callback_data": "funk"
+                    },
+                    {
+                      "callback_data": "reggae",
+                      "text": "Reggae"
+                    },
+                    {
+                      "text": "Elettronica",
+                      "callback_data": "elettronica"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Cancella",
+                      "callback_data": "cancella"
+                    }
+                  ]
+                ]
+              }
+            }
+          }
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Che genere di musica ascolti?",
+          "replies": [
+            "Rock",
+            "Pop",
+            "Classica",
+            "Blues",
+            "Jazz",
+            "Funk",
+            "Reggae",
+            "Elettronica",
+            "Metal",
+            "Cancella"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

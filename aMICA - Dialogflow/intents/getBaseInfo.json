@@ -1,0 +1,97 @@
+{
+  "id": "a0f2901b-f4fa-4e8e-b2ae-d71611663aaf",
+  "name": "getBaseInfo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "da7d290b-722d-44d2-ac98-4ccb4a37882b",
+          "required": false,
+          "dataType": "@TypeOfBaseInfo",
+          "name": "nome",
+          "value": "$nome",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "e83ebd13-db90-46ab-8bb0-24bbc2af2ff8",
+          "required": false,
+          "dataType": "@TypeOfBaseInfo",
+          "name": "cognome",
+          "value": "$cognome",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "8eb2087d-0abf-48f3-8c02-8763b6956db0",
+          "required": false,
+          "dataType": "@TypeOfBaseInfo",
+          "name": "eta",
+          "value": "$eta",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "8c98cbc9-288b-4eb1-bd2d-6054e666ccf8",
+          "required": false,
+          "dataType": "@TypeOfBaseInfo",
+          "name": "dataNascita",
+          "value": "$dataNascita",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "96754d8e-385f-4e84-b6e1-73f307460cb9",
+          "required": false,
+          "dataType": "@TypeOfBaseInfo",
+          "name": "luogoNascita",
+          "value": "$luogoNascita",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "e7449116-25a4-4ae4-b1e0-a83384853df4",
+          "required": false,
+          "dataType": "@TypeOfBaseInfo",
+          "name": "luogoResidenza",
+          "value": "$luogoResidenza",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

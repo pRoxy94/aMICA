@@ -1,0 +1,55 @@
+[
+  {
+    "value": "generalità",
+    "synonyms": [
+      "generalità",
+      "personali",
+      "dati personali"
+    ]
+  },
+  {
+    "value": "ricordi",
+    "synonyms": [
+      "ricordi",
+      "storie",
+      "eventi"
+    ]
+  },
+  {
+    "value": "parenti",
+    "synonyms": [
+      "parenti",
+      "familiari",
+      "persone"
+    ]
+  },
+  {
+    "value": "intolleranze",
+    "synonyms": [
+      "intolleranze",
+      "intolleranza"
+    ]
+  },
+  {
+    "value": "allergie",
+    "synonyms": [
+      "allergie",
+      "allergia"
+    ]
+  },
+  {
+    "value": "gusti personali",
+    "synonyms": [
+      "gusti personali",
+      "gusti"
+    ]
+  },
+  {
+    "value": "luoghi",
+    "synonyms": [
+      "luoghi",
+      "posti",
+      "località"
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "9d199b78-1341-4e20-a900-8a58ac33859e",
+    "data": [
+      {
+        "text": "Trento",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb95040a-d13c-46a5-adb9-05afa6839181",
+    "data": [
+      {
+        "text": "Bolzano",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

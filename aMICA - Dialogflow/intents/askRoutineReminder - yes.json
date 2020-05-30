@@ -1,0 +1,48 @@
+{
+  "id": "9a4fcdd2-64f6-4a2c-8c29-bf73267249e7",
+  "parentId": "02dc4b43-783e-4768-8879-f27de4a34f8b",
+  "rootParentId": "02dc4b43-783e-4768-8879-f27de4a34f8b",
+  "name": "askRoutineReminder - yes",
+  "auto": true,
+  "contexts": [
+    "askRoutineReminder-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "askRoutineReminder.askRoutineReminder-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Quale tipologia di promemoria vuoi aggiungere?",
+          "replies": [
+            "Programmato",
+            "Routine",
+            "Cancella"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

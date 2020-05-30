@@ -1,0 +1,50 @@
+{
+  "id": "e73c475a-25df-4120-98c4-5d0922210bd3",
+  "name": "deleteListReminder",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "54b25c2c-3eeb-4a89-99e1-b468d32fd2f8",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "titolo",
+          "value": "$titolo",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "Che lista vuoi eliminare?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

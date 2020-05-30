@@ -1,0 +1,30 @@
+[
+  {
+    "id": "34c68d99-a02d-43c9-bc34-5dfd1b396192",
+    "data": [
+      {
+        "text": "Christian De Sica",
+        "alias": "quiz_vip",
+        "meta": "@typeOfVips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b33fd0a-1818-41c7-9abb-0270bb0ed75e",
+    "data": [
+      {
+        "text": "Massimo Boldi",
+        "alias": "quiz_vip",
+        "meta": "@typeOfVips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

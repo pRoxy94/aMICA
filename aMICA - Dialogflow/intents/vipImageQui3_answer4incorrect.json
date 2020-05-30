@@ -1,0 +1,88 @@
+{
+  "id": "9f52df03-0c79-4a27-9d5d-6aaeb220c3c9",
+  "name": "vipImageQui3_answer4incorrect",
+  "auto": true,
+  "contexts": [
+    "vipImageQuiz3_await_answer4"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "vipImageQuiz3_await_answer5",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b7e1972f-af18-4ca7-9005-a65107816b0f",
+          "required": false,
+          "dataType": "@typeOfVips",
+          "name": "quiz_vip",
+          "value": "$quiz_vip",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "speech": "Mi dispiace, era Mike Bongiorno! Ci vediamo al prossimo quiz!"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Mi dispiace, era Mike Bongiorno. Passiamo alla prossima domanda!"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Di chi si tratta?",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/facce%2FvipImageQuiz3%2F3%20-%205%20-%20Giletti.jpg?alt\u003dmedia\u0026token\u003dd338e74e-9634-4d57-b049-3475b0dc7644",
+          "buttons": [
+            {
+              "text": "Massimo Giletti",
+              "postback": "Massimo Giletti"
+            },
+            {
+              "text": "Bruno Vespa",
+              "postback": "Bruno Vespa"
+            },
+            {
+              "text": "Enrico Mentana",
+              "postback": "Enrico Mentana"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

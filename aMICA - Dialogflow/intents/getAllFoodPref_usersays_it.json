@@ -1,0 +1,874 @@
+[
+  {
+    "id": "bbb7c989-b9f6-4172-ae07-c3ac0190cb5e",
+    "data": [
+      {
+        "text": "cosa ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " posso ",
+        "userDefined": false
+      },
+      {
+        "text": "mangiare",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "414f3d38-9d00-4176-9ae6-9aa01321e327",
+    "data": [
+      {
+        "text": "posso bere in generale?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c917d5c-5372-45c9-9c2e-78fc33969d21",
+    "data": [
+      {
+        "text": "posso bere ",
+        "userDefined": false
+      },
+      {
+        "text": "il vino",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28e988de-c268-4b95-971e-b94224427533",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace il latte?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e2712bb-1463-4052-98e5-c9e3c1475505",
+    "data": [
+      {
+        "text": "la mia colazione",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " preferita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "440fd3b3-6517-4e3a-a4d9-f827ee0b9c25",
+    "data": [
+      {
+        "text": "il mio pranzo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac5a0fbc-ce71-4b8c-a0a1-0730f27dc329",
+    "data": [
+      {
+        "text": "la mia cena",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f67b7992-0175-4921-9b2a-cf58fd4fcfd8",
+    "data": [
+      {
+        "text": "la mia colazione",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7331a067-2467-4a2e-a438-81f3a8da8d0c",
+    "data": [
+      {
+        "text": "la mia cena",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " preferita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "989f3caa-1610-4860-b967-121fbb62c1b1",
+    "data": [
+      {
+        "text": "il mio pranzo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " preferito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7f4641c3-9c76-4bfb-840d-0aba2786412e",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace ",
+        "userDefined": false
+      },
+      {
+        "text": "il cornetto",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9868c631-d234-402a-b278-853808f4703b",
+    "data": [
+      {
+        "text": "cosa preferisco a ",
+        "userDefined": false
+      },
+      {
+        "text": "colazione",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9bf227e7-febd-4a58-b942-26a77954ac0d",
+    "data": [
+      {
+        "text": "cosa preferisco a ",
+        "userDefined": false
+      },
+      {
+        "text": "cena",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e3e093a-42b8-4e8b-ba52-cd3c7bb44d13",
+    "data": [
+      {
+        "text": "cosa preferisco a ",
+        "userDefined": false
+      },
+      {
+        "text": "pranzo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "871f3fb8-5968-44c3-a6f7-b363ef0b8d74",
+    "data": [
+      {
+        "text": "cosa preferisco a tavola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b73c138-4500-4dc2-a209-3b7471e260d5",
+    "data": [
+      {
+        "text": "cibo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04f5ae00-523a-45e4-ac76-e86f24d98202",
+    "data": [
+      {
+        "text": "le mie abitudini mangerecce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09c89820-e40b-4aac-981e-d5a821aec57d",
+    "data": [
+      {
+        "text": "a tavola cosa mangio?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d57ff03-5845-4460-a18f-634126c91d3c",
+    "data": [
+      {
+        "text": "a tavola cosa bevo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b113cae2-1ae1-4589-b1ee-76fd89aabd1c",
+    "data": [
+      {
+        "text": "cosa bevo di solito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "99e79de8-6848-4c2d-aded-a9b5abc2f413",
+    "data": [
+      {
+        "text": "Io bevo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33a879b8-bb56-42e1-a5bc-58f7bf4b3a2a",
+    "data": [
+      {
+        "text": "cosa ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace bere?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f87125b-a4dc-466c-a496-7969cec39601",
+    "data": [
+      {
+        "text": "mangio la carne?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28403e87-7b0d-4f67-90ed-9ca118dd0b19",
+    "data": [
+      {
+        "text": "mangio le rape?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "07cff57d-fcf7-4238-b22d-b91889d9b986",
+    "data": [
+      {
+        "text": "mangio le cipolle?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f309d09-655a-4910-9903-abee7981bbf3",
+    "data": [
+      {
+        "text": "il mio mangiare",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f920a4cb-61ab-4ca7-8ea1-9b90044c316d",
+    "data": [
+      {
+        "text": "cosa mangio di solito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3899d970-1518-48c3-b559-a9d2a6397f13",
+    "data": [
+      {
+        "text": "cosa ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace ",
+        "userDefined": false
+      },
+      {
+        "text": "mangiare",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a10b79cb-467a-481f-8aef-05684a9ff4f8",
+    "data": [
+      {
+        "text": "cosa ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mangio?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2df3b946-a251-4d2c-bb66-7d5bc96cf540",
+    "data": [
+      {
+        "text": "che cibo ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb606421-442e-46fd-8c23-b3152a11b962",
+    "data": [
+      {
+        "text": "di cosa ",
+        "userDefined": false
+      },
+      {
+        "text": "mi cibo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7a7c5318-8811-4bc9-aac4-74f47f1d12a3",
+    "data": [
+      {
+        "text": "di cosa ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nutro?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "32c2f4a2-d8c3-4b7e-9c0e-e58ad3716c97",
+    "data": [
+      {
+        "text": "le mie pietanze preferite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "01f0a151-a2c6-449b-8c73-d364e6ab1c43",
+    "data": [
+      {
+        "text": "il mio cibo preferito per favore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "310359c7-dec1-4bd5-866d-49891d171891",
+    "data": [
+      {
+        "text": "gentilmente ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " diresti i miei cibi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1f67b66-a25c-4ee6-9be2-97629091caaa",
+    "data": [
+      {
+        "text": "per favore i miei piatti preferiti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f128edc2-824c-4a9f-ab61-8102244ddcf1",
+    "data": [
+      {
+        "text": "voglio sapere quali sono i miei piatti preferiti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e8efcdae-2e2d-496c-9096-d5b9b1a94daa",
+    "data": [
+      {
+        "text": "le mie vivande preferite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57f6e113-6f17-4b3a-87dd-41c2a951f40e",
+    "data": [
+      {
+        "text": "le mie pietanze",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d09bbeb5-1db6-4524-be6e-232888891b3a",
+    "data": [
+      {
+        "text": "piatti preferiti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10eb7886-2779-4f85-8557-ed98b21ca788",
+    "data": [
+      {
+        "text": "vivande preferite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66a26eb2-cede-4cd0-8e1b-1b90a63f3f3a",
+    "data": [
+      {
+        "text": "nutrimenti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ddac031-25cb-4cac-a40a-e17e6d6e5291",
+    "data": [
+      {
+        "text": "alimenti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16ac2acd-42b6-404e-a69f-d82c5ea88155",
+    "data": [
+      {
+        "text": "conosci i miei gusti ",
+        "userDefined": false
+      },
+      {
+        "text": "alimentari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4835b044-d62f-4c24-8020-5ec44cfe1f80",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dici i miei gusti sul cibo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "46b9af61-20a3-457c-b9aa-82d8a173c49c",
+    "data": [
+      {
+        "text": "dimmi i miei gusti ",
+        "userDefined": false
+      },
+      {
+        "text": "alimentari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a627f8c6-f6aa-4d33-b996-7493eef2cc8e",
+    "data": [
+      {
+        "text": "dimmi il mio cibo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7366cc81-7416-485f-8886-9768e1312dce",
+    "data": [
+      {
+        "text": "sai cosa mangio?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c5e93c7-df3b-4d26-a7c9-46c3f52d69a0",
+    "data": [
+      {
+        "text": "ricordami il cibo che mangio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4df74304-11d5-49aa-945c-ac988bb1311a",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ricordi i miei gusti ",
+        "userDefined": false
+      },
+      {
+        "text": "alimentari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "752c2f9c-7b9e-45c3-99aa-ba1019072e8a",
+    "data": [
+      {
+        "text": "che gusti ",
+        "userDefined": false
+      },
+      {
+        "text": "alimentari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ho?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c16f3f4-6502-4186-b764-92475153eb11",
+    "data": [
+      {
+        "text": "i miei gusti sul cibo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f2c1612e-a828-4a74-a4a6-3e97800a010b",
+    "data": [
+      {
+        "text": "il mio cibo preferito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19939957-d853-4445-b50d-5856aa03fb9f",
+    "data": [
+      {
+        "text": "i miei gusti ",
+        "userDefined": false
+      },
+      {
+        "text": "alimentari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae986232-4861-4aeb-a67f-7b0d8e78436a",
+    "data": [
+      {
+        "text": "il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "cibo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

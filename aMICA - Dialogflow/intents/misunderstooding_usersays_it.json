@@ -1,0 +1,1111 @@
+[
+  {
+    "id": "0cc25904-e7ec-4326-b00f-bdb6be89edfd",
+    "data": [
+      {
+        "text": "singolare",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41b3fa10-eef7-4053-81d1-04a9f184add7",
+    "data": [
+      {
+        "text": "insolito",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ad4c6a1-7d7f-42c3-9a7f-2d43f7f6b910",
+    "data": [
+      {
+        "text": "particolare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb760dcf-efcf-4d8b-8154-8ad7fe1d15a3",
+    "data": [
+      {
+        "text": "curioso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94eed94b-3272-4efc-99fe-08ca8c40cfa6",
+    "data": [
+      {
+        "text": "bislacco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c99bf22-f1e4-4f31-8ec7-c92ab8d08975",
+    "data": [
+      {
+        "text": "astruso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8795f51c-5477-4fc1-a6ef-09ff4d1b82a0",
+    "data": [
+      {
+        "text": "stravagante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85a9c792-410a-4c19-8af3-337e2cb184d2",
+    "data": [
+      {
+        "text": "diverso",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c07ac7c4-2e88-45d2-9396-25ab6b434e71",
+    "data": [
+      {
+        "text": "strampalato",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6591cd7d-f75f-42c5-813f-6c23078a696d",
+    "data": [
+      {
+        "text": "sei",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " diverso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb8de3da-e946-4fb8-aadb-c0ccf7933808",
+    "data": [
+      {
+        "text": "bizzarro",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ed7ea3d-5166-4c83-92b0-54b6b68f851f",
+    "data": [
+      {
+        "text": "sei",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " strano",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "6ff42f2c-eba0-45cf-b2a8-0abfcd53667b",
+    "data": [
+      {
+        "text": "secondo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " me ",
+        "userDefined": false
+      },
+      {
+        "text": "sei",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " stupido",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "088bf99c-a4fd-4f57-8739-b3ca55da8cf2",
+    "data": [
+      {
+        "text": "secondo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " me non capisci",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "73ac589c-46b4-4bf0-9886-a4cb71578250",
+    "data": [
+      {
+        "text": "secondo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " me ",
+        "userDefined": false
+      },
+      {
+        "text": "sei",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " scemo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3781bc06-d8da-4aa7-925e-fc045a9c535c",
+    "data": [
+      {
+        "text": "capiamoci",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " meglio la prossima volta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa58708c-446d-4ba6-b9bb-19d97b35f4ab",
+    "data": [
+      {
+        "text": "hai le traveggole",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ff758c5b-f0e3-486b-aa5e-87cb23be84d2",
+    "data": [
+      {
+        "text": "le rotelle",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "979fac89-10db-4802-8bcf-4906e66b77cd",
+    "data": [
+      {
+        "text": "sei",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " impazzito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a26db8ea-4c93-4db8-b86e-03abce1e2657",
+    "data": [
+      {
+        "text": "dai",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di matto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cdad4465-c95a-4303-861b-57668f335870",
+    "data": [
+      {
+        "text": "sfarfalli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae399742-45de-41b9-8307-6ea2e92349b0",
+    "data": [
+      {
+        "text": "stai sfarfallando",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "262b4c22-607a-49e1-8784-441c4dbc50d0",
+    "data": [
+      {
+        "text": "numeri al lotto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "634553bb-e97d-4ed6-aba7-bc58036d31d2",
+    "data": [
+      {
+        "text": "i numeri al lotto stai dando",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e807f36c-b01a-4e2a-8363-95a25b255d2e",
+    "data": [
+      {
+        "text": "stai dando i numeri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6aefe4f2-3472-4e4b-be97-520cdfdb433d",
+    "data": [
+      {
+        "text": "dai",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " i numeri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0619192a-bde8-43f5-9509-aba40366ba95",
+    "data": [
+      {
+        "text": "cosa è sto ",
+        "userDefined": false
+      },
+      {
+        "text": "coso",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f940072-13ef-44dd-9eeb-b7b2216d8a21",
+    "data": [
+      {
+        "text": "coso",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd3931a2-7112-4e12-81af-7ec3de3875d8",
+    "data": [
+      {
+        "text": "vafangul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f3ba6ceb-aa80-4c03-99d7-8dbc0a328732",
+    "data": [
+      {
+        "text": "ma che cazzo dici",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eeb71f72-5ea8-42e6-91e6-74d745560e64",
+    "data": [
+      {
+        "text": "oooooo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e2b4771-ae57-4ee1-bf6f-a4999304bd5e",
+    "data": [
+      {
+        "text": "ooooooh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e76edcae-8d9b-45b4-b4b7-15bf9e30064b",
+    "data": [
+      {
+        "text": "cazz disc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b3d01f2-a29b-4602-a761-65db90b46c3e",
+    "data": [
+      {
+        "text": "cavolo fai oh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2aa546c-dd24-4b55-9508-6d3b6915c50a",
+    "data": [
+      {
+        "text": "cos\u0027è sto ",
+        "userDefined": false
+      },
+      {
+        "text": "coso",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64663389-b3f9-4e35-91cf-086a0ba36ca5",
+    "data": [
+      {
+        "text": "dici cose senza senso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8cd3cff7-00e3-42db-85aa-abf3048b114a",
+    "data": [
+      {
+        "text": "che dici",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "998d0f6f-b4e9-4e28-8e7b-0abfd93a9da9",
+    "data": [
+      {
+        "text": "che cavolo dici",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ba27be6d-1f8c-42fd-a7c1-1e30889ef742",
+    "data": [
+      {
+        "text": "ma che dici",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "059f6e23-b31d-496c-a006-6789611d82dc",
+    "data": [
+      {
+        "text": "ma cosa dici",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d231b51f-dd00-4d58-871c-fb337c0aa0b7",
+    "data": [
+      {
+        "text": "ma cosa dici oh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ed7c88a-3781-4ec0-9ac8-b13c61fcc3a4",
+    "data": [
+      {
+        "text": "che altro è mo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9766003f-2bc0-4333-a3e1-a062571e9e08",
+    "data": [
+      {
+        "text": "non te lo ",
+        "userDefined": false
+      },
+      {
+        "text": "ripeto",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "214e3fc0-16f7-4d2d-bf8e-56131bb60390",
+    "data": [
+      {
+        "text": "non ci parlo più con te",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b83e822-df8b-47d1-a6a7-19929a736844",
+    "data": [
+      {
+        "text": "vedi qui che dice questo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c51afc05-f572-4b53-835f-bff12a648ab2",
+    "data": [
+      {
+        "text": "e io che ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " aspettavo ",
+        "userDefined": false
+      },
+      {
+        "text": "di più",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "625b0341-2dc6-4d6d-9545-0119be507d9f",
+    "data": [
+      {
+        "text": "qualunque",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60d4d074-3969-42cc-bccc-ccedc5854871",
+    "data": [
+      {
+        "text": "qualsiasi cosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e2b2b40-1ae4-415e-a008-5066034884ef",
+    "data": [
+      {
+        "text": "qualsiasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f71c6e57-9017-45ae-a725-1eba084b8970",
+    "data": [
+      {
+        "text": "scrivo qualcosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b0e86b7-5574-47e0-b432-5b7da2c4501c",
+    "data": [
+      {
+        "text": "ripeti",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "per",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " favore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "394c6366-77e8-4388-8e09-11d92d33b898",
+    "data": [
+      {
+        "text": "ripeti",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d175ab5f-75dd-45ae-a97e-c7b7135ebf53",
+    "data": [
+      {
+        "text": "scrivo scrivo e niente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "02e191cd-21cc-47c7-a05c-d025786598a1",
+    "data": [
+      {
+        "text": "non funzioni bene",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b41af42-41c8-4834-9f09-d7846335d3c7",
+    "data": [
+      {
+        "text": "non funziona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63c30b85-3c89-437c-a874-a9b0a161698f",
+    "data": [
+      {
+        "text": "ho ben capito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10a4c40f-37dd-46df-ba91-1d1815616f34",
+    "data": [
+      {
+        "text": "non ho capito bene",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fcd07075-404e-4c43-a282-20d42ca6754c",
+    "data": [
+      {
+        "text": "cosa vuoi che ti dica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c545fe9-32a0-4afa-86ac-fe6d4d389ff6",
+    "data": [
+      {
+        "text": "quindi che si fa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "373622c5-ed6a-4431-8f6f-8b72908a7bfc",
+    "data": [
+      {
+        "text": "e quindi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a234c6a3-a67c-4aff-8935-c2e8cc38c4a0",
+    "data": [
+      {
+        "text": "???????????????????????????????????????????????",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "99973b69-9f12-40ec-ab70-3fb6a2fb4b2c",
+    "data": [
+      {
+        "text": "ti rendo ",
+        "userDefined": false
+      },
+      {
+        "text": "pan per focaccia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c75e372e-c8ca-4c77-91d5-47d8e1d7a999",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " rispondi ",
+        "userDefined": false
+      },
+      {
+        "text": "fischi per fiaschi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d17c5db0-cedf-459c-a764-b6790a1aa9a2",
+    "data": [
+      {
+        "text": "cosa ti prende?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a00cc6b3-f537-4e05-bc31-4960b2992b4d",
+    "data": [
+      {
+        "text": "ma cosa stai dicendo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71b22313-3813-4fea-b279-1442d1cf05f4",
+    "data": [
+      {
+        "text": "significa qualcosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e0047af5-4e92-42af-ac8c-128e799d40de",
+    "data": [
+      {
+        "text": "che significa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7cfb929d-a1ac-4de5-8589-710376aee5cb",
+    "data": [
+      {
+        "text": "blablabla",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb56d272-85d4-458e-90a7-0da6b2f9c80d",
+    "data": [
+      {
+        "text": "bla",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ff7e18c9-4bfe-453a-a1f7-26cdf9b39d9e",
+    "data": [
+      {
+        "text": "blabla",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f7958bc8-04d6-40f7-974f-1c31113457d6",
+    "data": [
+      {
+        "text": "blablablabla",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aaf1ce81-7475-4485-afb9-c26bda654491",
+    "data": [
+      {
+        "text": "non capisci niente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65027e33-98a2-4e14-831c-df8e106e20ce",
+    "data": [
+      {
+        "text": "non capisci",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a47a8ff-0c63-4220-ab21-3211691823d3",
+    "data": [
+      {
+        "text": "stai zitto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e031119d-a145-492d-9f67-0a76ab1e8f90",
+    "data": [
+      {
+        "text": "ma capisci?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cc03a460-1923-41c6-91e6-114508d3ca41",
+    "data": [
+      {
+        "text": "lascia perdere",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55bc8c46-2c31-432a-b588-fb277e06b26a",
+    "data": [
+      {
+        "text": "ho mal di schiena",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "924aeef9-f953-40a1-80d7-fe7e8b277e46",
+    "data": [
+      {
+        "text": "non ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " vai bene",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94f5db09-0afe-4515-9afa-7ffbdd4bf724",
+    "data": [
+      {
+        "text": "cosa ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " stai dicendo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f91e3f92-f31e-4a8f-9155-26a0fb494391",
+    "data": [
+      {
+        "text": "ma non va bene",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "f836e1bc-98d5-4579-befe-6b5895a96296",
+  "name": "typeOfTheatrePref",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

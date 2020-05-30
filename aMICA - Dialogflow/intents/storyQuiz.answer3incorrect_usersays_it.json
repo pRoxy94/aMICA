@@ -1,0 +1,31 @@
+[
+  {
+    "id": "2c66f6af-51cf-4f65-a86e-d015b6c3bc50",
+    "data": [
+      {
+        "text": "partì per il militare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f188d236-4c88-46dc-ae4c-5ec92595436b",
+    "data": [
+      {
+        "text": "si sposò con ",
+        "userDefined": false
+      },
+      {
+        "text": "Elisabetta",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

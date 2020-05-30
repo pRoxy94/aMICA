@@ -1,0 +1,137 @@
+{
+  "id": "1a78b3e0-a247-41c8-9608-d3c12c64fca6",
+  "name": "askTherapyType",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "it",
+          "condition": "",
+          "textToSpeech": "Puoi scegliere di aggiungere le terapie in base alla frequenza di assunzione dei farmaci. Se le assumi tutti i giorni scegli \"Giornaliera\", altrimenti se l\u0027assunzione avviene solo alcuni giorni a settimana scegli \"Intervallare\". Che tipologia di terapia vuoi aggiungere? ☺️",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "it",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Giornaliera"
+            },
+            {
+              "title": "Intervallare"
+            },
+            {
+              "title": "Cancella"
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "text": "Che tipologia di terapia vuoi aggiungere?",
+              "reply_markup": {
+                "resize_keyboard": true,
+                "one_time_keyboard": true,
+                "keyboard": [
+                  [
+                    {
+                      "text": "Giornaliera",
+                      "callback_data": "giornaliera"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Intervallare",
+                      "callback_data": "intervallare"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Cancella",
+                      "callback_data": "cancella"
+                    }
+                  ]
+                ]
+              }
+            }
+          }
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Puoi scegliere di aggiungere le terapie in base alla frequenza di assunzione dei farmaci. Se le assumi tutti i giorni scegli \"Giornaliera\", altrimenti se l\u0027assunzione avviene solo alcuni giorni a settimana scegli \"Intervallare\". Che tipologia di terapia vuoi aggiungere? ☺️"
+        },
+        {
+          "type": 4,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "generic",
+                  "elements": [
+                    {
+                      "title": "Giornaliera",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2FtherapyType%2Fdrug.png?alt\u003dmedia\u0026token\u003d2faa482a-ed46-4d9f-92d9-6dff823e5216",
+                      "subtitle": "Dimmi la terapia che segui tutti i giorni",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Aggiungi",
+                          "payload": "giornaliera"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Intervallare",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2FtherapyType%2Finfusion.png?alt\u003dmedia\u0026token\u003d326f26ae-b9de-4c12-b8fc-287d99fc8be0",
+                      "subtitle": "Dimmi la terapia che segui a giorni alterni",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Aggiungi",
+                          "payload": "intervallare"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 750000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

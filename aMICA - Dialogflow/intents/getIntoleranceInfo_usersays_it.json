@@ -1,0 +1,101 @@
+[
+  {
+    "id": "df3e02f9-b345-47fe-8c9a-e98aae91f7e4",
+    "data": [
+      {
+        "text": "voglio sapere se sono intollerante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "58135da6-3438-4473-aed3-7f6b10e6de9e",
+    "data": [
+      {
+        "text": "sono intollerante a qualcosa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8658fa3a-604d-4f67-a503-602d7bd2c7c6",
+    "data": [
+      {
+        "text": "dimmi a cosa sono intollerante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "75275310-c6f8-4cb6-8109-9d6bcea5189a",
+    "data": [
+      {
+        "text": "dimmi le mie intolleranze",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4172f35-8076-4322-8fd1-47c9fb51413a",
+    "data": [
+      {
+        "text": "a cosa sono ",
+        "userDefined": false
+      },
+      {
+        "text": "intollerante",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b6be66c-9454-4fcb-8bf6-687296e9c5c4",
+    "data": [
+      {
+        "text": "quali sono le mie ",
+        "userDefined": false
+      },
+      {
+        "text": "intolleranze",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c31570e-ee87-42f4-9828-298a456d2dc2",
+    "data": [
+      {
+        "text": "le mie ",
+        "userDefined": false
+      },
+      {
+        "text": "intolleranze",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

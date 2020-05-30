@@ -1,0 +1,62 @@
+{
+  "id": "c4c16d0e-a904-4cec-808b-7cbe3be633ca",
+  "name": "storyQuiz2.answer1correct",
+  "auto": true,
+  "contexts": [
+    "storyQuiz2_await_answer1"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "storyQuiz2_await_answer2",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Corretto! ☺️ Passiamo alla prossima domanda."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Domanda 2",
+          "subtitle": "Dove fu portata Restituita?",
+          "buttons": [
+            {
+              "text": "istituto S. Chiara",
+              "postback": "istituito S. Chiara"
+            },
+            {
+              "text": "palazzo della Cuba",
+              "postback": "palazzo della Cuba"
+            },
+            {
+              "text": "casa Monreale",
+              "postback": "casa Monreale"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

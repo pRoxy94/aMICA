@@ -1,0 +1,103 @@
+[
+  {
+    "id": "17851897-6a8d-459b-9ff3-7e4f9cdec537",
+    "data": [
+      {
+        "text": "dammi le liste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b348026-cebf-401b-a7cb-560eb97981ce",
+    "data": [
+      {
+        "text": "dammi le mie lliste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a1806c4f-a2f4-409a-8823-5e5d31f7e349",
+    "data": [
+      {
+        "text": "dammi la mia lista",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b688ea61-e1d2-4fe6-bc32-ac9f09fb56b6",
+    "data": [
+      {
+        "text": "ricordami le mie liste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4bb04bfd-d2aa-4361-a971-2f4d399dd93e",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ricordi le liste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18224f73-4ceb-45e7-abd9-2518e7192f94",
+    "data": [
+      {
+        "text": "ho delle liste?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74b429f4-1381-4e6c-9eaa-425be489a838",
+    "data": [
+      {
+        "text": "quali sono le mie liste?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3d67c502-4534-40a4-af27-4793f077b46d",
+    "data": [
+      {
+        "text": "le mie liste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

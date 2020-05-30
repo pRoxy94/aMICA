@@ -1,0 +1,92 @@
+{
+  "id": "ac170add-fd0c-4c5d-b258-3226437c08ef",
+  "name": "gymQuiz",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "gymQuiz_await_answer1",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "speech": "Bene, cominciamo! Ricordati che puoi terminare l\u0027allenamento in qualsiasi momento scrivendo \"cancella\"."
+        },
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "parse_mode": "Markdown",
+              "text": "[Clicca per ingrandire](https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/esercizi%2Fexercise1.gif?alt\u003dmedia\u0026token\u003d734ed349-8a70-4986-aaeb-ebb281292931)"
+            }
+          }
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "title": "Sei riuscito a svolgere l\u0027esercizio?",
+          "replies": [
+            "Ce l\u0027ho fatta",
+            "Non ce l\u0027ho fatta"
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Bene, cominciamo! Ricordati che puoi terminare l\u0027allenamento in qualsiasi momento scrivendo \"cancella\"."
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/esercizi%2Flivello%201%2Fgym2.1.gif?alt\u003dmedia\u0026token\u003d8dc9e581-8791-46cf-b3ae-893fb64996fe"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Esercizio 1",
+          "buttons": [
+            {
+              "text": "Ce l\u0027ho fatta",
+              "postback": "Ce l\u0027ho fatta"
+            },
+            {
+              "text": "Non ce l\u0027ho fatta",
+              "postback": "Non ce l\u0027ho fatta"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

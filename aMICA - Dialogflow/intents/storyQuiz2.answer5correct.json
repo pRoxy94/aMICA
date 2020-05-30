@@ -1,0 +1,40 @@
+{
+  "id": "a3ade4fa-5682-47c8-bde7-e305ae1591f9",
+  "name": "storyQuiz2.answer5correct",
+  "auto": true,
+  "contexts": [
+    "storyQuiz2_await_answer5"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "storyQuiz2_endQuiz",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Ottimo, è la risposta corretta! Il quiz è terminato, ci vediamo al prossimo allenamento. ☺️"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

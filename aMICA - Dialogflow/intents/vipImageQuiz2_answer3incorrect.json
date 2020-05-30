@@ -1,0 +1,110 @@
+{
+  "id": "c9137fca-4816-43e4-934c-88339a68c611",
+  "name": "vipImageQuiz2_answer3incorrect",
+  "auto": true,
+  "contexts": [
+    "vipImageQuiz2_await_answer3"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "vipImageQuiz2_await_answer4",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "3bcbec8c-87b3-4378-9b84-f63a517091de",
+          "required": false,
+          "dataType": "@typeOfVips",
+          "name": "quiz_vip",
+          "value": "$quiz_vip",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "speech": "Mi dispiace, era Luciano Pavarotti! Passiamo al prossimo volto!"
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "title": "Di chi tratta?",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/facce%2Fbongiorno.jpg?alt\u003dmedia\u0026token\u003d17f96a8f-18ff-4b0c-bf14-7d4588923978",
+          "buttons": [
+            {
+              "text": "Mike Bongiorno",
+              "postback": "Mike Bongiorno"
+            },
+            {
+              "text": "Tot�",
+              "postback": "Tot�"
+            },
+            {
+              "text": "Lino Banfi",
+              "postback": "Lino Banfi"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Mi dispiace, era Pippo Baudo! Passiamo al prossimo volto."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Di chi si tratta?",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/facce%2FvipImageQuiz2%2Fiva-zanicchi.jpg?alt\u003dmedia\u0026token\u003d03629594-a74d-43b2-a889-e98946099c82",
+          "buttons": [
+            {
+              "text": "Stefania Sandrelli",
+              "postback": "Stefania Sandrelli"
+            },
+            {
+              "text": "Iva Zanicchi",
+              "postback": "Iva Zanicchi"
+            },
+            {
+              "text": "Romina Power",
+              "postback": "Romina Power"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

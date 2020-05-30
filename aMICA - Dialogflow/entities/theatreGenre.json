@@ -1,0 +1,9 @@
+{
+  "id": "bafa23b3-fc7a-448a-b203-ebc0308f05a5",
+  "name": "theatreGenre",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,474 @@
+[
+  {
+    "id": "52a0b863-e9c8-48c0-a262-5d9bbeb6e7cb",
+    "data": [
+      {
+        "text": "cosa prendo ",
+        "userDefined": false
+      },
+      {
+        "text": "oggi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di medicine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6a064764-d4b9-47e8-a410-15d11c270949",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ricordi che pillole prendo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4507c1ae-7876-4e3f-9e21-20930259bad9",
+    "data": [
+      {
+        "text": "oggi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cosa prendo di pillole?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22ec9ad7-9af5-43cd-ba4b-79693a605e26",
+    "data": [
+      {
+        "text": "le pillole di ",
+        "userDefined": false
+      },
+      {
+        "text": "oggi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quali sono?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5c94f92-7bb0-40fb-ad01-16c8be0fda70",
+    "data": [
+      {
+        "text": "le mie assunzioni quotidiane",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d6e85f6-ceb3-440e-88dd-f8aea92b2a28",
+    "data": [
+      {
+        "text": "le mie assunzioni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7800a346-d1a5-4ebd-b544-ddf2cd7755f0",
+    "data": [
+      {
+        "text": "cosa assumo ogni giorno?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "7c1f3446-5dbd-445d-b89a-9f4aeca1c0fb",
+    "data": [
+      {
+        "text": "dopo ",
+        "userDefined": false
+      },
+      {
+        "text": "colazione",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " che prendo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "30514e45-b421-415a-8bcb-50fa00df2263",
+    "data": [
+      {
+        "text": "dopo pranzo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " che prendo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b33a415-10dc-40cc-88e4-1fbf32b083ff",
+    "data": [
+      {
+        "text": "dopo ",
+        "userDefined": false
+      },
+      {
+        "text": "cena",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " che prendo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91f8211c-8281-4a7c-9bce-573f6f98dfd4",
+    "data": [
+      {
+        "text": "che pillole prendi a ",
+        "userDefined": false
+      },
+      {
+        "text": "mezzogiorno",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11625f7e-b6d6-4e8f-a01e-90f6459eaf9b",
+    "data": [
+      {
+        "text": "che pillole devo prendere ",
+        "userDefined": false
+      },
+      {
+        "text": "stasera",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e59b3f0-48c5-4bc3-8cea-46d1aed4d9ea",
+    "data": [
+      {
+        "text": "che pillole devo prendere ",
+        "userDefined": false
+      },
+      {
+        "text": "stamattina",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc633b9f-3845-4aef-bdb9-d9f506bb5113",
+    "data": [
+      {
+        "text": "che pillole devo prendere ",
+        "userDefined": false
+      },
+      {
+        "text": "oggi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f53b8322-1031-4726-aa1a-94cddb93b14f",
+    "data": [
+      {
+        "text": "i farmaci di ",
+        "userDefined": false
+      },
+      {
+        "text": "oggi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5af819a6-20cd-4b98-a7c7-866c798fd42b",
+    "data": [
+      {
+        "text": "le terapie di ",
+        "userDefined": false
+      },
+      {
+        "text": "oggi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "182c2c26-d793-47a8-8c1e-fa9c0ff17ddb",
+    "data": [
+      {
+        "text": "oggi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " prendo quali medicine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61be423f-dc0b-45e0-93b7-6c850436392a",
+    "data": [
+      {
+        "text": "le medicine di quest\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "oggi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "929af75b-37d8-46fd-b36e-b8c3dd43f7cf",
+    "data": [
+      {
+        "text": "oggi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " che medicine prendo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de0ac333-e632-4ff5-a095-b1529cddfb92",
+    "data": [
+      {
+        "text": "voglio sapere cosa devo prendere ",
+        "userDefined": false
+      },
+      {
+        "text": "oggi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8dd05509-b0de-4455-866d-c6503a5cbb30",
+    "data": [
+      {
+        "text": "medicine di ",
+        "userDefined": false
+      },
+      {
+        "text": "oggi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c849d2a-fdea-4e7c-9e19-919df0a03e26",
+    "data": [
+      {
+        "text": "terapia ",
+        "userDefined": false
+      },
+      {
+        "text": "del giorno",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "592ada7a-1225-403b-88cc-9e95bd3c3080",
+    "data": [
+      {
+        "text": "terapie giornaliere",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a40d4b43-21a3-4083-a407-8557a4548336",
+    "data": [
+      {
+        "text": "quali sono le mie terapie giornaliere?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c4733e8-f66d-425d-979d-8b3ce49e7a7e",
+    "data": [
+      {
+        "text": "seguo terapie giornaliere?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c2a0fccc-9dfe-45c7-8ea3-26ec93274205",
+    "data": [
+      {
+        "text": "giornaliere",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e1f19b0-ee6a-4baf-b55d-5ae5fa1a5736",
+    "data": [
+      {
+        "text": "le mie terapie giornaliere",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89c0abaa-e8d9-42f0-a58d-4b0a6386c707",
+    "data": [
+      {
+        "text": "Che ",
+        "userDefined": false
+      },
+      {
+        "text": "pillole",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " devo prendere?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

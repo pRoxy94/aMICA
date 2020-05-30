@@ -1,0 +1,88 @@
+{
+  "id": "3c42b1ed-da3a-401c-8d3f-9aabc1a9dc42",
+  "parentId": "73a6e06a-d922-4b0c-9aa3-811b5ed68ada",
+  "rootParentId": "73a6e06a-d922-4b0c-9aa3-811b5ed68ada",
+  "name": "askMemoriesInfo - laterPhoto",
+  "auto": true,
+  "contexts": [
+    "askMemoriesInfo-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "askMemoriesInfo.askMemoriesInfo-later",
+      "affectedContexts": [
+        {
+          "name": "askMemoriesInfo-laterPhoto-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "text": "Certo. Vuoi aggiungere altri ricordi?",
+              "reply_markup": {
+                "resize_keyboard": true,
+                "one_time_keyboard": true,
+                "keyboard": [
+                  [
+                    {
+                      "text": "Ricordi",
+                      "callback_data": "ricordi"
+                    }
+                  ],
+                  [
+                    {
+                      "callback_data": "più tardi",
+                      "text": "Più tardi"
+                    },
+                    {
+                      "text": "No grazie",
+                      "callback_data": "no grazie"
+                    },
+                    {
+                      "text": "Cancella",
+                      "callback_data": "cancella"
+                    }
+                  ]
+                ]
+              }
+            }
+          }
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Certo. Vuoi aggiungere altri ricordi?",
+          "replies": [
+            "Ricordi",
+            "Più tardi",
+            "No grazie",
+            "Cancella"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 750000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

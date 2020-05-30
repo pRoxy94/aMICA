@@ -1,0 +1,94 @@
+{
+  "id": "b1b1a50a-2773-44c0-b9db-dcbe3c789605",
+  "name": "askTheatreGenre",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "reply_markup": {
+                "resize_keyboard": true,
+                "one_time_keyboard": true,
+                "keyboard": [
+                  [
+                    {
+                      "text": "Commedia Teatrale",
+                      "callback_data": "commedia teatrale"
+                    },
+                    {
+                      "text": "Musical",
+                      "callback_data": "musical"
+                    }
+                  ],
+                  [
+                    {
+                      "callback_data": "tragedia",
+                      "text": "Tragedia"
+                    },
+                    {
+                      "text": "Opera Lirica",
+                      "callback_data": "opera lirica"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Commedia Dell\u0027Arte",
+                      "callback_data": "commedia dell\u0027arte"
+                    },
+                    {
+                      "text": "Teatro Dell\u0027Assurdo",
+                      "callback_data": "teatro dell\u0027assurdo"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Cancella",
+                      "callback_data": "cancella"
+                    }
+                  ]
+                ]
+              },
+              "text": "Che genere teatrale preferisci?"
+            }
+          }
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Che genere teatrale preferisci?",
+          "replies": [
+            "Commedia Teatrale",
+            "Musical",
+            "Tragedia",
+            "Opera Lirica",
+            "Commedia Dell\u0027Arte",
+            "Teatro Dell\u0027Assurdo",
+            "Cancella"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

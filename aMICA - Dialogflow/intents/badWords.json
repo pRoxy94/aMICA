@@ -1,0 +1,34 @@
+{
+  "id": "8036e895-19d2-4b66-89ea-f1061a42a16a",
+  "name": "badWords",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": [
+            "L\u0027indifferenza è la miglior arma contro le offese. Cercherò di migliorare giorno dopo giorno!",
+            "Non dovresti pronunciare queste parole.. per questa volta farò finta di non aver sentito!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

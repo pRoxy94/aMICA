@@ -1,0 +1,49 @@
+{
+  "id": "42cc8e36-88fd-434f-b6b5-6039aa310109",
+  "name": "gymQuiz3.answer5correct",
+  "auto": true,
+  "contexts": [
+    "gymQuiz3_await_answer5"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "gymQuiz3_endQuiz",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "speech": "Ottimo! Per oggi abbiamo finito, ci sentiamo al prossimo allenamento."
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Ottimo! Per oggi abbiamo finito, ci sentiamo al prossimo allenamento."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,60 @@
+[
+  {
+    "value": "lunedì",
+    "synonyms": [
+      "lunedì",
+      "primo giorno della settimana",
+      "lun"
+    ]
+  },
+  {
+    "value": "martedì",
+    "synonyms": [
+      "martedì",
+      "secondo giorno della settimana",
+      "mar"
+    ]
+  },
+  {
+    "value": "mercoledì",
+    "synonyms": [
+      "mercoledì",
+      "terzo giorno della settimana",
+      "merc",
+      "mer"
+    ]
+  },
+  {
+    "value": "giovedì",
+    "synonyms": [
+      "giovedì",
+      "quarto giorno della settimana",
+      "gio"
+    ]
+  },
+  {
+    "value": "venerdì",
+    "synonyms": [
+      "venerdì",
+      "quinto giorno della settimana",
+      "ven"
+    ]
+  },
+  {
+    "value": "sabato",
+    "synonyms": [
+      "sabato",
+      "sesto giorno della settimana",
+      "sab"
+    ]
+  },
+  {
+    "value": "domenica",
+    "synonyms": [
+      "domenica",
+      "ultimo giorno della settimana",
+      "settimo giorno della settimana",
+      "dom"
+    ]
+  }
+]

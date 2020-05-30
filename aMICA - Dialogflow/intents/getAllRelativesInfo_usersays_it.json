@@ -1,0 +1,70 @@
+[
+  {
+    "id": "7b075216-ed8f-4455-9488-7f8513408b5a",
+    "data": [
+      {
+        "text": "la mia ",
+        "userDefined": false
+      },
+      {
+        "text": "famiglia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb2d2236-f605-450a-8a59-4f2c0a74f1ea",
+    "data": [
+      {
+        "text": "chi sono i miei ",
+        "userDefined": false
+      },
+      {
+        "text": "parenti",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5caa6c2a-ada8-4825-a102-ba469860c09c",
+    "data": [
+      {
+        "text": "dammi informazioni sui miei ",
+        "userDefined": false
+      },
+      {
+        "text": "parenti",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2fe6d2f2-eb05-426a-a7d4-55fbb1789997",
+    "data": [
+      {
+        "text": "I miei ",
+        "userDefined": false
+      },
+      {
+        "text": "parenti",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

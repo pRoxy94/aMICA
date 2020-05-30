@@ -1,0 +1,111 @@
+{
+  "id": "d3cb4c04-cc88-4b9d-9cf0-306306edb56c",
+  "name": "askMovieGenre",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "text": "Che genere di film guardi?",
+              "reply_markup": {
+                "one_time_keyboard": true,
+                "keyboard": [
+                  [
+                    {
+                      "callback_data": "commedia",
+                      "text": "Commedia"
+                    },
+                    {
+                      "text": "Documentario",
+                      "callback_data": "documentario"
+                    },
+                    {
+                      "text": "Storico",
+                      "callback_data": "storico"
+                    },
+                    {
+                      "text": "Western",
+                      "callback_data": "western"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Telenovelas",
+                      "callback_data": "telenovelas"
+                    },
+                    {
+                      "text": "Azione",
+                      "callback_data": "azione"
+                    },
+                    {
+                      "text": "Fantascienza",
+                      "callback_data": "fantascienza"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Animazione",
+                      "callback_data": "animazione"
+                    },
+                    {
+                      "text": "Thriller",
+                      "callback_data": "thriller"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Cancella",
+                      "callback_data": "cancella"
+                    }
+                  ]
+                ],
+                "resize_keyboard": true
+              }
+            }
+          }
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Che genere di film guardi?",
+          "replies": [
+            "Commedia",
+            "Documentario",
+            "Storico",
+            "Western",
+            "Telenovelas",
+            "Azione",
+            "Fantascienza",
+            "Animazione",
+            "Thriller",
+            "Cancella"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

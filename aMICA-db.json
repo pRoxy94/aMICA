@@ -1,0 +1,420 @@
+{
+  "esercizi" : {
+    "musica" : {
+      "musica_1" : {
+        "domande" : [ {
+          "domanda" : "Chi canta questa canzone?",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/songMusicQuiz%2F1)%20Tony%20Dallara%20-%20Come%20prima.mp3?alt=media&token=a9174304-faba-481e-bc42-8bf3a8698bf4",
+          "rispostaCorretta" : "Tony Dallara",
+          "risposteSbagliate" : [ "Gianni Morandi", "Iva Zanicchi" ]
+        }, {
+          "domanda" : "Chi è il cantante di questa canzone?",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/songMusicQuiz%2F2)%20Mina%20-%20Stessa%20spiaggia%20stesso%20mare.mp3?alt=media&token=c1ebad41-e122-4c4f-a2d6-b3e7aee74c5c",
+          "rispostaCorretta" : "Mina",
+          "risposteSbagliate" : [ "Carmen Villani", "Claudio Baglioni" ]
+        }, {
+          "domanda" : "Chi è il cantante di questa canzone?",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/songMusicQuiz%2F3)%20Rita%20Pavone%20-%20Datemi%20Un%20Martello.mp3?alt=media&token=28f2c815-b6ba-43ee-949a-a6058859c1d6",
+          "rispostaCorretta" : "Rita Pavone",
+          "risposteSbagliate" : [ "Fiorella Mannoia", "Raffaella Carrà" ]
+        }, {
+          "domanda" : "Chi canta questa canzone?",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/songMusicQuiz%2F4)%20Raimondo%20Vianello%20-%20Abbronzatissima.mp3?alt=media&token=1a674f1e-32b3-41a7-ba17-18500b499798",
+          "rispostaCorretta" : "Raimondo Vianello",
+          "risposteSbagliate" : [ "Massimo Ranieri", "Fred Bongusto" ]
+        }, {
+          "domanda" : "Chi canta questa canzone?",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/songMusicQuiz%2F5)%20Adriano%20Celentano%20-%2024000%20baci.mp3?alt=media&token=544086f0-fbe4-4fe5-aeda-dceb00ee08a9",
+          "rispostaCorretta" : "Adriano Celentano",
+          "risposteSbagliate" : [ "Lucio Dalla", "Lucio Battisti" ]
+        } ]
+      },
+      "musica_2" : {
+        "domande" : [ {
+          "domanda" : "Chi canta questa canzone?",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/songMusicQuiz%2F2%20-%201%20-%20Adriano%20Celentano-Ragazzo%20della%20via%20gluck.mp3?alt=media&token=2fd5c563-ea0d-4ff5-b64e-b2fd29d14395",
+          "rispostaCorretta" : "Adriano Celentano",
+          "risposteSbagliate" : [ "Francesco Guccini", "Gianni Meccia" ]
+        }, {
+          "domanda" : "Chi canta questa canzone?",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/songMusicQuiz%2F2%20-%202%20-%20Johnny%20Dorelli%20-%20La%20Bomba%20(1970).mp3?alt=media&token=b29812e5-2547-4f04-a809-65f6e2a411ef",
+          "rispostaCorretta" : "Johnny Dorelli",
+          "risposteSbagliate" : [ "Nico Fidenco", "Gianni Nazzaro" ]
+        }, {
+          "domanda" : "Chi canta questa canzone?",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/songMusicQuiz%2F2%20-%203%20-%20Mina%20-%20Una%20zebra%20a%20pois.mp3?alt=media&token=5a4e1af4-c423-4202-acf4-da557e18a1a4",
+          "rispostaCorretta" : "Mina",
+          "risposteSbagliate" : [ "Louiselle", "Maria Monti" ]
+        }, {
+          "domanda" : "Chi canta questa canzone?",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/songMusicQuiz%2F2%20-%204%20-%20rose%20rosse%20-%20massimo%20ranieri.mp3?alt=media&token=0f225ac4-18f5-4ab3-a962-42f5ee26b3ae",
+          "rispostaCorretta" : "Massimo Ranieri",
+          "risposteSbagliate" : [ "Nicola Di Bari", "Paolo Mengoli" ]
+        }, {
+          "domanda" : "Chi canta questa canzone?",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/songMusicQuiz%2F2%20-%205%20-%20Rosanna%20Fratello%20-%20Sono%20Una%20Donna%20Non%20Sono%20Una%20Santa%20(1971).mp3?alt=media&token=1c906b2f-73cd-4809-becd-1b68224daa87",
+          "rispostaCorretta" : "Rosanna Fratello",
+          "risposteSbagliate" : [ "Ombretta Colli", "Orietta Berti" ]
+        } ]
+      },
+      "musica_3" : {
+        "domande" : [ {
+          "domanda" : "Chi canta questa canzone?",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/songMusicQuiz%2F3%20-%202%20-%20Renato%20Carosone%20-%20Tu%20Vuo%CC%80%20Fa'%20L'Americano.mp3?alt=media&token=1fb1db1c-fa88-4e12-8af4-d466fa345bac",
+          "rispostaCorretta" : "Renato Carosone",
+          "risposteSbagliate" : [ "Amedeo Minghi", "Albano Carrisi" ]
+        }, {
+          "domanda" : "Chi canta questa canzone?",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/songMusicQuiz%2F3%20-%203%20-%20Eri%20Piccola%20Cosi%CC%80%20-%20Fred%20Buscaglione.mp3?alt=media&token=be2e815f-d58d-4375-a52a-2526ddbaa697",
+          "rispostaCorretta" : "Fred Buscaglione",
+          "risposteSbagliate" : [ "Christian", "Gipo Farassino" ]
+        }, {
+          "domanda" : "Chi canta questa canzone?",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/songMusicQuiz%2F3%20-%204%20-%20Arrivederci%20Roma%20-%20Renato%20Rascel%20-.mp3?alt=media&token=5316950c-f8b5-4a65-b3e8-3e6533c37284",
+          "rispostaCorretta" : "Renato Rascel",
+          "risposteSbagliate" : [ "Mino Reitano", "Luigi Tenco" ]
+        }, {
+          "domanda" : "Chi canta questa canzone?",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/songMusicQuiz%2F3%20-%201%20-%20Adriano%20Celentano%20-%20Il%20tuo%20bacio%20e%20come%20un%20rock%20(1959).mp3?alt=media&token=8066fa4c-29ca-4d01-900d-53f8182f6a73",
+          "rispostaCorretta" : "Adriano Celentano",
+          "risposteSbagliate" : [ "Ron", "Gino Paoli" ]
+        }, {
+          "domanda" : "Chi canta questa canzone?",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/songMusicQuiz%2F3%20-%205%20-%20Little%20Tony%20-%20Cuore%20Matto.mp3?alt=media&token=d41d12d5-a976-4932-9aaa-8547a067bee0",
+          "rispostaCorretta" : "Little Tony",
+          "risposteSbagliate" : [ "Pino Calvi", "Fred Bongusto" ]
+        } ]
+      }
+    },
+    "storie" : {
+      "Elisabetta_tre_fratelli" : {
+        "domande" : [ {
+          "domanda" : "Quanti erano i fratelli?",
+          "rispostaCorretta" : "tre",
+          "risposteSbagliate" : [ "uno", "cinque" ]
+        }, {
+          "domanda" : "Come si chiamava la minore?",
+          "rispostaCorretta" : "Elisabetta",
+          "risposteSbagliate" : [ "Giulia", "Maria" ]
+        }, {
+          "domanda" : "Cosa capitò a Lorenzo?",
+          "rispostaCorretta" : "fu ucciso dai tre fratelli",
+          "risposteSbagliate" : [ "si sposò con Elisabetta", "partì per il militare" ]
+        }, {
+          "domanda" : "Cosa fece Elisabetta quando vide che Lorenzo era morto?",
+          "rispostaCorretta" : "mise la sua testa nel vaso",
+          "risposteSbagliate" : [ "uccise i tre fratelli", "scappò da Messina" ]
+        }, {
+          "domanda" : "Come finisce la storia?",
+          "rispostaCorretta" : "Elisabetta muore",
+          "risposteSbagliate" : [ "Elisabetta uccide i fratelli", "Elisabetta scappa a Napoli" ]
+        } ],
+        "testo" : "Nella città di Messina vi abitavano tre fratelli, ricchi mercanti, con la sorella minore Elisabetta, fanciulla molto bella non ancora maritata. Questa si innamorò di un giovane di nome Lorenzo che lavorava presso il fondaco dei tre fratelli. Anche Lorenzo si innamorò di Elisabetta e i due incominciarono a frequentarsi segretamente. Il fratello maggiore accortosi della relazione né parlò agli altri due fratelli e tutti e tre, dopo aver portato Lorenzo in luogo solitario lo uccisero e lo seppellirono. Una notte comparve in sogno a Elisabetta Lorenzo che le dice di essere stato ucciso dai suoi fratelli e le rivelò dove era seppellito. La fanciulla vi si recò, scavò e tagliò la testa dal corpo che dopo averla fasciata mise in un vaso e ricoprì di terra e vi piantò delle piante. Spesso la fanciulla riversava lacrime sul vaso e i fratelli avvertiti dai vicini, le tolsero il vaso e scoperta la testa la sotterrarono. Dopo i tre fratelli partirono per Napoli affinché non si sapesse la storia e la sorella continuando a versare lacrime morì."
+      },
+      "Giustificata_Gianni" : {
+        "domande" : [ {
+          "domanda" : "Dove viveva Bulgaro?",
+          "rispostaCorretta" : "Ischia",
+          "risposteSbagliate" : [ "Bolzano", "Trento" ]
+        }, {
+          "domanda" : "Dove fu portata Restituita?",
+          "rispostaCorretta" : "palazzo della Cuba",
+          "risposteSbagliate" : [ "istituto S. Chiara", "casa Monreale" ]
+        }, {
+          "domanda" : "Come si chiamava l'ammiraglio?",
+          "rispostaCorretta" : "Ruggeri di Lauria",
+          "risposteSbagliate" : [ "Oberto Doria", "Horatio Nelson" ]
+        }, {
+          "domanda" : "A cosa furono condannati?",
+          "rispostaCorretta" : "al rogo",
+          "risposteSbagliate" : [ "alla prigione", "all'espatrio" ]
+        }, {
+          "domanda" : "Cosa faceva Gianni per vedere Restituita?",
+          "rispostaCorretta" : "nuotava fino a Ischia",
+          "risposteSbagliate" : [ "la spiava", "dormiva per strada" ]
+        } ],
+        "testo" : "Nell'isola di Ischia viveva Marin Bulgaro con la sua bellissima figlia Restituita. Gianni, abitante di Procida si innamorò perdutamente della bella Restituita e andava tutti i giorni a Ischia persino a nuoto pur di vederla. Un giorno però ella venne rapita da un gruppo di ragazzi che la portarono al re Federigo d'Aragona che la chiuse nel palazzo arabo-normanno che ha nome Cuba. Sulle tracce della donna amata, Gianni arrivò a Palermo e intravide Restituita dietro una finestra del palazzo. Durante la notte Federigo scoprì i due amanti addormentati e ordinò che fossero legati ed esposti nudi sulla pubblica piazza, prima di essere arsi vivi. Grazie alla testimonianza dell'ammiraglio Ruggeri di Lauria, i due giovani furono perdonati, perché identificati come il nipote di Gian di Procida, un partigiano degli Aragonesi e uno dei capi della rivolta dei Vespri (1282), e come la figlia del famoso Marin Bòlgaro."
+      }
+    },
+    "terapieMotorie" : {
+      "scheda1_facile" : {
+        "domande" : [ {
+          "domanda" : "Esercizio 1",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/imagesQuiz%2Fgym2.1.gif?alt=media&token=5c2249f1-0d02-4bcf-a607-118e521802a7",
+          "rispostaCorretta" : "Ce l'ho fatta",
+          "risposteSbagliate" : [ "Non ce l'ho fatta" ]
+        }, {
+          "domanda" : "Esercizio 2",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/imagesQuiz%2Fgym2.7.gif?alt=media&token=f3942f1b-8224-4a82-becf-700539bd4a89",
+          "rispostaCorretta" : "Ci sono riuscito",
+          "risposteSbagliate" : [ "Non ci sono riuscito" ]
+        }, {
+          "domanda" : "Esercizio 3",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/imagesQuiz%2Fgym4.gif?alt=media&token=e03896e3-aa91-499e-8855-1f7a6607c250",
+          "rispostaCorretta" : "Fatto",
+          "risposteSbagliate" : [ "Niente da fare" ]
+        }, {
+          "domanda" : "Esercizio 4",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/imagesQuiz%2Fgym7.gif?alt=media&token=2eefb39e-5ac7-40eb-906d-a61f5a8afa2b",
+          "rispostaCorretta" : "Ce l'ho fatta",
+          "risposteSbagliate" : [ "Non ce l'ho fatta" ]
+        }, {
+          "domanda" : "Esercizio 5",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/imagesQuiz%2Fgym2.gif?alt=media&token=9b303499-b721-4879-934f-e73920674512",
+          "rispostaCorretta" : "Ci sono riuscito",
+          "risposteSbagliate" : [ "Non ci sono riuscito" ]
+        } ]
+      },
+      "scheda2_media" : {
+        "domande" : [ {
+          "domanda" : "Esercizio 1",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/imagesQuiz%2Fgym2.3.gif?alt=media&token=9866ec2a-9d34-40e3-99a6-ecf0833202b7",
+          "rispostaCorretta" : "Ce l'ho fatta",
+          "risposteSbagliate" : [ "Non ce l'ho fatta" ]
+        }, {
+          "domanda" : "Esercizio 2",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/imagesQuiz%2Fgyyym.squathops.gif?alt=media&token=c54353ff-d1e0-4cf1-bad4-b4bd0250cd07",
+          "rispostaCorretta" : "Ci sono riuscito",
+          "risposteSbagliate" : [ "Non ci sono riuscito" ]
+        }, {
+          "domanda" : "Esercizio 3",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/imagesQuiz%2Fgym2.10.gif?alt=media&token=c92ff54b-7498-4cd9-9a82-2a958617cd9e",
+          "rispostaCorretta" : "Fatto",
+          "risposteSbagliate" : [ "Niente da fare" ]
+        }, {
+          "domanda" : "Esercizio 4",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/imagesQuiz%2Fgym33.gif?alt=media&token=19b7e9dd-61b8-4684-a4bc-0cbf57b3c3a5",
+          "rispostaCorretta" : "Ce l'ho fatta",
+          "risposteSbagliate" : [ "Non ce l'ho fatta" ]
+        }, {
+          "domanda" : "Esercizio 5",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/imagesQuiz%2Fgym2.9.gif?alt=media&token=691ff7cc-a9e0-48bb-97af-31119b3cf241",
+          "rispostaCorretta" : "Ci sono riuscito",
+          "risposteSbagliate" : [ "Non ci sono riuscito" ]
+        } ]
+      },
+      "scheda3_difficile" : {
+        "domande" : [ {
+          "domanda" : "Esercizio 1",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/imagesQuiz%2Fgym222.gif?alt=media&token=fc69b11a-e9d2-455f-80a5-61a80a609e83",
+          "rispostaCorretta" : "Ce l'ho fatta",
+          "risposteSbagliate" : [ "Non ce l'ho fatta" ]
+        }, {
+          "domanda" : "Esercizio 2",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/imagesQuiz%2Fgym2.8.gif?alt=media&token=5700dd5b-b14e-4214-9374-3d0424990bb1",
+          "rispostaCorretta" : "Ci sono riuscito",
+          "risposteSbagliate" : [ "Non ci sono riuscito" ]
+        }, {
+          "domanda" : "Esercizio 3",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/imagesQuiz%2Fgym7.gif?alt=media&token=73618f2a-9606-4e62-b8a9-efd16191c4b9",
+          "rispostaCorretta" : "Fatto",
+          "risposteSbagliate" : [ "Niente da fare" ]
+        }, {
+          "domanda" : "Esercizio 4",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/imagesQuiz%2Fsource.gif?alt=media&token=4b32bc2a-c3c0-410e-ac50-c96ce6979f7e",
+          "rispostaCorretta" : "Ce l'ho fatta",
+          "risposteSbagliate" : [ "Non ce l'ho fatta" ]
+        }, {
+          "domanda" : "Esercizio 5",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/imagesQuiz%2Fgym9.gif?alt=media&token=0871c7e4-faef-4bd7-a65b-57834acffeea",
+          "rispostaCorretta" : "Ci sono riuscito",
+          "risposteSbagliate" : [ "Non ci sono riuscito" ]
+        } ]
+      }
+    },
+    "vip" : {
+      "volti_1" : {
+        "domande" : [ {
+          "domanda" : "Di chi si tratta?",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/imagesQuiz%2Feinstein.jpg?alt=media&token=2cd7a4ce-df2c-463d-9e88-1d3c8dc630d1",
+          "rispostaCorretta" : "Albert Einstein",
+          "risposteSbagliate" : [ "Pippo Baudo", "Massimo Girotti" ]
+        }, {
+          "domanda" : "Di chi si tratta?",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/imagesQuiz%2Fcarra.jpg?alt=media&token=83ba0206-576e-4c33-9ff0-3047bac876d8",
+          "rispostaCorretta" : "Raffaella Carrà",
+          "risposteSbagliate" : [ "Margherita Hack", "Orietta Berti" ]
+        }, {
+          "domanda" : "Di chi si tratta?",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/imagesQuiz%2Fpavarotti.jpg?alt=media&token=8e5fefa0-734b-4c29-aff9-51bd34449586",
+          "rispostaCorretta" : "Luciano Pavarotti",
+          "risposteSbagliate" : [ "Piero Angela", "Peppino De Filippo" ]
+        }, {
+          "domanda" : "Di chi si tratta?",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/imagesQuiz%2Fbongiorno.jpg?alt=media&token=802d36cb-56c7-43a2-9f21-e2f636a1b4ad",
+          "rispostaCorretta" : "Mike Bongiorno",
+          "risposteSbagliate" : [ "Totò", "Lino Banfi" ]
+        }, {
+          "domanda" : "Di chi si tratta?",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/imagesQuiz%2Felvis-presley.jpeg?alt=media&token=6e9aa9a6-e7ce-46f9-bdbb-53e2a5455f2b",
+          "rispostaCorretta" : "Elvis Presley",
+          "risposteSbagliate" : [ "David Bowie", "Peppino Di Capri" ]
+        } ]
+      },
+      "volti_2" : {
+        "domande" : [ {
+          "domanda" : "Di chi si tratta?",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/imagesQuiz%2F2%20-%201%20-%20Marylin%20Monroe.jpg?alt=media&token=ca6bbf2c-a025-47f1-8dfb-af0051f8e532",
+          "rispostaCorretta" : "Marylin Monroe",
+          "risposteSbagliate" : [ "Lorella Cuccarini", "Heather Parisi" ]
+        }, {
+          "domanda" : "Di chi si tratta?",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/imagesQuiz%2F2%20-%202%20-%20Adriano%20Celentano.jpg?alt=media&token=2ab6a277-20e7-48ff-95b8-b9412255c635",
+          "rispostaCorretta" : "Adriano Celentano",
+          "risposteSbagliate" : [ "Bud Spencer", "Renato Pozzetto" ]
+        }, {
+          "domanda" : "Di chi si tratta?",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/imagesQuiz%2F2%20-%203%20-%20Pippo%20Baudo.jpg?alt=media&token=83645e57-1698-4b91-a5d9-abd15b060942",
+          "rispostaCorretta" : "Pippo Baudo",
+          "risposteSbagliate" : [ "Christian De Sica", "Massimo Boldi" ]
+        }, {
+          "domanda" : "Di chi si tratta?",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/imagesQuiz%2Fiva-zanicchi.jpg?alt=media&token=658146c4-0150-41e7-9990-ea93a1ce33c3",
+          "rispostaCorretta" : "Iva Zanicchi",
+          "risposteSbagliate" : [ "Stefania Sandrelli", "Romina Power" ]
+        }, {
+          "domanda" : "Di chi si tratta?",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/imagesQuiz%2F2%20-%205%20-%20Renato%20Zero.jpg?alt=media&token=96e34c54-4f89-4e15-a750-eeb52d70aa77",
+          "rispostaCorretta" : "Renato Zero",
+          "risposteSbagliate" : [ "Giorgio Gaber", "Fabrizio De Andrè" ]
+        } ]
+      },
+      "volti_3" : {
+        "domande" : [ {
+          "domanda" : "Di chi si tratta?",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/imagesQuiz%2F3%20-%201%20-%20Andrea%20Bocelli.jpg?alt=media&token=bb392a78-5ff3-452b-ab57-cf276831278d",
+          "rispostaCorretta" : "Andrea Bocelli",
+          "risposteSbagliate" : [ "Diego Abbatantuono", "Lino Banfi" ]
+        }, {
+          "domanda" : "Di chi si tratta?",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/imagesQuiz%2F3%20-%202%20-%20Massimo%20Troisi.png?alt=media&token=38fed80b-d6aa-48fa-9c8d-3098b72092c7",
+          "rispostaCorretta" : "Massimo Troisi",
+          "risposteSbagliate" : [ "Terence Hill", "Andrea Roncato" ]
+        }, {
+          "domanda" : "Di chi si tratta?",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/imagesQuiz%2F3%20-%203%20-%20Amadeus.jpg?alt=media&token=b5694781-faae-48fa-8e86-3fd397138236",
+          "rispostaCorretta" : "Amadeus",
+          "risposteSbagliate" : [ "Jerry Calà", "Pippo Baudo" ]
+        }, {
+          "domanda" : "Di chi si tratta?",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/imagesQuiz%2F3%20-%204%20-%20Carlo%20Contijpg.jpg?alt=media&token=43fef70f-e7c2-40b2-842a-0a973b4822fe",
+          "rispostaCorretta" : "Carlo Conti",
+          "risposteSbagliate" : [ "Roberto Benigni", "Michele Placido" ]
+        }, {
+          "domanda" : "Di chi si tratta?",
+          "media" : "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/imagesQuiz%2F3%20-%205%20-%20Giletti.jpg?alt=media&token=7d8e31aa-8238-41e0-a5fb-2d74bc309300",
+          "rispostaCorretta" : "Massimo Giletti",
+          "risposteSbagliate" : [ "Enrico Mentana", "Bruno Vespa" ]
+        } ]
+      }
+    }
+  },
+  "pazienti" : {
+    "2348017445299142" : {
+      "counters" : {
+        "allergie" : 0,
+        "cibo" : 0,
+        "cinema" : 0,
+        "emergenza" : 0,
+        "intolleranze" : 0,
+        "musica" : 0,
+        "parenti" : 0,
+        "promemoriaListe" : 0,
+        "promemoriaProgrammati" : 0,
+        "promemoriaRoutine" : 0,
+        "ricordi" : 0,
+        "sport" : 0,
+        "teatro" : 0,
+        "terapieGiornaliere" : 1,
+        "terapieIntervallo" : 1
+      },
+      "generalita" : {
+        "cognome" : "Armstrong",
+        "dataNascita" : "1952-04-15T12:00:00-05:00",
+        "eta" : 68,
+        "luogoNascita" : "Bari",
+        "luogoResidenza" : [ {
+          "admin-area" : "",
+          "business-name" : "",
+          "city" : "Capurso",
+          "country" : "",
+          "island" : "",
+          "shortcut" : "",
+          "street-address" : "via san carlo 44",
+          "subadmin-area" : "",
+          "zip-code" : ""
+        } ],
+        "nome" : "Louis"
+      },
+      "terapie" : {
+        "giornaliera" : [ {
+          "descrizione" : "diabete",
+          "farmaco" : "GLUCOBAY",
+          "orario" : [ "2020-04-22T13:00:00-04:00" ]
+        } ],
+        "intervallare" : [ {
+          "descrizione" : "congiuntivite",
+          "farmaco" : "loramfenicolo",
+          "giorni" : [ "martedì", "giovedì", "sabato" ],
+          "orario" : "2020-04-21T17:00:00-04:00"
+        } ]
+      }
+    },
+    "2399212463539267" : {
+      "counters" : {
+        "allergie" : 0,
+        "cibo" : 0,
+        "cinema" : 0,
+        "emergenza" : 0,
+        "intolleranze" : 0,
+        "musica" : 0,
+        "parenti" : 0,
+        "promemoriaListe" : 0,
+        "promemoriaProgrammati" : 0,
+        "promemoriaRoutine" : 0,
+        "ricordi" : 0,
+        "sport" : 0,
+        "teatro" : 0,
+        "terapieGiornaliere" : 1,
+        "terapieIntervallo" : 1
+      },
+      "generalita" : {
+        "cognome" : "Laricchia",
+        "dataNascita" : "1994-12-16",
+        "eta" : "25",
+        "luogoNascita" : "Bari",
+        "luogoResidenza" : [ {
+          "city" : "Capurso",
+          "street-address" : "via Ognissanti 20"
+        } ],
+        "nome" : "Rossana"
+      },
+      "terapie" : {
+        "giornaliera" : [ {
+          "descrizione" : "sclerosi multipla",
+          "farmaco" : "EFEXOR",
+          "orario" : [ "placeholder10", "placeholder18" ]
+        }, {
+          "descrizione" : "mal di testa",
+          "farmaco" : "tegretol",
+          "orario" : [ "placeholder10", "placeholder17" ]
+        }, {
+          "descrizione" : "mal di denti",
+          "farmaco" : "oki",
+          "orario" : [ "placeholder15", "placeholder20" ]
+        } ],
+        "intervallare" : [ {
+          "descrizione" : "metabolismo",
+          "farmaco" : "metabolism",
+          "giorni" : [ "lunedì", "mercoledì", "venerdì" ],
+          "orario" : "2020-04-22T13:30:00-04:00"
+        }, {
+          "descrizione" : "artrite",
+          "farmaco" : "artrix",
+          "giorni" : "martedì,giovedì,sabato",
+          "orario" : [ "placeholder16" ]
+        } ]
+      }
+    }
+  }
+}

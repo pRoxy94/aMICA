@@ -1,0 +1,96 @@
+[
+  {
+    "id": "958393dd-4e95-4955-af35-fba1a1619742",
+    "data": [
+      {
+        "text": "cinema",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc09b545-e6e8-4639-91ba-0106d5c12364",
+    "data": [
+      {
+        "text": "aggiungi preferenza ",
+        "userDefined": false
+      },
+      {
+        "text": "cinema",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9daff796-ab32-460f-97dd-1d79ca539216",
+    "data": [
+      {
+        "text": "voglio aggiungere ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " preferenza ",
+        "userDefined": false
+      },
+      {
+        "text": "cinematografica",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3fd6c8c2-7361-4a0a-a097-f952cbc51eeb",
+    "data": [
+      {
+        "text": "aggiungi ",
+        "userDefined": false
+      },
+      {
+        "text": "film",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7590cdb7-f6d2-47f0-878c-bc57788b4176",
+    "data": [
+      {
+        "text": "aggiungi il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "film",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " preferito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

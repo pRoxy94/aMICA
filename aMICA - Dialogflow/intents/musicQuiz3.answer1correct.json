@@ -1,0 +1,79 @@
+{
+  "id": "384d6269-61f0-4fc0-ae23-e73cb61b9d57",
+  "name": "musicQuiz3.answer1correct",
+  "auto": true,
+  "contexts": [
+    "musicQuiz3_await_answer1"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "musicQuiz3_await_answer2",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Risposta corretta, passiamo alla domanda successiva!."
+        },
+        {
+          "type": 4,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "audio",
+                "payload": {
+                  "url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/musica%2FmusicQuiz3%2F3%20-%202%20-%20Renato%20Carosone%20-%20Tu%20Vu%C3%B2%20Fa\u0027%20L\u0027Americano.mp3?alt\u003dmedia\u0026token\u003d1d359cac-26be-4aed-89db-612426a3469d"
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Chi canta questa canzone?",
+          "buttons": [
+            {
+              "text": "Fred Buscaglione",
+              "postback": "Fred Buscaglione"
+            },
+            {
+              "text": "Christian",
+              "postback": "Christian"
+            },
+            {
+              "text": "Gipo Farassino",
+              "postback": "Gipo Farassino"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,227 @@
+[
+  {
+    "id": "baab4f91-ebd7-4c92-8cd0-31b340ece8a1",
+    "data": [
+      {
+        "text": "aggiungi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "77b8a57d-503f-4f84-8f3a-7ba0a9ca9427",
+    "data": [
+      {
+        "text": "inserisco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0604b09-10f5-4cdd-a9fc-87019d4a0872",
+    "data": [
+      {
+        "text": "me e mettiamo informazioni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac81ec9d-6fac-46da-9c54-1455f0493e0d",
+    "data": [
+      {
+        "text": "senti qua io ti voglio dire qualcosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b87379b-cd58-4c3d-af12-16e1119ec44e",
+    "data": [
+      {
+        "text": "senti voglio mettere qualcosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b9d1b8b-ebbd-4330-a5ee-68f195f27e3b",
+    "data": [
+      {
+        "text": "e scriviamo va",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb684b03-5962-45cc-9a9a-83a43c31f0dc",
+    "data": [
+      {
+        "text": "e vabbè mettiamo ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " po\u0027 di cose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dda7335d-83bd-4755-82fe-54f70cb38407",
+    "data": [
+      {
+        "text": "mettiamo info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6a43ac7c-1e15-48f4-8f2b-39d010b00b0f",
+    "data": [
+      {
+        "text": "mettiamo informazioni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "263b539a-332b-4d1c-84c6-84a7d0573537",
+    "data": [
+      {
+        "text": "voglio inserire informazioni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2885d98e-94ab-486d-ae99-2d871dbe97b1",
+    "data": [
+      {
+        "text": "scrivi informazioni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e038499f-85d9-4fc9-a7ad-47ea96d2c771",
+    "data": [
+      {
+        "text": "ti dico qualcosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5397f4c2-e7fb-4c8c-9303-446d6f78ef44",
+    "data": [
+      {
+        "text": "voglio dirti qualcosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "348ed4db-99ee-4892-9009-9a0a2540f9b1",
+    "data": [
+      {
+        "text": "aggiungi info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3dd410b-e5e9-4c3b-8a47-b707a117f8cf",
+    "data": [
+      {
+        "text": "aggiungere informazioni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7690c62d-d45c-4e01-b482-3a1d440b102f",
+    "data": [
+      {
+        "text": "voglio aggiungere informazioni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79bbd5b0-147f-4ec8-bed5-0227d4796dd2",
+    "data": [
+      {
+        "text": "informazioni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "43f9f09d-3623-4323-b5f2-031b4c2a4e24",
+    "data": [
+      {
+        "text": "voglio aggiungere informazioni al mio profilo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

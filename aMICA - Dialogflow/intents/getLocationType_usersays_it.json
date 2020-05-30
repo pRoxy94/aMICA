@@ -1,0 +1,36 @@
+[
+  {
+    "id": "2d84ea21-8d81-4ec5-b865-012d037b502f",
+    "data": [
+      {
+        "text": "dimmi i miei ",
+        "userDefined": false
+      },
+      {
+        "text": "luoghi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "702602e6-a0d7-4f00-b31e-7342d8d77da5",
+    "data": [
+      {
+        "text": "i miei ",
+        "userDefined": false
+      },
+      {
+        "text": "luoghi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

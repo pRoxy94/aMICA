@@ -1,0 +1,140 @@
+{
+  "id": "945c5a6d-58e3-4a41-86f7-346a2b9aa60e",
+  "name": "askMoviePref",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "askMoviePref-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f831119a-023b-4ce8-9220-9f6e20e8ead6",
+          "required": false,
+          "dataType": "@movieGenre",
+          "name": "genere",
+          "value": "$genere",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "Che genere di film guardi?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "171fd147-7e63-455e-b3a1-43441ddf9c16",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "titolo",
+          "value": "$titolo",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "Qual è il titolo?"
+            },
+            {
+              "lang": "it",
+              "value": "Come si intitola?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "6988b15d-9c6c-4fef-b6be-1a93e8b5b45e",
+          "required": true,
+          "dataType": "@sys.music-artist",
+          "name": "regista",
+          "value": "$regista",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "Chi è il regista del film?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "text": "Ho aggiunto le tue preferenze cinematografiche. Ne vuoi aggiungere altre?",
+              "reply_markup": {
+                "one_time_keyboard": true,
+                "keyboard": [
+                  [
+                    {
+                      "callback_data": "gusti personali",
+                      "text": "Gusti Personali"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Più tardi",
+                      "callback_data": "più tardi"
+                    },
+                    {
+                      "text": "No grazie",
+                      "callback_data": "no grazie"
+                    },
+                    {
+                      "callback_data": "cancella",
+                      "text": "Cancella"
+                    }
+                  ]
+                ],
+                "resize_keyboard": true
+              }
+            }
+          }
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Ho aggiunto le tue preferenze cinematografiche. Ne vuoi aggiungere altre?",
+          "replies": [
+            "Gusti Personali",
+            "Più tardi",
+            "No grazie",
+            "Cancella"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

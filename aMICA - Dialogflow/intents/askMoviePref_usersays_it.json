@@ -1,0 +1,318 @@
+[
+  {
+    "id": "7a13c662-f60d-46b5-b990-c702136a5207",
+    "data": [
+      {
+        "text": "fantasy",
+        "alias": "genere",
+        "meta": "@movieGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37d84a38-fed5-4afe-9aec-48997456b6e9",
+    "data": [
+      {
+        "text": "biografico",
+        "alias": "genere",
+        "meta": "@movieGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d97ff5ec-a218-452d-b249-ebb1dd2969f6",
+    "data": [
+      {
+        "text": "animazione",
+        "alias": "genere",
+        "meta": "@movieGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dbdf6b3f-10f6-4d92-bd64-20b224802bc1",
+    "data": [
+      {
+        "text": "western",
+        "alias": "genere",
+        "meta": "@movieGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "340ec5a4-8631-4e69-add0-95b3efc5d271",
+    "data": [
+      {
+        "text": "storico",
+        "alias": "genere",
+        "meta": "@movieGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "707f12f9-5ea5-4df1-97b6-9f770ee4e065",
+    "data": [
+      {
+        "text": "azione",
+        "alias": "genere",
+        "meta": "@movieGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd7cdccc-e565-43b1-aa39-3f881771d490",
+    "data": [
+      {
+        "text": "serie tv",
+        "alias": "genere",
+        "meta": "@movieGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "961a4445-c717-40fa-9e74-a62ba2ebad98",
+    "data": [
+      {
+        "text": "fantascienza",
+        "alias": "genere",
+        "meta": "@movieGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f109301-0604-4d21-8103-42de0c0a8a53",
+    "data": [
+      {
+        "text": "documentario",
+        "alias": "genere",
+        "meta": "@movieGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d992531c-6f2d-40ee-b21e-0fe6ce9fcc28",
+    "data": [
+      {
+        "text": "horror",
+        "alias": "genere",
+        "meta": "@movieGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8cc5fa8d-e28c-4a92-9590-b2f0c31b6ceb",
+    "data": [
+      {
+        "text": "thriller",
+        "alias": "genere",
+        "meta": "@movieGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5862f340-42cf-4a26-9bee-8e2344e4208a",
+    "data": [
+      {
+        "text": "commedia",
+        "alias": "genere",
+        "meta": "@movieGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0ea328e-07b4-41df-aed8-196789777c53",
+    "data": [
+      {
+        "text": "aggiungi preferenza sui film di ",
+        "userDefined": false
+      },
+      {
+        "text": "biografia",
+        "alias": "genere",
+        "meta": "@movieGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fcc0b152-6c11-4ded-a674-0e9230ca177d",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piacciono i ",
+        "userDefined": false
+      },
+      {
+        "text": "film",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "western",
+        "alias": "genere",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "storici",
+        "alias": "genere",
+        "meta": "@movieGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "468d6a07-923f-4100-9522-66471fe5c69a",
+    "data": [
+      {
+        "text": "aggiungi il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "genere",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " preferito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8906b3e7-d246-4658-b9ff-5b347b8cb47b",
+    "data": [
+      {
+        "text": "voglio aggiungere il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "documentario",
+        "alias": "genere",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " preferito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "847ed613-9062-4945-8700-6c70895b5dc5",
+    "data": [
+      {
+        "text": "voglio aggiungere la mia ",
+        "userDefined": false
+      },
+      {
+        "text": "commedia",
+        "alias": "genere",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " preferita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4a8765b-c96a-4d8e-8d18-32a5f663a422",
+    "data": [
+      {
+        "text": "aggiungi la mia ",
+        "userDefined": false
+      },
+      {
+        "text": "serie tv",
+        "alias": "genere",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " preferita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

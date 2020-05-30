@@ -1,0 +1,9 @@
+{
+  "id": "f4097ba9-2690-497e-930f-449b813881f3",
+  "name": "movieGenre",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

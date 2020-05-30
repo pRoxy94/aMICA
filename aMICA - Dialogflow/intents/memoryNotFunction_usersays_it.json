@@ -1,0 +1,284 @@
+[
+  {
+    "id": "75004bd5-9b0d-40d3-9e10-3e3d08895c95",
+    "data": [
+      {
+        "text": "ho problemi a ricordare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61ebaaab-b78a-4d1b-8181-b7031079592f",
+    "data": [
+      {
+        "text": "non ricordo nulla",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17bab851-cf71-439a-8155-1b3da3fbd58b",
+    "data": [
+      {
+        "text": "si può vivere senza ",
+        "userDefined": false
+      },
+      {
+        "text": "ricordi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "333e69f9-2dc9-48cb-952f-b58771cb45f2",
+    "data": [
+      {
+        "text": "perché non ho ",
+        "userDefined": false
+      },
+      {
+        "text": "ricordi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " della mia vita?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36df6d72-5525-425a-b241-dbfa0e4c399e",
+    "data": [
+      {
+        "text": "cosa sono i ",
+        "userDefined": false
+      },
+      {
+        "text": "ricordi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5667da69-c312-4d8e-af21-716b9f16ba9f",
+    "data": [
+      {
+        "text": "non ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ricordo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " niente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0d5eb6a-ec11-4b6e-8b85-83b8574eaab7",
+    "data": [
+      {
+        "text": "a me non funziona la memoria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "399dac99-8058-4e21-9058-fc40dd59a2e3",
+    "data": [
+      {
+        "text": "ho perso la memoria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4723ec9d-5d46-460e-b76b-ca3ba8553c3c",
+    "data": [
+      {
+        "text": "i miei ",
+        "userDefined": false
+      },
+      {
+        "text": "ricordi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sono lontani",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "371edb87-2e43-4432-96f8-f7e4ae6e0490",
+    "data": [
+      {
+        "text": "ormai non ",
+        "userDefined": false
+      },
+      {
+        "text": "ricordo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " niente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5af7952-5579-48b9-9c19-182f3663ba3b",
+    "data": [
+      {
+        "text": "la memoria ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " abbandona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "556b8aca-82bc-4ba7-b27b-89bb2a9ce978",
+    "data": [
+      {
+        "text": "la memoria ",
+        "userDefined": false
+      },
+      {
+        "text": "brutta",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bestia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c1690fe-82d9-4714-92b6-f80c277d639b",
+    "data": [
+      {
+        "text": "la memoria non ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " accompagna",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25b25312-fc36-4056-97fe-a80c44bcb1e8",
+    "data": [
+      {
+        "text": "non mi funziona più la memoria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7910acd7-8785-4943-912d-2bf825034ee9",
+    "data": [
+      {
+        "text": "la memoria è partita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22bc68ff-7177-460b-895b-bc5b357ba43d",
+    "data": [
+      {
+        "text": "la memoria non mi funziona più",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

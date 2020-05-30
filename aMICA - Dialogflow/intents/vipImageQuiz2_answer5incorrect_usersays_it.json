@@ -1,0 +1,30 @@
+[
+  {
+    "id": "16f6935a-05b9-4b63-a27b-c7ae91c5983c",
+    "data": [
+      {
+        "text": "Fabrizio De Andrè",
+        "alias": "vip_quiz",
+        "meta": "@typeOfVips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e881561c-59a2-43c8-add5-625c9e59e629",
+    "data": [
+      {
+        "text": "Giorgio Gaber",
+        "alias": "vip_quiz",
+        "meta": "@typeOfVips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

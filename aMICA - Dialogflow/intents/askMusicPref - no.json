@@ -1,0 +1,99 @@
+{
+  "id": "295c9a8b-4c93-4aee-877f-dd8056ab84f1",
+  "parentId": "b63c9873-3f02-4b37-9f08-673ac26aedb9",
+  "rootParentId": "b63c9873-3f02-4b37-9f08-673ac26aedb9",
+  "name": "askMusicPref - no",
+  "auto": true,
+  "contexts": [
+    "askMusicPref-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "askMusicPref.askMusicPref-no",
+      "affectedContexts": [
+        {
+          "name": "askMusicPref-no-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "text": "D\u0027accordo. Hai bisogno di altro?",
+              "reply_markup": {
+                "resize_keyboard": true,
+                "one_time_keyboard": true,
+                "keyboard": [
+                  [
+                    {
+                      "text": "Aggiungi Informazioni",
+                      "callback_data": "aggiungi informazioni"
+                    },
+                    {
+                      "text": "Modifica Informazioni",
+                      "callback_data": "modifica informazioni"
+                    },
+                    {
+                      "text": "Elimina Informazioni",
+                      "callback_data": "elimina informazioni"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Mostra Informazioni",
+                      "callback_data": "mostra informazioni"
+                    },
+                    {
+                      "text": "Allenamento",
+                      "callback_data": "allenamento"
+                    }
+                  ],
+                  [
+                    {
+                      "callback_data": "no grazie",
+                      "text": "No grazie"
+                    },
+                    {
+                      "text": "Cancella",
+                      "callback_data": "cancella"
+                    }
+                  ]
+                ]
+              }
+            }
+          }
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "D\u0027accordo. Hai bisogno di altro?",
+          "replies": [
+            "Mostra funzionalità",
+            "No grazie",
+            "Cancella"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

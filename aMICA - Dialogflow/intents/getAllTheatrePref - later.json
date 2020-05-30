@@ -1,0 +1,36 @@
+{
+  "id": "353dd4ba-3ddb-452e-8a02-ba4a70f293f2",
+  "parentId": "1849f4c5-8ad4-427b-8026-bd7f4e0fdb88",
+  "rootParentId": "1849f4c5-8ad4-427b-8026-bd7f4e0fdb88",
+  "name": "getAllTheatrePref - later",
+  "auto": true,
+  "contexts": [
+    "getAllTheatrePref-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "getAllTheatrePref.getAllTheatrePref-later",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": "D\u0027accordo. Sono sempre a tua disposizione."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

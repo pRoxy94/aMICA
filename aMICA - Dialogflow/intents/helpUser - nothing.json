@@ -1,0 +1,36 @@
+{
+  "id": "1cf5a823-3d88-4328-bc5b-b4f5882855e8",
+  "parentId": "ac065a2b-1249-472e-8f05-0a952fbdebb5",
+  "rootParentId": "ac065a2b-1249-472e-8f05-0a952fbdebb5",
+  "name": "helpUser - nothing",
+  "auto": true,
+  "contexts": [
+    "helpUser-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "helpUser.helpUser-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": "D\u0027accordo. Contattami quando vuoi, sono sempre a tua disposizione!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

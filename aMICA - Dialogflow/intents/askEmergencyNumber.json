@@ -1,0 +1,118 @@
+{
+  "id": "ac1b0de8-8fc5-4e93-ba2d-1b2e77f1c3b7",
+  "name": "askEmergencyNumber",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "askEmergencyNumber-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c908a41b-6662-47ca-b808-e30cc69692e3",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "nome",
+          "value": "$nome",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "Qual è il nome dell\u0027interessato?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "c05e015c-86c4-4693-b774-5c8362fb20ba",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "name": "numero",
+          "value": "$numero",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "Inserisci il numero di telefono"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "text": "Perfetto, il numero è stato aggiunto! Ne vuoi aggiungere un altro?",
+              "reply_markup": {
+                "resize_keyboard": true,
+                "one_time_keyboard": true,
+                "keyboard": [
+                  [
+                    {
+                      "callback_data": "numeri emergenza",
+                      "text": "Numeri Emergenza"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Più tardi",
+                      "callback_data": "più tardi"
+                    },
+                    {
+                      "text": "No grazie",
+                      "callback_data": "no grazie"
+                    },
+                    {
+                      "text": "Cancella",
+                      "callback_data": "cancella"
+                    }
+                  ]
+                ]
+              }
+            }
+          }
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Perfetto, il numero è stato aggiunto! Ne vuoi aggiungere un altro?",
+          "replies": [
+            "Numeri Emergenza",
+            "Più tardi",
+            "No grazie",
+            "Cancella"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

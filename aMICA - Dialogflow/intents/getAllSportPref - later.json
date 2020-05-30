@@ -1,0 +1,36 @@
+{
+  "id": "d5e890c1-d25f-499a-9e73-03dc48f75a3d",
+  "parentId": "4a717421-65a3-4f0a-9cb2-b206c79b7c03",
+  "rootParentId": "4a717421-65a3-4f0a-9cb2-b206c79b7c03",
+  "name": "getAllSportPref - later",
+  "auto": true,
+  "contexts": [
+    "getAllSportPref-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "getAllSportPref.getAllSportPref-later",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": "Certo. Contattami quando hai bisogno di me!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

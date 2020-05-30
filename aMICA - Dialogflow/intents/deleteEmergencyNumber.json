@@ -1,0 +1,50 @@
+{
+  "id": "d148e6a2-d778-4bd2-96e6-2558d0e65abb",
+  "name": "deleteEmergencyNumber",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4a18888f-eb9a-48b7-b5ff-2405869907e6",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "nome",
+          "value": "$nome",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "Qual è il nome che vuoi eliminare?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

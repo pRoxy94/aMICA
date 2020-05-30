@@ -1,0 +1,110 @@
+{
+  "id": "f2c71848-1bd7-44e0-aa36-7dfbdfb367d0",
+  "name": "vipImageQuiz3_answer1incorrect",
+  "auto": true,
+  "contexts": [
+    "vipImageQuiz3_await_answer1"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "vipImageQuiz3_await_answer2",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b2a48f1c-e156-4512-9bab-308848b8bf68",
+          "required": false,
+          "dataType": "@typeOfVips",
+          "name": "quiz_vip",
+          "value": "$quiz_vip",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "speech": "Mi dispiace, la risposta corretta era Andrea Bocelli! Passiamo al prossimo volto."
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "title": "Di chi si tratta?",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/facce%2Fcarra.jpg?alt\u003dmedia\u0026token\u003d84d78612-519a-4fe6-b0eb-ecba47e34e3f",
+          "buttons": [
+            {
+              "text": "Margherita Hack",
+              "postback": "Margherita Hack"
+            },
+            {
+              "text": "Orietta Berti",
+              "postback": "Orietta Berti"
+            },
+            {
+              "text": "Raffaella Carr�",
+              "postback": "Raffaella Carr�"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Mi dispiace, la risposta corretta era Andrea Bocelli! Passiamo al prossimo volto."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Di chi si tratta?",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/facce%2FvipImageQuiz3%2F3%20-%202%20-%20Massimo%20Troisi.png?alt\u003dmedia\u0026token\u003de0ee9ed8-3662-4afb-a45c-32eb9130a81e",
+          "buttons": [
+            {
+              "text": "Terence Hill",
+              "postback": "Terence Hill"
+            },
+            {
+              "text": "Massimo Troisi",
+              "postback": "Massimo Troisi"
+            },
+            {
+              "text": "Andrea Roncato",
+              "postback": "Andrea Roncato"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

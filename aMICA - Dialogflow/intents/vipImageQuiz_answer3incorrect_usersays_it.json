@@ -1,0 +1,58 @@
+[
+  {
+    "id": "34c68d99-a02d-43c9-bc34-5dfd1b396192",
+    "data": [
+      {
+        "text": "Vittorio De Sica",
+        "alias": "quiz_vip",
+        "meta": "@typeOfVips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b33fd0a-1818-41c7-9abb-0270bb0ed75e",
+    "data": [
+      {
+        "text": "Massimo Troisi",
+        "alias": "quiz_vip",
+        "meta": "@typeOfVips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5f95cc46-d15a-49c6-a0c1-e2fbe269d72f",
+    "data": [
+      {
+        "text": "Peppino De Filippo",
+        "alias": "quiz_vip",
+        "meta": "@typeOfVips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6b005ea-23b9-40ea-a456-076271dda8fe",
+    "data": [
+      {
+        "text": "Piero Angela",
+        "alias": "quiz_vip",
+        "meta": "@typeOfVips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

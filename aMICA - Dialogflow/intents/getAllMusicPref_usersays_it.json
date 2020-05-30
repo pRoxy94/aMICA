@@ -1,0 +1,121 @@
+[
+  {
+    "id": "22586081-08a7-4e74-8222-35d6d914a9b2",
+    "data": [
+      {
+        "text": "quale ",
+        "userDefined": false
+      },
+      {
+        "text": "musica",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ascolto?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f5211cb-bf3f-4f5e-a9fa-a9d15d296a25",
+    "data": [
+      {
+        "text": "la musica",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " che ascolto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b1700a8-e2b9-466c-ba9e-564971bcc6e0",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace ",
+        "userDefined": false
+      },
+      {
+        "text": "la musica",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7c2aec5a-4824-45c5-a52e-894b54fd4d2d",
+    "data": [
+      {
+        "text": "che ",
+        "userDefined": false
+      },
+      {
+        "text": "musica",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ascolto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2174abdf-a155-448d-9836-4ba9680b5a63",
+    "data": [
+      {
+        "text": "le mie preferenze ",
+        "userDefined": false
+      },
+      {
+        "text": "musicali",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e9f9ff7-24f8-4be2-83c7-84b472730809",
+    "data": [
+      {
+        "text": "la mia ",
+        "userDefined": false
+      },
+      {
+        "text": "musica",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

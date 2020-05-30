@@ -1,0 +1,110 @@
+{
+  "id": "039aad47-0d6b-4cee-b4a6-fba8b2d382b5",
+  "name": "vipImageQuiz2_answer2correct",
+  "auto": true,
+  "contexts": [
+    "vipImageQuiz2_await_answer2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "vipImageQuiz2_await_answer3",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "010c1c10-c646-4eaf-a498-d3cb5fc59c51",
+          "required": false,
+          "dataType": "@typeOfVips",
+          "name": "quiz_vip",
+          "value": "$quiz_vip",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "speech": "Risposta corretta! Passiamo al prossimo volto!"
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "title": "Di chi si tratta?",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/facce%2Fpavarotti.jpg?alt\u003dmedia\u0026token\u003d8c2ade55-fa76-465f-a28c-763c8d182081",
+          "buttons": [
+            {
+              "text": "Piero Angela",
+              "postback": "Piero Angela"
+            },
+            {
+              "text": "Pavarotti",
+              "postback": "Luciano Pavarotti"
+            },
+            {
+              "text": "Peppino De Filippo",
+              "postback": "Peppino De Filippo"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Risposta corretta! Passiamo al prossimo volto."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Di chi si tratta?",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/facce%2FvipImageQuiz2%2F2%20-%203%20-%20Pippo%20Baudo.jpg?alt\u003dmedia\u0026token\u003d0217637e-dff3-435f-874d-33c5c928740a",
+          "buttons": [
+            {
+              "text": "Christian De Sica",
+              "postback": "Christian De Sica"
+            },
+            {
+              "text": "Massimo Boldi",
+              "postback": "Massimo Boldi"
+            },
+            {
+              "text": "Pippo Baudo",
+              "postback": "Pippo Baudo"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

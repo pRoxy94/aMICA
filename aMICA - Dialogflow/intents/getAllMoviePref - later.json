@@ -1,0 +1,36 @@
+{
+  "id": "33c8adcd-6d51-4d44-a9e5-c1d26585c56c",
+  "parentId": "1a3d8792-95bc-4993-b946-4a6caac99abf",
+  "rootParentId": "1a3d8792-95bc-4993-b946-4a6caac99abf",
+  "name": "getAllMoviePref - later",
+  "auto": true,
+  "contexts": [
+    "getAllMoviePref-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "getAllMoviePref.getAllMoviePref-later",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": "Nessun problema. Sono sempre a tua disposizione!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,77 @@
+{
+  "id": "d05fe010-c7e3-4284-a5ec-82908f8ec52b",
+  "name": "musicQuiz3",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "musicQuiz3_await_answer1",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Bene, cominciamo! Ricordati che puoi terminare l\u0027allenamento in qualsiasi momento scrivendo \"cancella\"."
+        },
+        {
+          "type": 4,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "audio",
+                "payload": {
+                  "url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/musica%2FmusicQuiz3%2F3%20-%201%20-%20Adriano%20Celentano%20-%20Il%20tuo%20bacio%20e%20come%20un%20rock%20(1959).mp3?alt\u003dmedia\u0026token\u003d3e2b3781-fd19-42ea-94be-1c60ee763351"
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Chi canta questa canzone?",
+          "buttons": [
+            {
+              "text": "Renato Carosone",
+              "postback": "Renato Carosone"
+            },
+            {
+              "text": "Amedeo Minghi",
+              "postback": "Amedeo Minghi"
+            },
+            {
+              "text": "Albano Carrisi",
+              "postback": "Albano Carrisi"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

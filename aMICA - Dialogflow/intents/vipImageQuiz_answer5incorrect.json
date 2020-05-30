@@ -1,0 +1,59 @@
+{
+  "id": "f25923c5-1d94-491d-8dc4-0c80206d2ad5",
+  "name": "vipImageQuiz_answer5incorrect",
+  "auto": true,
+  "contexts": [
+    "vipImageQuiz_await_answer5"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "vipImageQuiz_endQuiz",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a1af11a9-8f34-4c7f-82a9-8438dc54a1b3",
+          "required": false,
+          "dataType": "@typeOfVips",
+          "name": "vipQuiz",
+          "value": "$vipQuiz",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Sbagliato. La risposta corretta era \"Elvis Presley\". Ci sentiamo al prossimo quiz 😊"
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

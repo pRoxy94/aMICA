@@ -1,0 +1,36 @@
+{
+  "id": "94f961e7-de2c-4453-915f-67e84c242269",
+  "parentId": "be52539f-ffec-428a-89e9-330b4d583075",
+  "rootParentId": "be52539f-ffec-428a-89e9-330b4d583075",
+  "name": "getProgReminder - later",
+  "auto": true,
+  "contexts": [
+    "getProgReminder-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "getProgReminder.getProgReminder-later",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": "Certo. Contattami quando vuoi!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

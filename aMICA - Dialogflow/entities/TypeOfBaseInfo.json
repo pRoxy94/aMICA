@@ -1,0 +1,9 @@
+{
+  "id": "bf9fd370-7f93-4aa1-8214-ab011d18b29e",
+  "name": "TypeOfBaseInfo",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

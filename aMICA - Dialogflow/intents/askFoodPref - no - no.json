@@ -1,0 +1,36 @@
+{
+  "id": "23861a4a-7302-4412-aeab-e5225297823f",
+  "parentId": "e3dd0730-bb49-4dcc-b7f3-4b4ef5849015",
+  "rootParentId": "1027334d-2d97-4059-954e-0d9b17698e25",
+  "name": "askFoodPref - no - no",
+  "auto": true,
+  "contexts": [
+    "askFoodPref-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "askFoodPref.askFoodPref-no.askFoodPref-no-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": "Bene. Ci sentiamo pesto!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

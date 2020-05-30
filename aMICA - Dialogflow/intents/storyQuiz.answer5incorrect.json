@@ -1,0 +1,49 @@
+{
+  "id": "3bdd1f17-7959-4615-b794-c004cedeaed4",
+  "name": "storyQuiz.answer5incorrect",
+  "auto": true,
+  "contexts": [
+    "storyQuiz_await_answer5"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "storyQuiz_endQuiz",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "speech": "Errato, la risposta corretta era \"Elisabetta muore\". Il quiz è terminato, ci vediamo al prossimo allenamento."
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Errato, la risposta corretta era \"Elisabetta muore\". Il quiz è terminato, ci vediamo al prossimo allenamento. ☺️"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

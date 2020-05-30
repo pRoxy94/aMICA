@@ -1,0 +1,123 @@
+{
+  "id": "7f8a5d37-cf3d-46fc-830c-95a5dfe4276e",
+  "parentId": "b1ca4902-0417-4f67-a1b9-9c9277d36502",
+  "rootParentId": "b1ca4902-0417-4f67-a1b9-9c9277d36502",
+  "name": "askListReminder - no - addMore",
+  "auto": true,
+  "contexts": [
+    "askListReminder-followup",
+    "askListReminder-followup-2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "askListReminder-followup",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "askListReminder-followup-2",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "684f6b9a-a0da-4c19-9e47-d3374fb2fad2",
+          "required": false,
+          "dataType": "@reminderType",
+          "name": "remindertype",
+          "value": "$remindertype",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "4ade5f04-10ba-4939-b10a-68913cd59d80",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "elementi",
+          "value": "$elementi",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "Cos\u0027altro aggiungiamo?"
+            },
+            {
+              "lang": "it",
+              "value": "Che altro vuoi aggiungere?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "text": "Perfetto, elementi aggiunti! Basta così?",
+              "reply_markup": {
+                "one_time_keyboard": true,
+                "keyboard": [
+                  [
+                    {
+                      "text": "No, aggiungi altro",
+                      "callback_data": "no, aggiungi altro"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Si, può bastare",
+                      "callback_data": "si, può bastare"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Cancella",
+                      "callback_data": "cancella"
+                    }
+                  ]
+                ],
+                "resize_keyboard": true
+              }
+            }
+          }
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Perfetto, elementi aggiunti! Basta così?",
+          "replies": [
+            "No, aggiungi altro",
+            "Si, può bastare",
+            "Cancella"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

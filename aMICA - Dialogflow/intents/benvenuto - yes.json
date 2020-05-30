@@ -1,0 +1,48 @@
+{
+  "id": "0eda71d0-0176-468b-9976-b081790712f2",
+  "parentId": "b3742366-b22a-4c2f-8320-1079d287d146",
+  "rootParentId": "b3742366-b22a-4c2f-8320-1079d287d146",
+  "name": "benvenuto - yes",
+  "auto": true,
+  "contexts": [
+    "benvenuto-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "benvenuto.benvenuto-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Sono felice ti poterti aiutare, ti va di conoscere le mie funzionalità? ☺️",
+          "replies": [
+            "Mostra funzionalità",
+            "No grazie",
+            "Cancella"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,133 @@
+{
+  "id": "b1ca4902-0417-4f67-a1b9-9c9277d36502",
+  "name": "askListReminder",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "askListReminder-followup",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "askListReminder-followup-2",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "askListReminder-followup-3",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f3a3218e-ffbe-479e-89ff-cd05d96f1ccc",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "titolo",
+          "value": "$titolo",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "Diamo un titolo alla lista"
+            },
+            {
+              "lang": "it",
+              "value": "Che titolo diamo alla lista?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "83ffdd8d-e9af-4082-a376-0817e5e983a6",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "elementi",
+          "value": "$elementi",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "Cosa aggiungiamo alla lista?"
+            },
+            {
+              "lang": "it",
+              "value": "Che cosa vuoi aggiungere?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "reply_markup": {
+                "resize_keyboard": true,
+                "one_time_keyboard": true,
+                "keyboard": [
+                  [
+                    {
+                      "text": "Sì, può bastare.",
+                      "callback_data": "sì, può bastare."
+                    },
+                    {
+                      "callback_data": "no, aggiungi altro",
+                      "text": "No, aggiungi altro"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Cancella",
+                      "callback_data": "cancella"
+                    }
+                  ]
+                ]
+              },
+              "text": "Ho aggiunto gli elementi alla tua lista. Ne vuoi aggiungere altri?"
+            }
+          }
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Ho aggiunto gli elementi alla tua lista! Basta così?",
+          "replies": [
+            "Sì, può bastare",
+            "No, aggiungi altro",
+            "Cancella"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

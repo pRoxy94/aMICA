@@ -1,0 +1,93 @@
+{
+  "id": "c384985e-d089-46cd-b92f-cd1086d7ebbb",
+  "name": "storyQuiz.answer3incorrect",
+  "auto": true,
+  "contexts": [
+    "storyQuiz_await_answer3"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "storyQuiz_await_answer4",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "speech": "Errato. La risposta corretta era \"fu ucciso dai tre fratelli\". Passiamo alla domanda successiva."
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "title": "Domanda 4",
+          "subtitle": "Cosa fece Elisabetta quando vide che Lorenzo era morto?",
+          "buttons": [
+            {
+              "text": "uccise i tre fratelli",
+              "postback": "uccise i tre fratelli"
+            },
+            {
+              "text": "mise la sua testa nel vaso",
+              "postback": "mise la sua testa nel vaso"
+            },
+            {
+              "text": "scappò da Messina",
+              "postback": "scappò da Messina"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Errato. La risposta corretta era \"fu ucciso dai tre fratelli\". Passiamo alla domanda successiva."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Domanda 4",
+          "subtitle": "Cosa fece Elisabetta quando vide che Lorenzo era morto?",
+          "buttons": [
+            {
+              "text": "uccise i tre fratelli",
+              "postback": "uccise i tre fratelli"
+            },
+            {
+              "text": "mise la sua testa nel vaso",
+              "postback": "mise la sua testa nel vaso"
+            },
+            {
+              "text": "scappò da Messina",
+              "postback": "scappò da Messina"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

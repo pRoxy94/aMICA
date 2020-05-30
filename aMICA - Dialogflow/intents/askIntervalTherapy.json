@@ -1,0 +1,194 @@
+{
+  "id": "2239a85d-718f-4882-ada5-fd4ace9d56ed",
+  "name": "askIntervalTherapy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "askIntervalTherapy-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "94ae8c3c-fe3a-40ff-995d-c7795af68c13",
+          "required": false,
+          "dataType": "@drugUseType",
+          "name": "drugusetype",
+          "value": "$drugusetype",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "9325f76f-f0fb-4fab-a0d7-aa5fd7f86d70",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "descrizione",
+          "value": "$descrizione",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "Per cosa assumi il farmaco?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "03378c89-3825-4668-b35a-6fa841db26af",
+          "required": true,
+          "dataType": "@drug",
+          "name": "farmaco",
+          "value": "$farmaco",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "Quale farmaco  assumi?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "4124df0b-c412-4d9c-a0e1-2df2608af44e",
+          "required": true,
+          "dataType": "@daysOfWeek",
+          "name": "giorni",
+          "value": "$giorni",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "In quali giorni assumi il farmaco?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "00be6a51-300d-465c-b950-65ec6ec871e0",
+          "required": true,
+          "dataType": "@sys.time",
+          "name": "orario",
+          "value": "$orario",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "A che ora? (specifica pm/am)"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "it",
+          "condition": "",
+          "textToSpeech": "Ho aggiunto le informazioni sulla tua terapia! Ne vuoi aggiungere altre?",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "it",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Terapie"
+            },
+            {
+              "title": "No grazie"
+            },
+            {
+              "title": "Cancella"
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "text": "Ho aggiunto le informazioni sulla tua terapia intervallare! Ne vuoi aggiungere altre?",
+              "reply_markup": {
+                "one_time_keyboard": true,
+                "keyboard": [
+                  [
+                    {
+                      "callback_data": "terapie",
+                      "text": "Terapie"
+                    }
+                  ],
+                  [
+                    {
+                      "callback_data": "più tardi",
+                      "text": "Più tardi"
+                    },
+                    {
+                      "text": "No grazie",
+                      "callback_data": "no grazie"
+                    },
+                    {
+                      "text": "Cancella",
+                      "callback_data": "cancella"
+                    }
+                  ]
+                ],
+                "resize_keyboard": true
+              }
+            }
+          }
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Ho aggiunto le informazioni sulla tua terapia! Ne vuoi aggiungere altre?",
+          "replies": [
+            "Terapie",
+            "Più tardi",
+            "No grazie",
+            "Cancella"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 750000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

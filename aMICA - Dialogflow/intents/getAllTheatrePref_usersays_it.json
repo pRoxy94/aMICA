@@ -1,0 +1,91 @@
+[
+  {
+    "id": "27b39db8-05e9-438e-9cec-d957a8be00eb",
+    "data": [
+      {
+        "text": "i miei gusti teatrali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ec070fd-db64-4685-be06-7fce0b75d40c",
+    "data": [
+      {
+        "text": "il teatro",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f7facbb1-5ee6-4b71-8fb1-209697ea9690",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace ",
+        "userDefined": false
+      },
+      {
+        "text": "il teatro",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5fdada15-d5c8-4bea-ae5d-7d8e8aaba891",
+    "data": [
+      {
+        "text": "le mie preferenze teatrali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84d9570c-8e26-4484-8662-a07bcc738733",
+    "data": [
+      {
+        "text": "il mio teatro",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

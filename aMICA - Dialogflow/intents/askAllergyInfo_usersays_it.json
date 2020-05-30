@@ -1,0 +1,193 @@
+[
+  {
+    "id": "b3d6ab85-c03a-4874-be4f-994aaf8559b8",
+    "data": [
+      {
+        "text": "ho ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027allergia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1fb1c0f-67bc-4e46-9c5d-ab1bf40a9625",
+    "data": [
+      {
+        "text": "aggiungi ",
+        "userDefined": false
+      },
+      {
+        "text": "allergie",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "724d5068-fc3a-4746-8eda-805d4bacf4df",
+    "data": [
+      {
+        "text": "aggiungi allergia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d52a825-08c7-464a-a409-e7d14eee29b1",
+    "data": [
+      {
+        "text": "sono allergico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "26db5980-37f1-474a-b645-c730463aa4d4",
+    "data": [
+      {
+        "text": "guarda le mie allergie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26dba40a-e6e0-435a-ab9c-2976e00036d7",
+    "data": [
+      {
+        "text": "scrivo le allergie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "af935780-6ef4-4040-850a-686b03c647a5",
+    "data": [
+      {
+        "text": "ti dico le mie allergie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b332be80-4306-4da8-a174-84ccfd848dbb",
+    "data": [
+      {
+        "text": "ti parlo delle mie allergie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec213bca-083e-4002-a925-349693f32e7e",
+    "data": [
+      {
+        "text": "sono allergico al glutine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1e1fa35-47d7-4954-8716-0b2827b5bf22",
+    "data": [
+      {
+        "text": "sono allergico al ",
+        "userDefined": false
+      },
+      {
+        "text": "frumento",
+        "alias": "descrizione",
+        "meta": "@allergyType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6251fd30-0f39-4ad2-bb59-67bc482270b9",
+    "data": [
+      {
+        "text": "voglio aggiungere ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027allergia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "51f45756-9706-428a-8a25-88dd5e865aaf",
+    "data": [
+      {
+        "text": "ho scoperto di essere ",
+        "userDefined": false
+      },
+      {
+        "text": "allergico",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c511cbe1-b34f-4160-82b7-642584cd0842",
+    "data": [
+      {
+        "text": "allergie",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

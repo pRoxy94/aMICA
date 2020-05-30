@@ -1,0 +1,28 @@
+[
+  {
+    "id": "cc256bb6-07ec-46f5-ace1-ea89f39fa649",
+    "data": [
+      {
+        "text": "fu ucciso ",
+        "userDefined": false
+      },
+      {
+        "text": "dai",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tre ",
+        "userDefined": false
+      },
+      {
+        "text": "fratelli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

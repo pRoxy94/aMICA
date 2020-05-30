@@ -1,0 +1,28 @@
+[
+  {
+    "id": "df6a282a-e425-4061-bde6-34e02e44f6b7",
+    "data": [
+      {
+        "text": "Maria",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "5eadae82-59e2-4f23-abed-5acb4e825bda",
+    "data": [
+      {
+        "text": "Giulia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

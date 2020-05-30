@@ -1,0 +1,21 @@
+[
+  {
+    "value": "giornaliera",
+    "synonyms": [
+      "giornaliera",
+      "ogni giorno",
+      "tutti i giorni"
+    ]
+  },
+  {
+    "value": "intervallare",
+    "synonyms": [
+      "intervallo",
+      "ogni due giorni",
+      "ogni tre giorni",
+      "due volte a settimana",
+      "tre volte a settimana",
+      "una volta a settimana"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "41872c0d-d7cd-4464-b639-74dd0c0a78b8",
+  "name": "typeOfMoviePref",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

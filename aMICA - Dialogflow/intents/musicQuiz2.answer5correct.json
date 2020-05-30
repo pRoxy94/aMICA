@@ -1,0 +1,42 @@
+{
+  "id": "84ab7ea6-d18b-462a-b472-73a04d9fd77c",
+  "name": "musicQuiz2.answer5correct",
+  "auto": true,
+  "contexts": [
+    "musicQuiz2_await_answer5"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "musicQuiz2_endQuiz",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Eccezionale, hai risposto correttamente. Ci vediamo al prossimo quiz!"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

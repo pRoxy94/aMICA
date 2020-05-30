@@ -1,0 +1,30 @@
+[
+  {
+    "id": "d1fbb360-eb79-4f63-96d6-af2d89e72eb1",
+    "data": [
+      {
+        "text": "Terence Hill",
+        "alias": "quiz_vip",
+        "meta": "@typeOfVips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6674fdd-b5fe-4d29-8dfb-a4d89ff3386c",
+    "data": [
+      {
+        "text": "Andrea Roncato",
+        "alias": "quiz_vip",
+        "meta": "@typeOfVips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

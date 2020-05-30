@@ -1,0 +1,79 @@
+[
+  {
+    "id": "2728e6b0-290d-49b6-be8a-5b9f4a9d87c5",
+    "data": [
+      {
+        "text": "aggiungi preferenze ",
+        "userDefined": false
+      },
+      {
+        "text": "musica",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "070d12c9-d75a-4c57-a015-18c2aa6626ff",
+    "data": [
+      {
+        "text": "musica",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4473115f-4997-4c79-9023-e3c1ae5a8276",
+    "data": [
+      {
+        "text": "gusti musicali",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "409d2410-3810-4eb6-b078-d30f6dd302ed",
+    "data": [
+      {
+        "text": "aggiungi ",
+        "userDefined": false
+      },
+      {
+        "text": "genere musicale",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8678d700-1b4e-4d24-b60e-75ce94d28ece",
+    "data": [
+      {
+        "text": "aggiungi preferenza ",
+        "userDefined": false
+      },
+      {
+        "text": "musicale",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

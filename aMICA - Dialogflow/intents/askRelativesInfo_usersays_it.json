@@ -1,0 +1,132 @@
+[
+  {
+    "id": "70fc9f05-d296-483c-8453-de7bcb1d083d",
+    "data": [
+      {
+        "text": "aggiungi parenti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c687791-b64e-46fe-afec-3fc380d1d2a0",
+    "data": [
+      {
+        "text": "inserisci mio ",
+        "userDefined": false
+      },
+      {
+        "text": "figlio",
+        "alias": "parentela",
+        "meta": "@relativesType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ef88995-a675-43ba-b112-ebc6d79ce04b",
+    "data": [
+      {
+        "text": "aggiungi mio ",
+        "userDefined": false
+      },
+      {
+        "text": "padre",
+        "alias": "parentela",
+        "meta": "@relativesType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3b615b0-9a09-4419-bbe1-c59cf5df9393",
+    "data": [
+      {
+        "text": "aggiungi mia ",
+        "userDefined": false
+      },
+      {
+        "text": "madre",
+        "alias": "parentela",
+        "meta": "@relativesType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2fd8b616-1c5d-4d2e-8435-d0bdbc857e63",
+    "data": [
+      {
+        "text": "aggiungi parente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2fd337ad-1a0b-44e5-8243-cd4aa546fed6",
+    "data": [
+      {
+        "text": "voglio aggiungere informazioni sui miei parenti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09c5cd58-87de-45ed-bb12-b5ce4ffe63f8",
+    "data": [
+      {
+        "text": "voglio aggiungere le informazioni su ",
+        "userDefined": false
+      },
+      {
+        "text": "mia",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "figlia",
+        "alias": "parentela",
+        "meta": "@relativesType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4f37129-2037-4273-ac68-b764abff28f7",
+    "data": [
+      {
+        "text": "parenti",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "value": "lattosio",
+    "synonyms": [
+      "lattosio",
+      "latticini",
+      "latte"
+    ]
+  },
+  {
+    "value": "glutine",
+    "synonyms": [
+      "glutine",
+      "celiachia"
+    ]
+  },
+  {
+    "value": "favismo",
+    "synonyms": [
+      "favismo",
+      "fave"
+    ]
+  }
+]

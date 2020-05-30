@@ -1,0 +1,148 @@
+[
+  {
+    "id": "1a3dae85-1334-44a4-b555-ebda836aad2d",
+    "data": [
+      {
+        "text": "facciamo esercizi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0b95605-3fe1-4571-9a43-dccc8428afd1",
+    "data": [
+      {
+        "text": "facciamo gli esercizi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "baddd3ef-32bd-4cb4-879b-1acf9e778883",
+    "data": [
+      {
+        "text": "alleniamoci",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f326c3d0-3574-47ad-9a26-c509df9f126c",
+    "data": [
+      {
+        "text": "alleniamoci ",
+        "userDefined": false
+      },
+      {
+        "text": "un pò",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67809f1f-44f1-4fff-adc3-fc7e2518efff",
+    "data": [
+      {
+        "text": "giochiamo ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pò",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70fd2923-a747-4531-8bf6-9151813ba98e",
+    "data": [
+      {
+        "text": "voglio giocare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f089e465-0b78-43f6-9f07-7bbcc4350171",
+    "data": [
+      {
+        "text": "voglio allenare la memoria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c643d763-0387-4858-bb5f-ac01f87283e4",
+    "data": [
+      {
+        "text": "esercizi per la memoria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "062c7e3e-9321-400f-97dc-b1579d25ae2c",
+    "data": [
+      {
+        "text": "voglio fare esercizi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a89d976-d193-4b97-9f0e-735016b56ca3",
+    "data": [
+      {
+        "text": "voglio allenarmi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98a4d2e8-0235-4f49-84ff-1380dee33abc",
+    "data": [
+      {
+        "text": "allenamento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,115 @@
+{
+  "id": "7695b277-bc8f-4403-94fc-8eef677a3eef",
+  "name": "askSportGenre",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "text": "Che tipologia di sport ti piace?",
+              "reply_markup": {
+                "resize_keyboard": true,
+                "one_time_keyboard": true,
+                "keyboard": [
+                  [
+                    {
+                      "callback_data": "calcio",
+                      "text": "Calcio"
+                    },
+                    {
+                      "text": "Pallavolo",
+                      "callback_data": "pallavolo"
+                    },
+                    {
+                      "callback_data": "ciclismo",
+                      "text": "Ciclismo"
+                    },
+                    {
+                      "text": "Nuoto",
+                      "callback_data": "nuoto"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Ballo",
+                      "callback_data": "ballo"
+                    },
+                    {
+                      "callback_data": "carte",
+                      "text": "Carte"
+                    },
+                    {
+                      "callback_data": "tennis",
+                      "text": "Tennis"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Atletica",
+                      "callback_data": "atletica"
+                    },
+                    {
+                      "callback_data": "equitazione",
+                      "text": "Equitazione"
+                    },
+                    {
+                      "callback_data": "basket",
+                      "text": "Basket"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Cancella",
+                      "callback_data": "cancella"
+                    }
+                  ]
+                ]
+              }
+            }
+          }
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Che tipologia di sport ti piace?",
+          "replies": [
+            "Calcio",
+            "Pallavolo",
+            "Ciclismo",
+            "Ballo",
+            "Carte",
+            "Tennis",
+            "Nuoto",
+            "Atletica",
+            "Equitazione",
+            "Basket"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

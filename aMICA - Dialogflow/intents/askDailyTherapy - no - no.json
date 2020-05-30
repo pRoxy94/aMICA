@@ -1,0 +1,36 @@
+{
+  "id": "9c3064b7-5645-4624-bf00-1ac08ad7402a",
+  "parentId": "f4d43f2e-eee2-45fb-afd0-06556fa16531",
+  "rootParentId": "53538339-5ed1-4aa2-8235-0ba443efa464",
+  "name": "askDailyTherapy - no - no",
+  "auto": true,
+  "contexts": [
+    "askDailyTherapy-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "askDailyTherapy.askDailyTherapy-no.askDailyTherapy-no-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": "D\u0027accordo. Contattami quando vuoi!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

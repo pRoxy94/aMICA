@@ -1,0 +1,9 @@
+{
+  "id": "5250eb29-7ce4-4005-b7a2-f609b4c2ed59",
+  "name": "daysOfWeek",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

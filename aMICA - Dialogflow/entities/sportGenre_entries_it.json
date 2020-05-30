@@ -1,0 +1,74 @@
+[
+  {
+    "value": "calcio",
+    "synonyms": [
+      "calcio"
+    ]
+  },
+  {
+    "value": "pallavolo",
+    "synonyms": [
+      "pallavolo"
+    ]
+  },
+  {
+    "value": "ciclismo",
+    "synonyms": [
+      "ciclismo"
+    ]
+  },
+  {
+    "value": "ballo",
+    "synonyms": [
+      "ballo"
+    ]
+  },
+  {
+    "value": "tennis",
+    "synonyms": [
+      "tennis",
+      "tenni tavolo",
+      "ping pong"
+    ]
+  },
+  {
+    "value": "basket",
+    "synonyms": [
+      "basket"
+    ]
+  },
+  {
+    "value": "nuoto",
+    "synonyms": [
+      "nuoto",
+      "tuffi"
+    ]
+  },
+  {
+    "value": "equitazione",
+    "synonyms": [
+      "equitazione",
+      "cavalli"
+    ]
+  },
+  {
+    "value": "carte",
+    "synonyms": [
+      "carte",
+      "burraco",
+      "briscola",
+      "scopa"
+    ]
+  },
+  {
+    "value": "atletica",
+    "synonyms": [
+      "corsa",
+      "salto in alto",
+      "salto in lungo",
+      "ostacoli",
+      "giavellotto",
+      "corsa ad ostacoli"
+    ]
+  }
+]

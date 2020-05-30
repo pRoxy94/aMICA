@@ -1,0 +1,167 @@
+{
+  "id": "ac065a2b-1249-472e-8f05-0a952fbdebb5",
+  "name": "helpUser",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "helpUser-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "text": "Sono il tuo Amico e posso aiutarti a ricordare i tuoi appuntamenti, le tue allergie o intolleranze, i tuoi parenti, le tue preferenze musicali o alimentari, le tue generalità e tanto altro! Cosa ti va di fare?",
+              "reply_markup": {
+                "resize_keyboard": true,
+                "one_time_keyboard": true,
+                "keyboard": [
+                  [
+                    {
+                      "text": "Aggiungi Informazioni",
+                      "callback_data": "aggiungi informazioni"
+                    },
+                    {
+                      "text": "Modifica Informazioni",
+                      "callback_data": "modifica informazioni"
+                    },
+                    {
+                      "text": "Elimina Informazioni",
+                      "callback_data": "elimina informazioni"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Mostra Informazioni",
+                      "callback_data": "mostra informazioni"
+                    },
+                    {
+                      "callback_data": "allenamento",
+                      "text": "Allenamento"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "No grazie",
+                      "callback_data": "no grazie"
+                    },
+                    {
+                      "callback_data": "cancella",
+                      "text": "Cancella"
+                    }
+                  ]
+                ]
+              }
+            }
+          }
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Sono il tuo Amico e posso aiutarti a creare il tuo profilo personale 👤 e ricordarti le tue informazioni ℹ️ quando ne avrai bisogno, possiamo allenarci insieme con qualche esercizio 🤸 o fare un quiz divertente 📝 ! Cosa ti va di fare?"
+        },
+        {
+          "type": 4,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "elements": [
+                    {
+                      "subtitle": "Aggiungi informazioni al tuo profilo, mi serviranno per aiutarti in futuro!",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Fplus%20(1).png?alt\u003dmedia\u0026token\u003d2d7680bb-0f4a-4347-880a-ca7bfe1c536c",
+                      "title": "Aggiungi informazioni",
+                      "buttons": [
+                        {
+                          "payload": "aggiungi info",
+                          "type": "postback",
+                          "title": "Scopri di più"
+                        }
+                      ]
+                    },
+                    {
+                      "subtitle": "Non ricordi qualcosa? Chiedimi di mostrarti le tue informazioni!",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Finfo%20(1).png?alt\u003dmedia\u0026token\u003d935a3c60-c3c6-49ab-9e4a-3dc1e4f3288f",
+                      "title": "Mostra informazioni",
+                      "buttons": [
+                        {
+                          "title": "Scopri di più",
+                          "payload": "mostra info",
+                          "type": "postback"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Modifica informazioni",
+                      "buttons": [
+                        {
+                          "payload": "modifica info",
+                          "type": "postback",
+                          "title": "Scopri di più"
+                        }
+                      ],
+                      "subtitle": "Hai sbagliato qualcosa? Modifica le informazioni del tuo profilo!",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Fpen%20(1).png?alt\u003dmedia\u0026token\u003de02325e9-2a28-4ca6-88f1-aa5e9163fe93"
+                    },
+                    {
+                      "title": "Elimina informazioni",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Scopri di più",
+                          "payload": "elimina info"
+                        }
+                      ],
+                      "subtitle": "Elimina informazioni inutili dal tuo profilo!",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Fclose%20(1).png?alt\u003dmedia\u0026token\u003d6ccbf373-b988-4a68-bda4-61a1af42248f"
+                    },
+                    {
+                      "title": "Allenamento",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Scopri di più",
+                          "payload": "allenamento"
+                        }
+                      ],
+                      "subtitle": "Non sai cosa fare? Alleniamoci un pò insieme!",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Fgym%20(1).png?alt\u003dmedia\u0026token\u003d91a9e1a9-6bd5-4243-95f2-c8404a61262c"
+                    }
+                  ],
+                  "template_type": "generic"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

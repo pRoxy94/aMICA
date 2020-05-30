@@ -1,0 +1,179 @@
+[
+  {
+    "id": "2c51d150-33f4-45c7-a098-cad3da25f947",
+    "data": [
+      {
+        "text": "mettiamo le mie abitudini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60fe254d-8128-4764-874f-8f8c6922fff2",
+    "data": [
+      {
+        "text": "ti dico le mie abitudini quotidiane",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d0581db2-2594-468f-8c5e-30e010cfb659",
+    "data": [
+      {
+        "text": "mettiamo le mie abitudini quotidiane",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd9b5e20-edd7-4f06-8033-3a02d7da3c85",
+    "data": [
+      {
+        "text": "routine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6584bb9-3762-455e-a92d-5a951534fe1f",
+    "data": [
+      {
+        "text": "inserisci abitudine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6096b74d-9f09-44f5-920d-ef261be3ff9f",
+    "data": [
+      {
+        "text": "inserisci routine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e69f877-49de-4246-835a-a4569c6d347e",
+    "data": [
+      {
+        "text": "aggiungi abitudine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3233ac4-3125-4219-95a5-b6e57bb2b9bc",
+    "data": [
+      {
+        "text": "aggiungi routine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b74228c0-02b6-4785-834a-51257ca5d2fb",
+    "data": [
+      {
+        "text": "vado in ",
+        "userDefined": false
+      },
+      {
+        "text": "palestra",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " il ",
+        "userDefined": false
+      },
+      {
+        "text": "lunedì",
+        "alias": "giorni",
+        "meta": "@daysOfWeek",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "mercoledì",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "venerdì",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61bcb7be-844d-4f01-99ec-1198ab7ace20",
+    "data": [
+      {
+        "text": "registra abitudine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3264216b-1897-47b8-934f-d73f79ebb7ab",
+    "data": [
+      {
+        "text": "registra evento ripetuto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "436da859-172f-45d7-84b8-0e8cd371f5f8",
+    "data": [
+      {
+        "text": "aggiungi evento ripetuto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

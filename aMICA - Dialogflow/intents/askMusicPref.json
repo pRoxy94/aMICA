@@ -1,0 +1,148 @@
+{
+  "id": "b63c9873-3f02-4b37-9f08-673ac26aedb9",
+  "name": "askMusicPref",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "askMusicPref-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0f7875ab-ee94-43d7-878d-38f201262a2a",
+          "required": false,
+          "dataType": "@personalTastesType",
+          "name": "tipologia",
+          "value": "$tipologia",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "26731e4f-9aa5-4605-a809-b665d4551377",
+          "required": false,
+          "dataType": "@musicGenre",
+          "name": "genere",
+          "value": "$genere",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "Qual\u0027è il tuo genere musicale preferito?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "c6e63e26-5243-4f2d-b718-4537409e93a8",
+          "required": true,
+          "dataType": "@sys.music-artist",
+          "name": "artista",
+          "value": "$artista",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "Qual è il tuo cantante preferito?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "de22bad1-6fc1-4795-8b22-1cd350ea0fbe",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "canzone",
+          "value": "$canzone",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "Qual è il tuo brano preferito?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "text": "Ottimo! Ho aggiunto le tue preferenze musicali. Vuoi aggiungerne altre?",
+              "reply_markup": {
+                "resize_keyboard": true,
+                "one_time_keyboard": true,
+                "keyboard": [
+                  [
+                    {
+                      "text": "Gusti Personali",
+                      "callback_data": "gusti personali"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Più tardi",
+                      "callback_data": "più tardi"
+                    },
+                    {
+                      "text": "No grazie",
+                      "callback_data": "no grazie"
+                    },
+                    {
+                      "text": "Cancella",
+                      "callback_data": "cancella"
+                    }
+                  ]
+                ]
+              }
+            }
+          }
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Ottimo! Ho aggiunto le tue preferenze musicali. Vuoi aggiungerne altre?",
+          "replies": [
+            "Gusti Personali",
+            "Più tardi",
+            "No grazie",
+            "Cancella"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

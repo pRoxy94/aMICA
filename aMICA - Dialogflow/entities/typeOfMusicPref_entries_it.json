@@ -1,0 +1,32 @@
+[
+  {
+    "value": "canzone",
+    "synonyms": [
+      "canzone",
+      "brano",
+      "traccia musicale",
+      "canzoni",
+      "brani"
+    ]
+  },
+  {
+    "value": "artista",
+    "synonyms": [
+      "artista",
+      "cantante",
+      "musicista",
+      "cantanti",
+      "artisti"
+    ]
+  },
+  {
+    "value": "genere",
+    "synonyms": [
+      "genere",
+      "genere musicale",
+      "musica",
+      "tipo di musica",
+      "generi"
+    ]
+  }
+]

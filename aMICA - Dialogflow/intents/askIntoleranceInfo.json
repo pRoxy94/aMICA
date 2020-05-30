@@ -1,0 +1,120 @@
+{
+  "id": "46a0ed03-af14-4d62-8d45-8d373dcdaa53",
+  "name": "askIntoleranceInfo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "askIntoleranceInfo-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "91233815-a8e3-4d8b-b687-aa87dccb3fe2",
+          "required": true,
+          "dataType": "@intoleranceType",
+          "name": "descrizione",
+          "value": "$descrizione",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "A cosa sei intollerante?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "a51e23a9-1f73-434e-8a44-f52532ddf3fe",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "farmaco",
+          "value": "$farmaco",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "In caso di necessità quale farmaco assumi?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "text": "Grazie per l\u0027informazione! Vuoi aggiungerne altre?",
+              "reply_markup": {
+                "resize_keyboard": true,
+                "one_time_keyboard": true,
+                "keyboard": [
+                  [
+                    {
+                      "text": "Intolleranze",
+                      "callback_data": "intolleranze"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Più tardi",
+                      "callback_data": "più tardi"
+                    },
+                    {
+                      "callback_data": "no grazie",
+                      "text": "No grazie"
+                    },
+                    {
+                      "callback_data": "cancella",
+                      "text": "Cancella"
+                    }
+                  ]
+                ]
+              }
+            }
+          }
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Grazie per l\u0027informazione! Vuoi aggiungerne altre?",
+          "replies": [
+            "Intolleranze",
+            "Più tardi",
+            "No grazie",
+            "Cancella"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

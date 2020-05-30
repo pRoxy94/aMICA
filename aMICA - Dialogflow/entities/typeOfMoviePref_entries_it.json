@@ -1,0 +1,29 @@
+[
+  {
+    "value": "genere",
+    "synonyms": [
+      "genere",
+      "generi",
+      "genere cinematografico",
+      "generi di film",
+      "genere di film"
+    ]
+  },
+  {
+    "value": "regista",
+    "synonyms": [
+      "regista",
+      "registi",
+      "regia"
+    ]
+  },
+  {
+    "value": "titolo",
+    "synonyms": [
+      "titolo",
+      "film",
+      "titoli di film",
+      "titoli dei film"
+    ]
+  }
+]

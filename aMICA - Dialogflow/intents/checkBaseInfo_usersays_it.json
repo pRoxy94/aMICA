@@ -1,0 +1,179 @@
+[
+  {
+    "id": "0cbbed35-6c6a-4ba3-9b20-e73356a7f316",
+    "data": [
+      {
+        "text": "aggiungi ",
+        "userDefined": false
+      },
+      {
+        "text": "generalità",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a2d53de-3b1c-4fbb-8062-02edce84b8e2",
+    "data": [
+      {
+        "text": "scrivo le ",
+        "userDefined": false
+      },
+      {
+        "text": "generalità",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3ff24dc-ae1a-4f20-ba61-3fca97b35968",
+    "data": [
+      {
+        "text": "voglio presentarmi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3ec3c93-87ea-462e-aa47-977663463822",
+    "data": [
+      {
+        "text": "posso presentarmi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39959ce6-7451-471d-a792-2305945ca1b0",
+    "data": [
+      {
+        "text": "ti parlo di me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1644d3d3-ddbc-48d8-925a-73556ea3f4ae",
+    "data": [
+      {
+        "text": "conosciamoci",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "35712822-81f8-4019-b900-f6dd2bd82306",
+    "data": [
+      {
+        "text": "ti dico chi sono",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7fbd828f-cfa7-414d-a9d0-672b5b7922d3",
+    "data": [
+      {
+        "text": "ti dico le mie ",
+        "userDefined": false
+      },
+      {
+        "text": "generalità",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b249b53d-eaa8-4ed6-adec-e5447e38ac21",
+    "data": [
+      {
+        "text": "ti informo su di me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3eb91fc7-f5dc-414a-85e4-bbfcffb40922",
+    "data": [
+      {
+        "text": "ti do informazioni su di me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d3b2a6c-1983-49c7-9e06-fb8b04423ea0",
+    "data": [
+      {
+        "text": "voglio parlarti di me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f691d4f-3ac1-4f0d-8839-7d9a8bfed21c",
+    "data": [
+      {
+        "text": "generalità",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c9652c19-5cac-487d-b483-dc58d7cffa03",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " presento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

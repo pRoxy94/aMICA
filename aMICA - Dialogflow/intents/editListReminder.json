@@ -1,0 +1,111 @@
+{
+  "id": "3f792c2a-ea43-4c2e-8dc2-82e88667f1c1",
+  "name": "editListReminder",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cc52ecf9-94a5-47f2-aebf-bd5f64becc00",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "titolo",
+          "value": "$titolo",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "Qual è il titolo della lista? es. \u0027spesa\u0027, \u0027cose da portare\u0027, ecc..."
+            },
+            {
+              "lang": "it",
+              "value": "Come si chiama la lista? es. \u0027spesa\u0027, \u0027cose da portare\u0027, ecc..."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "3b56ad1c-dcf2-491e-b259-72ab833c634c",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "elementi",
+          "value": "$elementi",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "Quali elementi vuoi aggiungere alla lista?"
+            },
+            {
+              "lang": "it",
+              "value": "Che elementi vuoi aggiungere alla lista?"
+            },
+            {
+              "lang": "it",
+              "value": "Cosa vuoi aggiungere alla lista?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Perfetto, ho aggiunto i nuovi elementi alla lista! 📝 Vuoi rivederla? 😊"
+        },
+        {
+          "type": 4,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "generic",
+                  "elements": [
+                    {
+                      "title": "Le tue liste",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Flist.png?alt\u003dmedia\u0026token\u003d5033a889-672a-47a0-91b5-e45836395aa2",
+                      "subtitle": "Rivedi la tua lista dopo averla modificata",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Scopri di più",
+                          "payload": "le mie liste"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

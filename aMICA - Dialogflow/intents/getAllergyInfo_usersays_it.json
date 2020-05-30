@@ -1,0 +1,367 @@
+[
+  {
+    "id": "7b8f27d7-37b4-483d-bd8a-831c18729940",
+    "data": [
+      {
+        "text": "dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " po\u0027 le allergie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ed99ef6-267c-4b9c-bdf6-e8c3b28479d2",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dici quali sono le mie allergie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6db4be54-0adb-4779-b5b4-6313267afe6c",
+    "data": [
+      {
+        "text": "che allergie ho?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22cc38e2-cac7-44ab-a260-61ebae79139d",
+    "data": [
+      {
+        "text": "che allergie ",
+        "userDefined": false
+      },
+      {
+        "text": "c\u0027ho",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08732e83-68c0-4f61-bd99-c6c4c11f006d",
+    "data": [
+      {
+        "text": "posso vedere a cosa sono allergico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "07cb4b77-e5af-4383-b820-2ca449a75351",
+    "data": [
+      {
+        "text": "vediamo ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " po\u0027 a cosa sono allergico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "78463d4c-2036-44cc-90ff-48a4c25b2e8a",
+    "data": [
+      {
+        "text": "mostra",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " le mie allergie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "35a8ed79-0597-42e5-8c59-679496325671",
+    "data": [
+      {
+        "text": "vediamo a cosa sono allergico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56a6b4f7-2822-4e8c-b034-9ce1f9e1cc7b",
+    "data": [
+      {
+        "text": "per favore possiamo vedere le allergie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3825834c-1831-4809-af5e-3239274a1d7d",
+    "data": [
+      {
+        "text": "mostrami le allergie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "188fc1f3-7ea7-4648-a0b3-12a83a93fe1a",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " puoi far vedere le allergie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3a74e8c-0465-4cfb-8928-ce42cf98102c",
+    "data": [
+      {
+        "text": "possiamo vedere le mie allergie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d92dab37-23e6-4f33-8077-b70a60b05456",
+    "data": [
+      {
+        "text": "vediamo le mie allergie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56902e02-d908-40da-967d-05db25752c83",
+    "data": [
+      {
+        "text": "per caso sono allergico?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84e5e500-28ed-436f-a8bb-4090708b60eb",
+    "data": [
+      {
+        "text": "allergico sono per caso?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59e45c87-0e97-4082-af7f-1ee128c28681",
+    "data": [
+      {
+        "text": "quali sono le mie allergie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "550a9c64-9a99-44a8-9150-a5b5d6b593d7",
+    "data": [
+      {
+        "text": "e le mie allergie quali sono?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7dcefae8-088c-469d-9992-c0778839a61d",
+    "data": [
+      {
+        "text": "ho delle allergie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38b63e73-3262-402d-979a-122d0509142f",
+    "data": [
+      {
+        "text": "ho allergie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df8ae760-c22c-46fe-b380-a6678d2757c5",
+    "data": [
+      {
+        "text": "sai se sono allergico a qualcosa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e594503c-7192-4cc3-a89c-ec70a76a6ce0",
+    "data": [
+      {
+        "text": "sai se ho delle allergie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ed5aebcc-36ef-4708-b33a-14721f68a585",
+    "data": [
+      {
+        "text": "dimmi le mie allergie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "61a8c2f1-dd8c-4b77-9deb-fd9ceb155262",
+    "data": [
+      {
+        "text": "sono ",
+        "userDefined": false
+      },
+      {
+        "text": "allergico",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " a qualcosa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "eeed65ce-3434-44ce-96e0-0d7dc2899b31",
+    "data": [
+      {
+        "text": "le mie ",
+        "userDefined": false
+      },
+      {
+        "text": "allergie",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb5adde3-5d6a-41dc-8e4f-de697a99d018",
+    "data": [
+      {
+        "text": "a cosa sono ",
+        "userDefined": false
+      },
+      {
+        "text": "allergico",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

@@ -1,0 +1,62 @@
+{
+  "id": "f406d23f-79ae-453a-98d7-be7033eab429",
+  "name": "getSportPref",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "getSportPref-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "00f5d907-c314-4bff-af1e-13a6bec33850",
+          "required": false,
+          "dataType": "@typeOfSportPref",
+          "name": "genere",
+          "value": "$genere",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "69e99616-21eb-47c9-92e2-12b2be95ba1a",
+          "required": false,
+          "dataType": "@typeOfSportPref",
+          "name": "personaggio",
+          "value": "$personaggio",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

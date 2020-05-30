@@ -1,0 +1,368 @@
+[
+  {
+    "id": "ef9bd584-93e2-45f5-84f1-5e8743a98175",
+    "data": [
+      {
+        "text": "conosci mia ",
+        "userDefined": false
+      },
+      {
+        "text": "moglie",
+        "alias": "fratello",
+        "meta": "@relativesType",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8c7afaeb-d7b5-4772-bfda-6d9eb59cabb1",
+    "data": [
+      {
+        "text": "ho ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "marito",
+        "alias": "marito",
+        "meta": "@relativesType",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9c660cc-56de-4d17-85f0-10775f2d0016",
+    "data": [
+      {
+        "text": "ho ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "moglie",
+        "alias": "fratello",
+        "meta": "@relativesType",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eff31a18-5c75-4e42-af89-62acaf11a17a",
+    "data": [
+      {
+        "text": "chi è mia ",
+        "userDefined": false
+      },
+      {
+        "text": "moglie",
+        "alias": "fratello",
+        "meta": "@relativesType",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5511103d-435c-42a2-ac67-1de884db1c6a",
+    "data": [
+      {
+        "text": "chi ",
+        "userDefined": false
+      },
+      {
+        "text": "è mio",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "figlio",
+        "alias": "marito",
+        "meta": "@relativesType",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f203c84d-473c-481d-8025-e54c6026e595",
+    "data": [
+      {
+        "text": "chi ",
+        "userDefined": false
+      },
+      {
+        "text": "è mio",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "marito",
+        "alias": "marito",
+        "meta": "@relativesType",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d129e2a4-0a06-4ec7-9af8-106ab6ce169c",
+    "data": [
+      {
+        "text": "chi è mia ",
+        "userDefined": false
+      },
+      {
+        "text": "figlia",
+        "alias": "fratello",
+        "meta": "@relativesType",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd8a8d90-ad7b-4ca7-9fcf-c6b0abf4811e",
+    "data": [
+      {
+        "text": "chi è mia ",
+        "userDefined": false
+      },
+      {
+        "text": "madre",
+        "alias": "fratello",
+        "meta": "@relativesType",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f942a7b-ea2b-413e-88da-79c21b18ae71",
+    "data": [
+      {
+        "text": "moglie",
+        "alias": "moglie",
+        "meta": "@relativesType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f7529e8f-36e8-479b-a713-4a2dbd18915b",
+    "data": [
+      {
+        "text": "nuora",
+        "alias": "nuora",
+        "meta": "@relativesType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c13a773b-c84b-4c95-a9e2-1efd56b482dc",
+    "data": [
+      {
+        "text": "marito",
+        "alias": "marito",
+        "meta": "@relativesType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ff1ccfd-c5a5-478b-9a68-e45270d91300",
+    "data": [
+      {
+        "text": "genero",
+        "alias": "genero",
+        "meta": "@relativesType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e5a9f7a-02ae-41a9-975b-bfde7ed71bd6",
+    "data": [
+      {
+        "text": "suocera",
+        "alias": "suocera",
+        "meta": "@relativesType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "563363df-25fd-41cb-8abb-560e75d6346e",
+    "data": [
+      {
+        "text": "cugina",
+        "alias": "cugina",
+        "meta": "@relativesType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "645291ee-1446-4328-a5ce-c65529e5bd6c",
+    "data": [
+      {
+        "text": "cugino",
+        "alias": "cugino",
+        "meta": "@relativesType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f4751f57-64b7-4eb4-8509-b5303c85dfea",
+    "data": [
+      {
+        "text": "fratello",
+        "alias": "fratello",
+        "meta": "@relativesType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b77f7483-eb09-402a-be43-4c5b8ab1639d",
+    "data": [
+      {
+        "text": "sorella",
+        "alias": "sorella",
+        "meta": "@relativesType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85b771cd-7672-4bf9-8652-22d9d977d321",
+    "data": [
+      {
+        "text": "madre",
+        "alias": "madre",
+        "meta": "@relativesType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa5d30d0-1517-4b7f-b1f3-243c94b5530b",
+    "data": [
+      {
+        "text": "padre",
+        "alias": "marito",
+        "meta": "@relativesType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

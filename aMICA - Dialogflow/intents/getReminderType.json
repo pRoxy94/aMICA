@@ -1,0 +1,125 @@
+{
+  "id": "1989237e-daa6-48b9-a17f-0ac9e2d4669b",
+  "name": "getReminderType",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "text": "Per quali promemoria vuoi ricevere informazioni?",
+              "reply_markup": {
+                "one_time_keyboard": true,
+                "keyboard": [
+                  [
+                    {
+                      "text": "I Miei Programmi",
+                      "callback_data": "i miei programmi"
+                    },
+                    {
+                      "text": "Le Mie Routine",
+                      "callback_data": "le mie routine"
+                    },
+                    {
+                      "callback_data": "le mie liste",
+                      "text": "Le Mie Liste"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Cancella",
+                      "callback_data": "cancella"
+                    }
+                  ]
+                ],
+                "resize_keyboard": true
+              }
+            }
+          }
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Sono felice di poterti aiutare! Puoi scegliere di rivedere i tuoi appuntamenti 📅, le tue routine 🦮 o le tue liste 📝. Per quali promemoria vuoi ricevere informazioni?😊"
+        },
+        {
+          "type": 4,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "generic",
+                  "elements": [
+                    {
+                      "title": "I tuoi programmi",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Fcalendar.png?alt\u003dmedia\u0026token\u003d6005c521-8a9b-48b4-8afa-508dade12510",
+                      "subtitle": "Rivedi i tuoi promemoria programmati",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Scopri di più",
+                          "payload": "i miei appuntamenti"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Le tue routine",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Froutine.png?alt\u003dmedia\u0026token\u003d0023a42d-d134-4547-bb7f-8bb7609ea3a3",
+                      "subtitle": "Rivedi le tue routine",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Scopri di più",
+                          "payload": "le mie abitudini"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Le tue liste",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Flist.png?alt\u003dmedia\u0026token\u003d5033a889-672a-47a0-91b5-e45836395aa2",
+                      "subtitle": "Rivedi le tue liste",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Scopri di più",
+                          "payload": "le mie liste"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

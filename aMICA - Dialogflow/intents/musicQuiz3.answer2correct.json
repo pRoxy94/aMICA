@@ -1,0 +1,79 @@
+{
+  "id": "ff1229e5-7230-45b6-bc16-96366c38d77b",
+  "name": "musicQuiz3.answer2correct",
+  "auto": true,
+  "contexts": [
+    "musicQuiz3_await_answer2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "musicQuiz3_await_answer3",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Risposta corretta, passiamo alla domanda successiva!."
+        },
+        {
+          "type": 4,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "payload": {
+                  "url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/musica%2FmusicQuiz3%2F3%20-%203%20-%20Eri%20Piccola%20Cos%C3%AC%20-%20Fred%20Buscaglione.mp3?alt\u003dmedia\u0026token\u003dadc118c1-85df-4c14-b0f9-0aed7f0972ed"
+                },
+                "type": "audio"
+              }
+            }
+          }
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Chi canta questa canzone?",
+          "buttons": [
+            {
+              "text": "Mino Reitano",
+              "postback": "Mina"
+            },
+            {
+              "text": "Luigi Tenco",
+              "postback": "Louiselle"
+            },
+            {
+              "text": "Renato Rascel",
+              "postback": "Maria Monti"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

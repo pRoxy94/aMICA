@@ -1,0 +1,312 @@
+[
+  {
+    "id": "5c8db9ed-a233-490a-9501-836273f5cd71",
+    "data": [
+      {
+        "text": "prendo il ",
+        "userDefined": false
+      },
+      {
+        "text": "glutik",
+        "alias": "farmaco",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " per l\u0027intolleranza al ",
+        "userDefined": false
+      },
+      {
+        "text": "glutine",
+        "alias": "descrizione",
+        "meta": "@intoleranceType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4217d18d-dbc1-4a83-bf63-c9627f287091",
+    "data": [
+      {
+        "text": "scrivi che non tollero il ",
+        "userDefined": false
+      },
+      {
+        "text": "latte",
+        "alias": "descrizione",
+        "meta": "@intoleranceType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6357d92f-d732-477f-82ad-c04a20c8ae38",
+    "data": [
+      {
+        "text": "scrivi che sono intollerante al ",
+        "userDefined": false
+      },
+      {
+        "text": "glutine",
+        "alias": "descrizione",
+        "meta": "@intoleranceType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6909cb39-1f2c-48bb-87f3-1e3da9653db6",
+    "data": [
+      {
+        "text": "so di essere intollerante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4afa8f21-aaa9-47bc-a055-494d4ec35c3e",
+    "data": [
+      {
+        "text": "ho scoperto che sono intollerante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea386aef-8430-4f2c-94eb-03c91290e756",
+    "data": [
+      {
+        "text": "sono intollerante al ",
+        "userDefined": false
+      },
+      {
+        "text": "latte",
+        "alias": "descrizione",
+        "meta": "@intoleranceType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49c56b76-5074-454e-8568-f76105d07fa4",
+    "data": [
+      {
+        "text": "soffro di intolleranza al ",
+        "userDefined": false
+      },
+      {
+        "text": "lattosio",
+        "alias": "descrizione",
+        "meta": "@intoleranceType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "961f09f0-4ad4-46d6-8b0e-550433d9ca97",
+    "data": [
+      {
+        "text": "sono intollerante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c1dc6840-f12a-413f-bc58-9d65cef41912",
+    "data": [
+      {
+        "text": "ho scoperto di essere intollerante al ",
+        "userDefined": false
+      },
+      {
+        "text": "lattosio",
+        "alias": "descrizione",
+        "meta": "@intoleranceType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "95c7a891-2741-4873-a7c5-6df39e79a51b",
+    "data": [
+      {
+        "text": "scrivi intolleranza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb286a4b-35a9-4d60-b03e-227571d72ffc",
+    "data": [
+      {
+        "text": "assumo il ",
+        "userDefined": false
+      },
+      {
+        "text": "lacdigest",
+        "alias": "farmaco",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " per l\u0027intolleranza al ",
+        "userDefined": false
+      },
+      {
+        "text": "lattosio",
+        "alias": "descrizione",
+        "meta": "@intoleranceType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7d837328-ef11-4ff0-80b8-d44595d063e7",
+    "data": [
+      {
+        "text": "sono intollerante al ",
+        "userDefined": false
+      },
+      {
+        "text": "lattosio",
+        "alias": "descrizione",
+        "meta": "@intoleranceType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec3193fa-8099-4d63-be49-d6de24040c20",
+    "data": [
+      {
+        "text": "scrivi la mia intolleranza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "786c9203-5041-4d32-bb87-5dcbab2aaa67",
+    "data": [
+      {
+        "text": "aggiungi intolleranza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0dc5f0b0-eb74-4210-80f5-3b639420b72e",
+    "data": [
+      {
+        "text": "aggiungi intolleranza al ",
+        "userDefined": false
+      },
+      {
+        "text": "glutine",
+        "alias": "descrizione",
+        "meta": "@intoleranceType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a4561c3a-95ba-4de4-a105-9b6e7639c55e",
+    "data": [
+      {
+        "text": "intolleranze",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "99064e3e-395c-4233-9e08-b054841b4518",
+    "data": [
+      {
+        "text": "voglio registrare ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "intolleranza",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb1d3a28-0f18-4107-aa0a-b9404d44c572",
+    "data": [
+      {
+        "text": "ho scoperto di essere ",
+        "userDefined": false
+      },
+      {
+        "text": "intollerante",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

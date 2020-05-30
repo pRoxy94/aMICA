@@ -1,0 +1,144 @@
+[
+  {
+    "id": "f1edc5c7-9855-4286-9f5a-a10108ed3c81",
+    "data": [
+      {
+        "text": "dimmelo ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "un secondo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " momento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2ce795d-0c00-42ad-a709-e161cb70a79e",
+    "data": [
+      {
+        "text": "chiedimelo più tardi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "178a936c-2f48-468e-bd70-955b55eb1429",
+    "data": [
+      {
+        "text": "chiedimelo dopo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef3cfcf3-626b-4ae6-a670-74729a76d94e",
+    "data": [
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " altro momento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ad7f9059-f1f4-40de-8ce6-ff4f94bbaf65",
+    "data": [
+      {
+        "text": "dopo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f156c3e-ea12-434d-b8ec-fbce4d89bf7a",
+    "data": [
+      {
+        "text": "magari dopo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "96f015ad-cd6d-4bbd-9ca3-01ff1487471f",
+    "data": [
+      {
+        "text": "più ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "là",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f991f37c-ce0c-4c7e-8cb7-ff1142895a82",
+    "data": [
+      {
+        "text": "più tardi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

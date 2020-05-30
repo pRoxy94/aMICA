@@ -1,0 +1,36 @@
+{
+  "id": "5d5d73b7-3434-4d07-a87e-b4b7d51cd29d",
+  "parentId": "56401e80-7804-4b07-b497-ae6a635597aa",
+  "rootParentId": "b17324da-df89-494d-b3b3-616589c37fdb",
+  "name": "askTheatrePref - no - no",
+  "auto": true,
+  "contexts": [
+    "askTheatrePref-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "askTheatrePref.askTheatrePref-no.askTheatrePref-no-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": "Bene. Ci sentiamo pesto!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

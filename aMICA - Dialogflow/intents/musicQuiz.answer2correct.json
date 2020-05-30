@@ -1,0 +1,77 @@
+{
+  "id": "11dccc2c-07d0-4b5d-a672-73cd56500fd9",
+  "name": "musicQuiz.answer2correct",
+  "auto": true,
+  "contexts": [
+    "await_answer2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "await_answer3",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Corretta! Passiamo alla terza canzone!"
+        },
+        {
+          "type": 4,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "payload": {
+                  "url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/musica%2F3)%20Rita%20Pavone%20-%20Datemi%20Un%20Martello.mp3?alt\u003dmedia\u0026token\u003ded86b860-96a5-4fb2-b1f9-906a424c87ba"
+                },
+                "type": "audio"
+              }
+            }
+          }
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Chi è il cantante di questa canzone?",
+          "buttons": [
+            {
+              "text": "Fiorella Mannoia",
+              "postback": "Fiorella Mannoia"
+            },
+            {
+              "text": "Rita Pavone",
+              "postback": "Rita Pavone"
+            },
+            {
+              "text": "Raffaella Carrà",
+              "postback": "Raffaella Carrà"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

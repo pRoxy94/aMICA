@@ -1,0 +1,97 @@
+{
+  "id": "be74c597-5e5e-41dd-878c-c5e3d8d72307",
+  "name": "vipImageQuiz2_answer1correct",
+  "auto": true,
+  "contexts": [
+    "vipImageQuiz2_await_answer1"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "vipImageQuiz2_await_answer2",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "speech": "Risposta corretta! Passiamo al prossimo volto!"
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "title": "Di chi si tratta?",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/facce%2FvipImageQuiz2%2F2%20-%202%20-%20Adriano%20Celentano.jpg?alt\u003dmedia\u0026token\u003d3d25e344-9848-40f1-b979-1e16ca5449ab",
+          "buttons": [
+            {
+              "text": "Bud Spencer",
+              "postback": "Bud Spencer"
+            },
+            {
+              "text": "Adriano Celentano",
+              "postback": "Adriano Celentano"
+            },
+            {
+              "text": "Renato Pozzetto",
+              "postback": "Renato Pozzetto"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Risposta corretta! Passiamo al prossimo volto."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Di chi si tratta?",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/facce%2FvipImageQuiz2%2F2%20-%202%20-%20Adriano%20Celentano.jpg?alt\u003dmedia\u0026token\u003d3d25e344-9848-40f1-b979-1e16ca5449ab",
+          "buttons": [
+            {
+              "text": "Bud Spencer",
+              "postback": "Bud Spencer"
+            },
+            {
+              "text": "Adriano Celentano",
+              "postback": "Adriano Celentano"
+            },
+            {
+              "text": "Renato Pozzetto",
+              "postback": "Renato Pozzetto"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

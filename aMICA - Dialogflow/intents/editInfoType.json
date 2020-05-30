@@ -1,0 +1,91 @@
+{
+  "id": "b2cc0259-d4ee-40e2-962b-6d02296b125e",
+  "name": "editInfoType",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "text": "Che informazioni vuoi modificare?",
+              "reply_markup": {
+                "resize_keyboard": true,
+                "one_time_keyboard": true,
+                "keyboard": [
+                  [
+                    {
+                      "callback_data": "le mie liste",
+                      "text": "Le Mie Liste"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Cancella",
+                      "callback_data": "cancella"
+                    }
+                  ]
+                ]
+              }
+            }
+          }
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Hai dimenticato qualcosa? Non preoccuparti, puoi aggiungere nuovi elementi alla tua lista! 📝 Rivedi le tue liste, scegli quella da modificare e seleziona il pulsante \"modifica\". 😊"
+        },
+        {
+          "type": 4,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "generic",
+                  "elements": [
+                    {
+                      "title": "Le tue liste",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Flist.png?alt\u003dmedia\u0026token\u003d5033a889-672a-47a0-91b5-e45836395aa2",
+                      "subtitle": "Rivedi le tue liste e scegli quella da modificare",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Scopri di più",
+                          "payload": "le mie liste"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

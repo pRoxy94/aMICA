@@ -1,0 +1,77 @@
+{
+  "id": "ab332df2-0781-4c77-ad1f-19a0b8fa7129",
+  "name": "musicQuiz",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "await_answer1",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Bene, cominciamo! Ricordati che puoi terminare l\u0027allenamento in qualsiasi momento scrivendo \"cancella\"."
+        },
+        {
+          "type": 4,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "audio",
+                "payload": {
+                  "url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/musica%2F1)%20Tony%20Dallara%20-%20Come%20prima.mp3?alt\u003dmedia\u0026token\u003d7db0ef58-8bd9-4e7a-b459-aee873a181ca"
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Chi canta questa canzone?",
+          "buttons": [
+            {
+              "text": "Gianni Morandi",
+              "postback": "Gianni Morandi"
+            },
+            {
+              "text": "Tony Dallara",
+              "postback": "Tony Dallara"
+            },
+            {
+              "text": "Iva Zanicchi",
+              "postback": "Iva Zanicchi"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

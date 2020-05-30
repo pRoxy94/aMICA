@@ -1,0 +1,64 @@
+[
+  {
+    "id": "77b0d100-fc48-4cc5-87c3-045bb1240d68",
+    "data": [
+      {
+        "text": "modifica lista ",
+        "userDefined": false
+      },
+      {
+        "text": "cose da portare",
+        "alias": "titolo",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33151619-640c-4ea9-b207-f9ed951df713",
+    "data": [
+      {
+        "text": "modifica ",
+        "userDefined": false
+      },
+      {
+        "text": "lista",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "spesa",
+        "alias": "titolo",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f25960c1-6d75-4792-abec-ba4cbad5df21",
+    "data": [
+      {
+        "text": "modifica ",
+        "userDefined": false
+      },
+      {
+        "text": "lista",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

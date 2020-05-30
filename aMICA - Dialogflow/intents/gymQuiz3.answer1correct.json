@@ -1,0 +1,96 @@
+{
+  "id": "d306df22-9c16-4b54-9b9e-902cbeb4543a",
+  "name": "gymQuiz3.answer1correct",
+  "auto": true,
+  "contexts": [
+    "gymQuiz3_await_answer1"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "gymQuiz3_await_answer2",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "speech": "Ottimo! Passiamo all\u0027esercizio successivo!"
+        },
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "text": "[Clicca per ingrandire](https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/esercizi%2Fexercise2.gif?alt\u003dmedia\u0026token\u003d8e3cde2d-6a21-498a-ab88-c78a017febd2)",
+              "parse_mode": "Markdown"
+            }
+          }
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "title": "Sei riuscito a fare questo esercizio?",
+          "replies": [
+            "Ci sono riuscito",
+            "Non ci sono riuscito"
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Ottimo! Passiamo all\u0027esercizio successivo."
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/esercizi%2Flivello%203%2Fgym2.8.gif?alt\u003dmedia\u0026token\u003dbce82dbc-6dde-4aa6-808d-6d90e3550f96"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Esercizio 2",
+          "buttons": [
+            {
+              "text": "Ci sono riuscito",
+              "postback": "Ci sono riuscito"
+            },
+            {
+              "text": "Non ci sono riuscito",
+              "postback": "Non ci sono riuscito"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

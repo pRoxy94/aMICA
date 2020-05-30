@@ -1,0 +1,167 @@
+[
+  {
+    "id": "ab7d783b-96d4-4a05-a962-a58191d2b943",
+    "data": [
+      {
+        "text": "allenamento musicale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "080c794e-9fa1-4f22-b0fb-264225997229",
+    "data": [
+      {
+        "text": "fammi fare ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quiz musicale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee1c4145-3d9b-44fe-87f6-f6d464b0e7ae",
+    "data": [
+      {
+        "text": "quiz musicale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "30520911-f1ab-42d3-86f9-fe1b4634a54c",
+    "data": [
+      {
+        "text": "allenamento ",
+        "userDefined": false
+      },
+      {
+        "text": "musica",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1644b2e-4fbf-40d0-899c-db7b91414e45",
+    "data": [
+      {
+        "text": "alleniamoci con ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pò di ",
+        "userDefined": false
+      },
+      {
+        "text": "musica",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a0805a6-5dd8-4bf1-8ab5-b51a2820aae7",
+    "data": [
+      {
+        "text": "alleniamoci con della ",
+        "userDefined": false
+      },
+      {
+        "text": "musica",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "367c46c7-4f1d-4072-8f62-8d0b2db8f328",
+    "data": [
+      {
+        "text": "facciamo ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quiz sulla ",
+        "userDefined": false
+      },
+      {
+        "text": "musica",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "166d4f96-a4ba-4ddc-aee0-c62483d362b0",
+    "data": [
+      {
+        "text": "quiz sulla ",
+        "userDefined": false
+      },
+      {
+        "text": "musica",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "299360c3-c991-4205-86df-32a27e9ec2b3",
+    "data": [
+      {
+        "text": "quiz ",
+        "userDefined": false
+      },
+      {
+        "text": "musica",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

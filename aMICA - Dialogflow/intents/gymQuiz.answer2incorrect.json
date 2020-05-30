@@ -1,0 +1,100 @@
+{
+  "id": "6912101e-0f18-4511-acde-721956abc57c",
+  "name": "gymQuiz.answer2incorrect",
+  "auto": true,
+  "contexts": [
+    "gymQuiz_await_answer2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "gymQuiz_await_answer3",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "speech": "Non fa niente, passiamo al prossimo esercizio!"
+        },
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "parse_mode": "Markdown",
+              "text": "[Clicca per ingrandire](https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/esercizi%2Fexercise3.gif?alt\u003dmedia\u0026token\u003d066e3b42-f9cf-434a-af6a-777c2b809bf1)"
+            }
+          }
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "title": "Sei riuscito a farlo?",
+          "replies": [
+            "Fatto",
+            "Niente da fare"
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Non fa niente, passiamo al prossimo esercizio!"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/esercizi%2Flivello%201%2Fgym4.gif?alt\u003dmedia\u0026token\u003d349025e1-bc1e-458a-aefb-f3652d7ad5ea"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Esercizio 3",
+          "buttons": [
+            {
+              "text": "Fatto",
+              "postback": "Fatto"
+            },
+            {
+              "text": "Niente da fare",
+              "postback": "Niente da fare"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

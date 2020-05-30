@@ -1,0 +1,61 @@
+{
+  "id": "9e6a6801-44a3-43ba-9136-b7ffd053f890",
+  "name": "getMoviePrefInfo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d8aabaaa-4709-492d-97be-f6126a68bc61",
+          "required": false,
+          "dataType": "@typeOfMoviePref",
+          "name": "regista",
+          "value": "$regista",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "d7650fb3-6ef0-4e32-921b-10438282cf5b",
+          "required": false,
+          "dataType": "@typeOfMoviePref",
+          "name": "genere",
+          "value": "$genere",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "ebc4264e-e381-493b-8011-758b81e0873e",
+          "required": false,
+          "dataType": "@typeOfMoviePref",
+          "name": "titolo",
+          "value": "$titolo",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

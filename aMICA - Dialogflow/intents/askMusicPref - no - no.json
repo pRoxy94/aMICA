@@ -1,0 +1,36 @@
+{
+  "id": "c50a3637-2f05-47ac-84a6-91e7e709d871",
+  "parentId": "295c9a8b-4c93-4aee-877f-dd8056ab84f1",
+  "rootParentId": "b63c9873-3f02-4b37-9f08-673ac26aedb9",
+  "name": "askMusicPref - no - no",
+  "auto": true,
+  "contexts": [
+    "askMusicPref-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "askMusicPref.askMusicPref-no.askMusicPref-no-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": "Bene. Ci sentiamo pesto!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,382 @@
+[
+  {
+    "id": "98dcb411-054c-415b-a458-39596999df3a",
+    "data": [
+      {
+        "text": "che ",
+        "userDefined": false
+      },
+      {
+        "text": "musica",
+        "alias": "genere",
+        "meta": "@typeOfMusicPref",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71473fc3-8014-4371-b3f4-ad34dd5418b9",
+    "data": [
+      {
+        "text": "e il ",
+        "userDefined": false
+      },
+      {
+        "text": "genere musicale",
+        "alias": "genere",
+        "meta": "@typeOfMusicPref",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03f436f9-32a4-4ad2-b5e7-9c3db4a62ed8",
+    "data": [
+      {
+        "text": "e i ",
+        "userDefined": false
+      },
+      {
+        "text": "brani",
+        "alias": "canzone",
+        "meta": "@typeOfMusicPref",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f357943e-2ed2-4245-8a44-03f9c4db9c5a",
+    "data": [
+      {
+        "text": "e i ",
+        "userDefined": false
+      },
+      {
+        "text": "cantanti",
+        "alias": "artista",
+        "meta": "@typeOfMusicPref",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "114c95e6-06bd-4954-b5d6-6983f135ffbb",
+    "data": [
+      {
+        "text": "che ",
+        "userDefined": false
+      },
+      {
+        "text": "generi",
+        "alias": "genere",
+        "meta": "@typeOfMusicPref",
+        "userDefined": true
+      },
+      {
+        "text": " ascolto?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53665ed9-861d-4663-b5bb-c791e442ae08",
+    "data": [
+      {
+        "text": "il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "genere",
+        "alias": "genere",
+        "meta": "@typeOfMusicPref",
+        "userDefined": false
+      },
+      {
+        "text": " preferito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0feb5ee8-3419-43f2-9d9d-fdbe0ff16c86",
+    "data": [
+      {
+        "text": "il ",
+        "userDefined": false
+      },
+      {
+        "text": "genere",
+        "alias": "genere",
+        "meta": "@typeOfMusicPref",
+        "userDefined": false
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "musica",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " che ascolto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "adde7018-1b23-4ee5-8242-4cc891bf7707",
+    "data": [
+      {
+        "text": "la mia ",
+        "userDefined": false
+      },
+      {
+        "text": "canzone",
+        "alias": "canzone",
+        "meta": "@typeOfMusicPref",
+        "userDefined": false
+      },
+      {
+        "text": " preferita?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a65fa78-4815-4d00-b42f-af1a32272b39",
+    "data": [
+      {
+        "text": "che ",
+        "userDefined": false
+      },
+      {
+        "text": "canzone",
+        "alias": "canzone",
+        "meta": "@typeOfMusicPref",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "52efc8e9-7aed-403d-8938-4936c142f482",
+    "data": [
+      {
+        "text": "che ",
+        "userDefined": false
+      },
+      {
+        "text": "cantante",
+        "alias": "artista",
+        "meta": "@typeOfMusicPref",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0fe96a35-d75c-462c-8560-05ffd818d630",
+    "data": [
+      {
+        "text": "il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "artista",
+        "alias": "artista",
+        "meta": "@typeOfMusicPref",
+        "userDefined": true
+      },
+      {
+        "text": " preferito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "72812b87-60b2-4778-a270-da704d913b5e",
+    "data": [
+      {
+        "text": "qual è il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "cantante",
+        "alias": "artista",
+        "meta": "@typeOfMusicPref",
+        "userDefined": true
+      },
+      {
+        "text": " preferito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1847c27e-87c8-41ab-83f5-36eacccadfd1",
+    "data": [
+      {
+        "text": "che ",
+        "userDefined": false
+      },
+      {
+        "text": "genere",
+        "alias": "genere",
+        "meta": "@typeOfMusicPref",
+        "userDefined": true
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "musica",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "334a4fca-1059-4173-9013-a60d45720ee0",
+    "data": [
+      {
+        "text": "qual è la mia ",
+        "userDefined": false
+      },
+      {
+        "text": "canzone",
+        "alias": "canzone",
+        "meta": "@typeOfMusicPref",
+        "userDefined": false
+      },
+      {
+        "text": " preferita?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9689bc21-499b-409b-afdd-d5230020f8e0",
+    "data": [
+      {
+        "text": "qual è il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "brano",
+        "alias": "canzone",
+        "meta": "@typeOfMusicPref",
+        "userDefined": false
+      },
+      {
+        "text": " preferito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

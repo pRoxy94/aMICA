@@ -1,0 +1,287 @@
+[
+  {
+    "id": "1d9bdde7-07a4-438c-89f1-0f72929ed922",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ricordi gli eventi degli ",
+        "userDefined": false
+      },
+      {
+        "text": "ultimi anni",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "033653f1-35d6-4b28-9876-c5e9d3a46424",
+    "data": [
+      {
+        "text": "non ricordo gli eventi degli ",
+        "userDefined": false
+      },
+      {
+        "text": "ultimi dieci anni",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e844ee3d-2f33-4bd0-a8a8-6f9d64ab3248",
+    "data": [
+      {
+        "text": "non ricordo la mia vita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "580b5e88-df1a-4e24-9004-278255b50c8a",
+    "data": [
+      {
+        "text": "aiutami a ricordare qualcosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "510fbf85-4fb3-4bf3-a1a7-762ca6dca6a6",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " aiuti a ricordare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a1bcaaa-d82c-4c88-a487-5cba60293d43",
+    "data": [
+      {
+        "text": "ho bisogno di ricordare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c5dfd7a-9545-41dc-9ed0-5c3cc07a30ed",
+    "data": [
+      {
+        "text": "non ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ricordo cosa ho fatto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "af6baa3d-bc0d-4852-bc7c-f1a9b967ac85",
+    "data": [
+      {
+        "text": "esco con gli amici?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a529309f-3a55-4a24-9483-cc44bf603f60",
+    "data": [
+      {
+        "text": "cosa ho fatto negli ",
+        "userDefined": false
+      },
+      {
+        "text": "ultimi anni",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41d8d4e5-519f-403f-9b75-7478179f443f",
+    "data": [
+      {
+        "text": "cosa faccio nella mia vita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "803183a4-82f4-4d37-8714-69e8fce46768",
+    "data": [
+      {
+        "text": "cosa ho fatto ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "questi giorni",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f1adb8d-1d8c-4b7b-82ab-a1c1220b5ef8",
+    "data": [
+      {
+        "text": "cosa ho fatto ",
+        "userDefined": false
+      },
+      {
+        "text": "ieri",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "58d42c9b-7e9c-4684-a5d9-d8879e19bc8b",
+    "data": [
+      {
+        "text": "ricordami cosa faccio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5175566c-48a2-44b8-bc75-1c40dcf5b6f7",
+    "data": [
+      {
+        "text": "ricordami qualcosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1a23517-e931-438e-99d1-35cbb1d9d914",
+    "data": [
+      {
+        "text": "quali sono i miei ricordi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "12c1c36b-6b80-427e-96de-364165154a14",
+    "data": [
+      {
+        "text": "ricordami",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3925f137-fdc4-4665-bf89-1e6f82ca4b40",
+    "data": [
+      {
+        "text": "voglio sapere i miei ricordi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b680c7d2-b1fa-4fe5-9137-56427376cb1c",
+    "data": [
+      {
+        "text": "dimmi i miei ricordi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "5ba6f4f6-b626-4a6e-a712-d2492839d735",
+    "data": [
+      {
+        "text": "i miei ricordi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

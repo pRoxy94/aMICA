@@ -1,0 +1,603 @@
+[
+  {
+    "id": "6f3612d0-189f-426c-8c21-8267e931ef2c",
+    "data": [
+      {
+        "text": "giramenti di testa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2f35069-578a-441c-8b68-d7cfb37a84af",
+    "data": [
+      {
+        "text": "acciacchi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0fc401d8-5f37-46db-b365-7fc02056e018",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sento strano da ",
+        "userDefined": false
+      },
+      {
+        "text": "stamattina",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "507a9b7a-54c3-4a7b-8637-20881830bd03",
+    "data": [
+      {
+        "text": "non sento bene",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31d3ddb2-91fc-44ff-b974-f2aa0114ebcd",
+    "data": [
+      {
+        "text": "covid 19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d49cc6ff-6ba1-4fa2-87a5-3d9f232bffe6",
+    "data": [
+      {
+        "text": "ho il coronavirus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2aa46836-cbeb-4107-b73f-432b477ec0f4",
+    "data": [
+      {
+        "text": "si è alzata la febbre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ee8b77f-3cb4-4fdd-bae9-1b29345f0016",
+    "data": [
+      {
+        "text": "non riesco ad andare al bagno",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "deb7b326-0db1-4bd2-b637-32119b90e15c",
+    "data": [
+      {
+        "text": "chiama qualcuno",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b8c0b8d-34fc-433b-a956-b73ddb1cc8d5",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " manca il respiro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88e15540-6701-4515-a2fa-e80b131f64d1",
+    "data": [
+      {
+        "text": "non riesco a respirare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c3fa72f-64c3-4564-95cc-78e316b8a0d1",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " esce il sangue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97ce0198-5240-44b3-8044-c85f1a9abf34",
+    "data": [
+      {
+        "text": "non vedo niente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b82eabf9-41fb-49aa-838e-d5697da489ef",
+    "data": [
+      {
+        "text": "ho le",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " allucinazioni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a98729e-1205-4c79-a6f3-fa400b30b282",
+    "data": [
+      {
+        "text": "ho forti dolori alla testa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eea83c75-a3a6-4bee-a768-3791359371cd",
+    "data": [
+      {
+        "text": "ho dolori forti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42afaa64-c3fc-4dcd-b9ae-7c281f83c80d",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " viene da vomitare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be69688b-88e0-4f41-a4f0-113c435b60d1",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gira la testa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d7068a75-25cb-4b79-a9dc-b19fa833ab19",
+    "data": [
+      {
+        "text": "non ce la faccio a camminare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2cc99021-a612-4569-9b96-4a6010f6dc22",
+    "data": [
+      {
+        "text": "non riesco a muovermi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f87c9aa5-f7ba-4599-a077-f05220537cc7",
+    "data": [
+      {
+        "text": "i dolori sono fortissimi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc87888c-9287-455d-85ad-584becb4dd69",
+    "data": [
+      {
+        "text": "vomito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6028dd66-b64a-4212-8a6d-a1c9e6c87aa3",
+    "data": [
+      {
+        "text": "ho bisogno di mio marito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2016280-9a7c-46a7-9754-fd77bfe3d473",
+    "data": [
+      {
+        "text": "vedi il ",
+        "userDefined": false
+      },
+      {
+        "text": "dottore",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "adf9851e-84c1-49d9-b1b9-df1f49cd019a",
+    "data": [
+      {
+        "text": "chiama il ",
+        "userDefined": false
+      },
+      {
+        "text": "dottore",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04e49f0b-2e4c-4830-91a2-e7198637598f",
+    "data": [
+      {
+        "text": "ho bisogno del ",
+        "userDefined": false
+      },
+      {
+        "text": "dottore",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ff3b408-c736-43b5-a675-ae7d7dcf57bc",
+    "data": [
+      {
+        "text": "ho bisogno di ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mano",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22d1c6c4-432b-49e2-9fe8-a646940f3e34",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " serve ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " aiuto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "14bbcb66-f954-404c-bc94-fe44f3aecd5a",
+    "data": [
+      {
+        "text": "ho bisogno di qualcuno",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8616ca27-3f6c-4ed0-9beb-fecb9f93ff8b",
+    "data": [
+      {
+        "text": "qualcuno mi aiuti",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31bd092a-fd1d-4bf7-8d9e-221f2664cc5d",
+    "data": [
+      {
+        "text": "aiutatemi per favore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "807c3ddc-f4e0-46ec-b11e-e56a21912edc",
+    "data": [
+      {
+        "text": "ho mal di testa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71260e07-3d60-49de-ba78-94e7d49bd31a",
+    "data": [
+      {
+        "text": "sono ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pericolo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "067453b5-0fe1-4166-9f48-3b9e0af50b8f",
+    "data": [
+      {
+        "text": "emergenza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "949d24da-6ca8-40ac-8660-b7247b02577d",
+    "data": [
+      {
+        "text": "non sto bene",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf92f882-4df4-4997-b4a7-6d8e23f5043d",
+    "data": [
+      {
+        "text": "chiama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dfaad806-0fef-412d-8ba1-edfa78cb14bb",
+    "data": [
+      {
+        "text": "i miei numeri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25f48933-b1d2-4f19-8265-d4660616ee13",
+    "data": [
+      {
+        "text": "assistenza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f3d24ce3-65d4-41b6-bffc-d2a747a4bf2d",
+    "data": [
+      {
+        "text": "sto per avere ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " infarto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e9af539-0d5c-470c-82d5-55adf1a5648e",
+    "data": [
+      {
+        "text": "sto per morire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "62d3e3e4-fcb0-45d0-a0d8-d786bdc6449f",
+    "data": [
+      {
+        "text": "sto male",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2e07462-e254-4ed7-9183-1071bd840352",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sento male",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

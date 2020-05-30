@@ -1,0 +1,110 @@
+{
+  "id": "3cb8ddaa-f0a5-43bf-a67f-447dab4502fe",
+  "name": "vipImageQuiz_answer1correct",
+  "auto": true,
+  "contexts": [
+    "vipImageQuiz_await_answer1"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "vipImageQuiz_await_answer2",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a2ad947f-01c0-4de2-a98e-bdeb2f41fb12",
+          "required": false,
+          "dataType": "@typeOfVips",
+          "name": "quiz_vip",
+          "value": "$quiz_vip",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "speech": "Risposta corretta! Passiamo al prossimo volto!"
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "title": "Di chi si tratta?",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/facce%2Fcarra.jpg?alt\u003dmedia\u0026token\u003d84d78612-519a-4fe6-b0eb-ecba47e34e3f",
+          "buttons": [
+            {
+              "text": "Margherita Hack",
+              "postback": "Margherita Hack"
+            },
+            {
+              "text": "Orietta Berti",
+              "postback": "Orietta Berti"
+            },
+            {
+              "text": "Raffaella Carrà",
+              "postback": "Raffaella Carrà"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Risposta corretta! Passiamo al prossimo volto!"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Di chi si tratta?",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/facce%2Fcarra.jpg?alt\u003dmedia\u0026token\u003d84d78612-519a-4fe6-b0eb-ecba47e34e3f",
+          "buttons": [
+            {
+              "text": "Margherita Hack",
+              "postback": "Margherita Hack"
+            },
+            {
+              "text": "Orietta Berti",
+              "postback": "Orietta Berti"
+            },
+            {
+              "text": "Raffaella Carrà",
+              "postback": "Raffaella Carrà"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

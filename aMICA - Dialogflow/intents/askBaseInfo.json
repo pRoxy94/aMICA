@@ -1,0 +1,159 @@
+{
+  "id": "eb10a044-a214-4411-81fe-a72ebd029db0",
+  "name": "askBaseInfo",
+  "auto": true,
+  "contexts": [
+    "saveBaseInfo"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3b8bbb1c-4ab9-4b3c-a6f8-6f5acbaa5069",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "nome",
+          "value": "$nome",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "Come ti chiami?"
+            },
+            {
+              "lang": "it",
+              "value": "Qual è il tuo nome?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "50d5d17b-5258-487f-b195-66ef29c880dd",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "cognome",
+          "value": "$cognome",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "Qual è il tuo cognome?"
+            },
+            {
+              "lang": "it",
+              "value": "e il tuo cognome?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "f718d60e-7144-44f9-bef8-9dd8724cbd8a",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "eta",
+          "value": "$eta",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "Quanti anni hai?"
+            },
+            {
+              "lang": "it",
+              "value": "e la tua età?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "1942de48-0bba-49e6-955b-5018127d24aa",
+          "required": true,
+          "dataType": "@sys.date",
+          "name": "dataNascita",
+          "value": "$dataNascita",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "Quando sei nato?"
+            },
+            {
+              "lang": "it",
+              "value": "e la tua data di nascita?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "66c4378a-f5d3-4e62-a955-3c6e0d2823c7",
+          "required": true,
+          "dataType": "@sys.geo-city",
+          "name": "luogoNascita",
+          "value": "$luogoNascita",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "Dove sei nato?"
+            },
+            {
+              "lang": "it",
+              "value": "e il tuo luogo di nascita?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "c87c33b5-472f-4c53-9717-7a6f944df92a",
+          "required": true,
+          "dataType": "@sys.location",
+          "name": "luogoResidenza",
+          "value": "$luogoResidenza",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "Dove abiti? (specifica indirizzo e città)"
+            },
+            {
+              "lang": "it",
+              "value": "e dove abiti? (specifica indirizzo e città)"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 1000000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

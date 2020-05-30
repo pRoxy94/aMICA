@@ -1,0 +1,24 @@
+[
+  {
+    "id": "4b49ed1b-897c-43bd-92da-191255762ad9",
+    "data": [
+      {
+        "text": "nuotava",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " fino a ",
+        "userDefined": false
+      },
+      {
+        "text": "Ischia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

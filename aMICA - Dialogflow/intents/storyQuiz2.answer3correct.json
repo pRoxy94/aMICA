@@ -1,0 +1,62 @@
+{
+  "id": "52762a6c-9100-4f74-89ce-83d9b885925f",
+  "name": "storyQuiz2.answer3correct",
+  "auto": true,
+  "contexts": [
+    "storyQuiz2_await_answer3"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "storyQuiz2_await_answer4",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Grande, è la risposta corretta! Passiamo alla prossima domanda."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Domanda 4",
+          "subtitle": "A cosa furono condannati?",
+          "buttons": [
+            {
+              "text": "al rogo",
+              "postback": "al rogo"
+            },
+            {
+              "text": "alla prigione",
+              "postback": "alla prigione"
+            },
+            {
+              "text": "all\u0027espatrio",
+              "postback": "all\u0027espatrio"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

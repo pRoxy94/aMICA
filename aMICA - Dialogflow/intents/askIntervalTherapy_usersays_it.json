@@ -1,0 +1,79 @@
+[
+  {
+    "id": "67134f7e-338c-4d1e-8e2c-19a8d53bf5e1",
+    "data": [
+      {
+        "text": "intervallare",
+        "alias": "drugusetype",
+        "meta": "@drugUseType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b572c10a-1355-4b58-a257-105a9ca86ff8",
+    "data": [
+      {
+        "text": "terapia ad ",
+        "userDefined": false
+      },
+      {
+        "text": "intervallo",
+        "alias": "drugusetype",
+        "meta": "@drugUseType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74caa02f-7f78-445c-a9fd-91cfb5313895",
+    "data": [
+      {
+        "text": "prendo ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " farmaco per il diabete ",
+        "userDefined": false
+      },
+      {
+        "text": "ogni due giorni",
+        "alias": "drugusetype",
+        "meta": "@drugUseType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "33758a33-8871-475b-9b8a-4cf88f754161",
+    "data": [
+      {
+        "text": "aggiungi terapia ",
+        "userDefined": false
+      },
+      {
+        "text": "intervallare",
+        "alias": "drugusetype",
+        "meta": "@drugUseType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

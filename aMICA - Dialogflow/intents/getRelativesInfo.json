@@ -1,0 +1,152 @@
+{
+  "id": "d7bd8d5e-afd8-45c1-b535-2c1997a476ed",
+  "name": "getRelativesInfo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0a27c7ee-60b5-4b6d-8156-b790fb8e1413",
+          "required": false,
+          "dataType": "@relativesType",
+          "name": "marito",
+          "value": "$marito",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "d9f676da-018e-4bc4-a63e-f7b237eb073b",
+          "required": false,
+          "dataType": "@relativesType",
+          "name": "fratello",
+          "value": "$fratello",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "0f73fa3f-a286-48cb-b080-3683f7705f07",
+          "required": false,
+          "dataType": "@relativesType",
+          "name": "sorella",
+          "value": "$sorella",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "f05d9b68-096f-4e2e-b900-7b5cee995a98",
+          "required": false,
+          "dataType": "@relativesType",
+          "name": "cugino",
+          "value": "$cugino",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "3e05d928-0a50-4c8d-abe8-d27d13c27558",
+          "required": false,
+          "dataType": "@relativesType",
+          "name": "cugina",
+          "value": "$cugina",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "619a3125-caf5-44bc-9943-f1efd357f1d8",
+          "required": false,
+          "dataType": "@relativesType",
+          "name": "genero",
+          "value": "$genero",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "64068fb6-305d-499c-934e-3ebbae3c0705",
+          "required": false,
+          "dataType": "@relativesType",
+          "name": "nuora",
+          "value": "$nuora",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "cebd0dd4-99fc-4451-af75-50558f5415ba",
+          "required": false,
+          "dataType": "@relativesType",
+          "name": "suocera",
+          "value": "$suocera",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "e9791e07-259f-4bdc-bd47-a50325292862",
+          "required": false,
+          "dataType": "@relativesType",
+          "name": "madre",
+          "value": "$madre",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "59269a20-c463-478c-82cc-b9e7fb437898",
+          "required": false,
+          "dataType": "@relativesType",
+          "name": "moglie",
+          "value": "$moglie",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "54b683ca-ab93-466a-b7fc-a082cd735baf",
+  "name": "askTrainingType",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "text": "Che tipologia di esercizi vuoi fare?",
+              "reply_markup": {
+                "resize_keyboard": true,
+                "one_time_keyboard": true,
+                "keyboard": [
+                  [
+                    {
+                      "text": "Palestra",
+                      "callback_data": "palestra"
+                    },
+                    {
+                      "text": "Quiz Storie",
+                      "callback_data": "quiz storie"
+                    }
+                  ],
+                  [
+                    {
+                      "callback_data": "quiz musica",
+                      "text": "Quiz Musica"
+                    },
+                    {
+                      "callback_data": "quiz faccia-nome",
+                      "text": "Quiz Faccia-Nome"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Cancella",
+                      "callback_data": "cancella"
+                    }
+                  ]
+                ]
+              }
+            }
+          }
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Sono felice che me l\u0027abbia chiesto, allenare corpo e mente è una buona pratica per vivere più a lungo! ☺️ Cosa ti piacerebbe fare? Puoi scegliere di fare qualche esercizio fisico 🧘, un quiz sulla musica 🎧, sui personaggi famosi 🧑‍🎨 oppure un quiz su una storia 📃!"
+        },
+        {
+          "type": 4,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "generic",
+                  "elements": [
+                    {
+                      "title": "Palestra",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Fstretching.png?alt\u003dmedia\u0026token\u003d55362ed8-ba32-4019-8470-86fe20059e66",
+                      "subtitle": "Allenati con qualche esercizio fisico",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Scopri di più",
+                          "payload": "palestra"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Quiz su una storia",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Fquiz.png?alt\u003dmedia\u0026token\u003d367f7bdb-8b58-4e9a-abc5-24caf41f45b2",
+                      "subtitle": "Leggi una storia e rispondi a qualche domanda",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Scopri di più",
+                          "payload": "quiz storie"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Quiz sulla musica",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Fmusic.png?alt\u003dmedia\u0026token\u003d505c5271-62dc-4145-b01a-ad7d545109eb",
+                      "subtitle": "Ascolta un pò di musica e indovina il cantante",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Scopri di più",
+                          "payload": "quiz musica"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Quiz sui volti",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Fprofessions-and-jobs.png?alt\u003dmedia\u0026token\u003d8789fa03-6318-41c1-a1da-b02dfb1f2563",
+                      "subtitle": "Indovina il personaggio nella foto",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Scopri di più",
+                          "payload": "quiz volti"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,158 @@
+[
+  {
+    "id": "0d154ad9-af69-48c5-b41c-d9d890fc9af9",
+    "data": [
+      {
+        "text": "voglio aggiungere ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " numero per le urgenze",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4ac322d-3a9b-4c77-9439-ac9f264762e8",
+    "data": [
+      {
+        "text": "inserisci numero per urgenze",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ab17bea-099a-46a1-b139-13b4c739497f",
+    "data": [
+      {
+        "text": "aggiungi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " numero in caso di pericolo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5e1f036-3737-4d77-b44e-7a90f1f599e0",
+    "data": [
+      {
+        "text": "inserisci ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " numero per le emergenze",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b50acb2f-29f5-4553-97ca-6a5b7ba93964",
+    "data": [
+      {
+        "text": "inserisci numero di emergenza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36cccaf8-67cd-4db3-a2a2-b43708c0c32c",
+    "data": [
+      {
+        "text": "aggiungi il numero di mio marito per le emergenze",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c44803b9-a09d-4797-ad80-151e33650e6c",
+    "data": [
+      {
+        "text": "metti il numero di mia figlia per le emergenze",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d195acd-7aab-470a-81d7-b6ce0f7af75b",
+    "data": [
+      {
+        "text": "metti ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " numero per le emergenze",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "61339bca-0d44-4f3a-a1d9-7952c4180543",
+    "data": [
+      {
+        "text": "numero emergenza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5e5500f-38fd-48f0-8b8f-3387cc2ccbcb",
+    "data": [
+      {
+        "text": "aggiungi numero di emergenza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,324 @@
+[
+  {
+    "id": "c7782bdb-df0e-47dd-bb0d-9ad844f0f9e0",
+    "data": [
+      {
+        "text": "parliamo delle mie malattie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "829e67f9-e74d-481e-a26c-5e09116fc133",
+    "data": [
+      {
+        "text": "soffro di qualcosa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "af128544-239e-4132-a5cc-2f6bb3892f65",
+    "data": [
+      {
+        "text": "soffro di qualche malattia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6f1fd01-8778-4967-ae00-55f26cbf485e",
+    "data": [
+      {
+        "text": "di cosa soffro?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb455b03-eaea-4f7e-bdbc-44baf20140ea",
+    "data": [
+      {
+        "text": "di che soffro?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61ebcb72-6ffe-48c6-b552-64d3fc72559e",
+    "data": [
+      {
+        "text": "che malattie tengo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3698837-7428-46e5-ab94-9dce5ab1f702",
+    "data": [
+      {
+        "text": "ho dei malanni particolari?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10342a6e-f068-47b7-83e2-23d0a83336e1",
+    "data": [
+      {
+        "text": "ho delle malattie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "248df3bb-333a-4344-97e2-d21a7423e95f",
+    "data": [
+      {
+        "text": "c\u0027ho",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " delle malattie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d569cb62-0c52-40f0-a34f-71b9fe08fc18",
+    "data": [
+      {
+        "text": "per favore che malattie ho?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6e16a3c-d364-450b-a715-249424c3d4b7",
+    "data": [
+      {
+        "text": "dimmi che malanni ",
+        "userDefined": false
+      },
+      {
+        "text": "c\u0027ho",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c0f738c-1f52-47c7-84f1-8ee5f70c7ec9",
+    "data": [
+      {
+        "text": "i miei malanni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a66b8026-2f6c-40e4-bddb-85444ea95eeb",
+    "data": [
+      {
+        "text": "le mie malattie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f8816fa-3dfa-446f-9cbc-f3811d481502",
+    "data": [
+      {
+        "text": "ho dei malanni?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c57e52da-74b7-4605-8d29-80eaf6aa0860",
+    "data": [
+      {
+        "text": "di che malanni soffro?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "925e37af-c213-451d-b15d-d4cb95faccec",
+    "data": [
+      {
+        "text": "quali sono le mie malattie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3d8ec8d8-39bd-42e7-8258-bf880fb61e6f",
+    "data": [
+      {
+        "text": "che malattie ho?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89ec2a4a-66cd-4932-a8b3-5214c9092442",
+    "data": [
+      {
+        "text": "voglio sapere le terapie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7460ec57-9775-4184-bbe2-5f8c45467722",
+    "data": [
+      {
+        "text": "non ricordo le mie terapie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed39f559-2703-435c-bbfd-527eb33fdece",
+    "data": [
+      {
+        "text": "dimmi le mie terapie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4cc373b-069f-4035-80b1-ab1d5a651390",
+    "data": [
+      {
+        "text": "ricordami le terapie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22db633c-ac43-40cd-a613-f6c85dced54c",
+    "data": [
+      {
+        "text": "che terapie seguo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ec2cc77-4b6e-419b-84cb-730a085ad0ae",
+    "data": [
+      {
+        "text": "quali sono le mie terapie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b4a12be-a953-4e19-9f78-bf0a42577f13",
+    "data": [
+      {
+        "text": "seguo delle terapie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60da49a4-3fc3-4a44-bd07-1d36f7ed01bc",
+    "data": [
+      {
+        "text": "ho delle terapie da seguire?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7221022f-05b6-4ba1-8ef0-77d6a0e288eb",
+    "data": [
+      {
+        "text": "le mie terapie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

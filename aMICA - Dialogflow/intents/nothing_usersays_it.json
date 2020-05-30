@@ -1,0 +1,71 @@
+[
+  {
+    "id": "3dadfc85-35fd-4f4e-aee6-34b6829fc41d",
+    "data": [
+      {
+        "text": "no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e13ac18-5953-45b8-baeb-b11803ca5bdd",
+    "data": [
+      {
+        "text": "non ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " serve niente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8b9f3af2-0b9d-4f42-b4d6-52342dbbd580",
+    "data": [
+      {
+        "text": "nulla",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2c2a54be-f8ba-4ede-a491-1644d7c7365e",
+    "data": [
+      {
+        "text": "non ho bisogno di niente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "750a4958-2fe6-4d8a-a3b6-10fa9263f06f",
+    "data": [
+      {
+        "text": "niente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

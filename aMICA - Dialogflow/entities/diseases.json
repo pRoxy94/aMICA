@@ -1,0 +1,9 @@
+{
+  "id": "dbf53925-42d8-410f-89d4-a93e3d0caf08",
+  "name": "diseases",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

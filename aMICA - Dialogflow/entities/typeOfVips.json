@@ -1,0 +1,9 @@
+{
+  "id": "723ed7ad-4c58-42f8-a602-375beeac2578",
+  "name": "typeOfVips",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

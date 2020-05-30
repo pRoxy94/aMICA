@@ -1,0 +1,228 @@
+{
+  "id": "c389d107-1293-4af3-990e-ec4f2867c0b6",
+  "name": "askInfoType",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "reply_markup": {
+                "resize_keyboard": true,
+                "one_time_keyboard": true,
+                "keyboard": [
+                  [
+                    {
+                      "text": "Generalità",
+                      "callback_data": "generalità"
+                    },
+                    {
+                      "text": "Parenti",
+                      "callback_data": "parenti"
+                    },
+                    {
+                      "text": "Terapie",
+                      "callback_data": "terapie"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Promemoria",
+                      "callback_data": "promemoria"
+                    },
+                    {
+                      "text": "Ricordi",
+                      "callback_data": "ricordi"
+                    },
+                    {
+                      "text": "Intolleranze",
+                      "callback_data": "intolleranze"
+                    }
+                  ],
+                  [
+                    {
+                      "callback_data": "allergie",
+                      "text": "Allergie"
+                    },
+                    {
+                      "text": "Gusti Personali",
+                      "callback_data": "gusti personali"
+                    },
+                    {
+                      "text": "Numeri Emergenza",
+                      "callback_data": "numeri emergenza"
+                    }
+                  ],
+                  [
+                    {
+                      "callback_data": "cancella",
+                      "text": "Cancella"
+                    }
+                  ]
+                ]
+              },
+              "text": "Che tipologia di informazioni vuoi aggiungere?"
+            }
+          }
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": [
+            "Finalmente, non vedevo l\u0027ora di conoscerti meglio! Scegli quali informazioni vuoi inserire tra le diverse tipologie, resterò qui ad ascoltarti! ☺️",
+            "Sono felice di conoscerti meglio! Quali informazioni vuoi aggiungere al tuo profilo? ☺️"
+          ]
+        },
+        {
+          "type": 4,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "generic",
+                  "elements": [
+                    {
+                      "title": "Generalità",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Fstudent.png?alt\u003dmedia\u0026token\u003d7be8d868-5b64-4f99-bb5b-d5427a430769",
+                      "subtitle": "Inserisci le tue generalità",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Aggiungi",
+                          "payload": "generalità"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Parenti",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Fcouple.png?alt\u003dmedia\u0026token\u003ddb36cfc2-2551-463a-be97-32883d596ba6",
+                      "subtitle": "Inserisci i tuoi parenti",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Aggiungi",
+                          "payload": "parenti"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Terapie",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Fdrug.png?alt\u003dmedia\u0026token\u003dd97e9a3b-fa37-486b-a7ee-43a09b543c5f",
+                      "subtitle": "Inserisci le tue terapie",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Aggiungi",
+                          "payload": "terapie"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Promemoria",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Fbell.png?alt\u003dmedia\u0026token\u003d3051e75d-581f-4d73-8924-e845fef71892",
+                      "subtitle": "Inserisci i tuoi promemoria",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Aggiungi",
+                          "payload": "promemoria"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Ricordi",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Flove.png?alt\u003dmedia\u0026token\u003d948343c2-2e74-4f04-9dc2-e3dc7206c026",
+                      "subtitle": "Inserisci i tuoi ricordi",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Aggiungi",
+                          "payload": "ricordi"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Intolleranze",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Fdisease.png?alt\u003dmedia\u0026token\u003d924376e6-436f-48a7-87db-998a171b7f75",
+                      "subtitle": "Inserisci le tue intolleranze",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Aggiungi",
+                          "payload": "intolleranze"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Allergie",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Fsneezing.png?alt\u003dmedia\u0026token\u003dda966490-e627-4e78-83e8-aff4d6e46590",
+                      "subtitle": "Inserisci le tue allergie",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Aggiungi",
+                          "payload": "allergie"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Gusti personali",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Fguitar.png?alt\u003dmedia\u0026token\u003d0fc8a9fd-39f9-4c4c-9a5a-d893d914c6c8",
+                      "subtitle": "Inserisci i tuoi gusti personali",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Aggiungi",
+                          "payload": "gusti personali"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Numeri di emergenza",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Fphone-number.png?alt\u003dmedia\u0026token\u003dc9130e39-8f64-4f7f-abbf-f589ebd44c6a",
+                      "subtitle": "Inserisci i tuoi numeri di emergenza",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Aggiungi",
+                          "payload": "numeri emergenza"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

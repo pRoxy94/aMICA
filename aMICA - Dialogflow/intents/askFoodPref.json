@@ -1,0 +1,104 @@
+{
+  "id": "1027334d-2d97-4059-954e-0d9b17698e25",
+  "name": "askFoodPref",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "askFoodPref-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8d935708-f417-4d04-a8ca-c7a2f71162c9",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "tipologia",
+          "value": "$tipologia",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "Qual è il tuo piatto preferito?"
+            },
+            {
+              "lang": "it",
+              "value": "Cosa ti piace mangiare?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "text": "Ho aggiunto le tue preferenze alimentari! Ne vuoi aggiungere altre?",
+              "reply_markup": {
+                "resize_keyboard": true,
+                "one_time_keyboard": true,
+                "keyboard": [
+                  [
+                    {
+                      "text": "Cibo",
+                      "callback_data": "cibo"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Più tardi",
+                      "callback_data": "più tardi"
+                    },
+                    {
+                      "callback_data": "no grazie",
+                      "text": "No grazie"
+                    },
+                    {
+                      "callback_data": "cancella",
+                      "text": "Cancella"
+                    }
+                  ]
+                ]
+              }
+            }
+          }
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Ho aggiunto le tue preferenze alimentari! Ne vuoi aggiungere altre?",
+          "replies": [
+            "Cibo",
+            "Più tardi",
+            "No grazie",
+            "Cancella"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

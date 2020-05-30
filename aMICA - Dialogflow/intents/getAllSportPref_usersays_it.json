@@ -1,0 +1,661 @@
+[
+  {
+    "id": "f96c7a8b-d844-4071-ba92-2498bdb07db0",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace vedere ",
+        "userDefined": false
+      },
+      {
+        "text": "lo sport",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in televisione?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ca163da-bf42-428a-8080-7bc534ac5667",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sai dire che ",
+        "userDefined": false
+      },
+      {
+        "text": "sport",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " guardo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b294b6c3-06fd-44a5-aa96-48fe7f03690a",
+    "data": [
+      {
+        "text": "dimmi che ",
+        "userDefined": false
+      },
+      {
+        "text": "sport",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " guardo in ",
+        "userDefined": false
+      },
+      {
+        "text": "tv",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61218cff-5c55-49d7-905b-a3bd6a2d48a6",
+    "data": [
+      {
+        "text": "che gusti ",
+        "userDefined": false
+      },
+      {
+        "text": "sportivi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ho?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19cd6886-6706-420b-850d-b0d97546c5bb",
+    "data": [
+      {
+        "text": "ho ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " squadra del cuore?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e411985c-3c87-4563-80d8-2843327a9a88",
+    "data": [
+      {
+        "text": "che ",
+        "userDefined": false
+      },
+      {
+        "text": "sport",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " preferisco vedere?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "029e6541-afbc-464d-8d24-908d44feae8a",
+    "data": [
+      {
+        "text": "che ",
+        "userDefined": false
+      },
+      {
+        "text": "sport",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " guardo alla televisione?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "041a97fa-252d-4789-8629-88d0ad37f195",
+    "data": [
+      {
+        "text": "che ",
+        "userDefined": false
+      },
+      {
+        "text": "sport",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " guardo alla tivu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3acfd15a-bf3d-4fb4-9e48-d94cf8819f4e",
+    "data": [
+      {
+        "text": "che ",
+        "userDefined": false
+      },
+      {
+        "text": "sport",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " preferisco guardare?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e23557b-a6d1-4948-813b-fde5e73ba57d",
+    "data": [
+      {
+        "text": "sai se guardo ",
+        "userDefined": false
+      },
+      {
+        "text": "lo sport",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5fa602d8-cfdf-4968-8199-a2f972c21513",
+    "data": [
+      {
+        "text": "che ",
+        "userDefined": false
+      },
+      {
+        "text": "sport",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " vedo in ",
+        "userDefined": false
+      },
+      {
+        "text": "tv",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6d3a4023-3cc8-46ab-8364-f32737c76d9a",
+    "data": [
+      {
+        "text": "che ",
+        "userDefined": false
+      },
+      {
+        "text": "sport",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace seguire?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e85229d-8119-4903-801f-907fe142a1c4",
+    "data": [
+      {
+        "text": "per caso sai se ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace ",
+        "userDefined": false
+      },
+      {
+        "text": "il calcio",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ba0d0a4-8bcd-4a99-9afb-f4595727b8e3",
+    "data": [
+      {
+        "text": "sai se ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace ",
+        "userDefined": false
+      },
+      {
+        "text": "il basket",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cbfc2465-9bd4-4b9b-b9b7-c1efb595d30c",
+    "data": [
+      {
+        "text": "che squadra tifo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ced8608-dfe3-47ed-bc68-7bb13d033aa9",
+    "data": [
+      {
+        "text": "che giocatore preferisco?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d4168349-3f08-4c10-aa3c-e9bf7e6be977",
+    "data": [
+      {
+        "text": "chi è il mio giocatore preferito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e92619e-e9d7-4944-b9b5-e222c2fdf377",
+    "data": [
+      {
+        "text": "che ",
+        "userDefined": false
+      },
+      {
+        "text": "sport",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " seguo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cda6f1d7-fb09-40fc-ae7a-2a525a4af02e",
+    "data": [
+      {
+        "text": "seguo ",
+        "userDefined": false
+      },
+      {
+        "text": "lo sport",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " per caso?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f34a3332-02a8-4ee8-8a58-cf14f48897c8",
+    "data": [
+      {
+        "text": "lo sport",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " che ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94eedf3e-2933-48c1-a9e9-ab43c94c29e9",
+    "data": [
+      {
+        "text": "ho gusti sullo ",
+        "userDefined": false
+      },
+      {
+        "text": "sport",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84ae86a8-a6cc-4a55-97b9-362d532430c4",
+    "data": [
+      {
+        "text": "quali sono i miei gusti ",
+        "userDefined": false
+      },
+      {
+        "text": "sportivi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6409c2b0-f755-4490-877e-176c549af4a7",
+    "data": [
+      {
+        "text": "i miei gusti ",
+        "userDefined": false
+      },
+      {
+        "text": "sportivi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8300f654-9805-487e-a40e-c0df0a296dcf",
+    "data": [
+      {
+        "text": "voglio sapere cosa ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace dello ",
+        "userDefined": false
+      },
+      {
+        "text": "sport",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c7af49c-cceb-4962-a517-351de6cb8faa",
+    "data": [
+      {
+        "text": "dimmi se ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace lo ",
+        "userDefined": false
+      },
+      {
+        "text": "sport",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c97eab8f-c3eb-4bbf-80b3-8246204a03ba",
+    "data": [
+      {
+        "text": "lo sport",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9ef442a-f050-45e6-8582-48b9ca1f9a31",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace lo ",
+        "userDefined": false
+      },
+      {
+        "text": "sport",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8f7eca6-a099-42ba-a6a2-7510faa97e96",
+    "data": [
+      {
+        "text": "le mie preferenze ",
+        "userDefined": false
+      },
+      {
+        "text": "sportive",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "02639062-22e9-4779-a29a-26f566ebebdd",
+    "data": [
+      {
+        "text": "i miei ",
+        "userDefined": false
+      },
+      {
+        "text": "sport",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "592bfa66-bd07-484e-ad69-f88f1342c960",
+    "data": [
+      {
+        "text": "il mio sport",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

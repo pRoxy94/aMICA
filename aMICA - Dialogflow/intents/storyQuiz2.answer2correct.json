@@ -1,0 +1,62 @@
+{
+  "id": "3eff1944-ccd8-481c-b2d0-56f876de0be1",
+  "name": "storyQuiz2.answer2correct",
+  "auto": true,
+  "contexts": [
+    "storyQuiz2_await_answer2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "storyQuiz2_await_answer3",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "La risposta è corretta. Passiamo alla prossima domanda."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Domanda 3",
+          "subtitle": "Come si chiamava l\u0027ammiraglio?",
+          "buttons": [
+            {
+              "text": "Horatio Nelson",
+              "postback": "Horatio Nelson"
+            },
+            {
+              "text": "Oberto Doria",
+              "postback": "Oberto Doria"
+            },
+            {
+              "text": "Ruggeri di Lauria",
+              "postback": "Ruggeri di Lauria"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

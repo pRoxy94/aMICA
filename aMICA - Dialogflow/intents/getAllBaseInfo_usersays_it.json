@@ -1,0 +1,97 @@
+[
+  {
+    "id": "aee85611-d44b-46cd-bb74-407e208034e7",
+    "data": [
+      {
+        "text": "dimmi chi sono",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ff3f3b69-2bc7-4ed1-a942-10da7c866f65",
+    "data": [
+      {
+        "text": "dimmi le mie generalità",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f703f06a-ff9d-4429-810d-847f128a7d4c",
+    "data": [
+      {
+        "text": "chi sono?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "1d2154ed-bcf8-4743-b10e-a69a4daa47e6",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " conosci?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c9945c4d-e865-40d9-943f-08c1c372f729",
+    "data": [
+      {
+        "text": "le mie generalità",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba2d08d2-e442-4af7-a788-6f7c5266839f",
+    "data": [
+      {
+        "text": "carta d\u0027identità",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d66c059-546d-4570-9a60-c93be4617535",
+    "data": [
+      {
+        "text": "la mia carta",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " d\u0027identità",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

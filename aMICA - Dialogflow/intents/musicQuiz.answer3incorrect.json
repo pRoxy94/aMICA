@@ -1,0 +1,96 @@
+{
+  "id": "8f60998d-6a9d-4147-9fdf-5221cb201e24",
+  "name": "musicQuiz.answer3incorrect",
+  "auto": true,
+  "contexts": [
+    "await_answer3"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "await_answer4",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1df51adf-90d4-4b82-b237-a78d4903320b",
+          "required": false,
+          "dataType": "@musicArtists",
+          "name": "quiz_cantante",
+          "value": "$quiz_cantante",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Mi spiace, hai sbagliato. Era \"Rita Pavone\". Passiamo alla prossima canzone!"
+        },
+        {
+          "type": 4,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "audio",
+                "payload": {
+                  "url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/musica%2F4)%20Raimondo%20Vianello%20-%20Abbronzatissima.mp3?alt\u003dmedia\u0026token\u003d6ce4e15e-e520-4575-abfa-7ca34a0899da"
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Chi ha scritto questa canzone?",
+          "buttons": [
+            {
+              "text": "Massimo Ranieri",
+              "postback": "1) Massimo Ranieri"
+            },
+            {
+              "text": "Raimondo Vianello",
+              "postback": "2) Raimondo Vianello"
+            },
+            {
+              "text": "Fred Bongusto",
+              "postback": "3) Fred Bongusto"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

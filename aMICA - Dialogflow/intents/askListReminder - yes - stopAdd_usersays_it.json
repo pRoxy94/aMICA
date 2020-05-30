@@ -1,0 +1,132 @@
+[
+  {
+    "id": "143ea4f8-8b80-4ee5-862d-5f7733dc0f27",
+    "data": [
+      {
+        "text": "si, può bastare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59a637fc-dea9-4bb6-aec5-d93cce1c3a81",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fermo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2321e800-a98e-4326-8f32-3fc8fcd7e2ed",
+    "data": [
+      {
+        "text": "proprio così",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4b139fe0-e908-4d66-a85c-2002fe923d02",
+    "data": [
+      {
+        "text": "certo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b86da55-02ff-4aaf-8301-aad4363a7911",
+    "data": [
+      {
+        "text": "certamente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5d9b495-72cb-4b18-be59-f4d3dda004f0",
+    "data": [
+      {
+        "text": "d\u0027accordo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef8e8ce0-9b32-44d7-a806-c54ad51c2dbe",
+    "data": [
+      {
+        "text": "confermo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a3ee8f1-f060-46ee-91a8-b223430c7c39",
+    "data": [
+      {
+        "text": "sì",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8bf24e6b-30e0-40e2-acf6-d96e7ea6e198",
+    "data": [
+      {
+        "text": "esatto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c1bd806-fe3a-4659-ade0-c471b7a3ed17",
+    "data": [
+      {
+        "text": "fallo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "id": "ab157d79-cbb4-4f94-b6af-62af963e4de1",
+    "data": [
+      {
+        "text": "ho ",
+        "userDefined": false
+      },
+      {
+        "text": "una cura nuova",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9c3ea09-3da0-40ed-9776-e12d4f887f5d",
+    "data": [
+      {
+        "text": "aggiungi nuova cura",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "75341962-f363-4f51-97cb-3f93fc68b076",
+    "data": [
+      {
+        "text": "mi hanno modificato la cura",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a334142-be5e-400b-8803-340ae147f2f8",
+    "data": [
+      {
+        "text": "ho ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nuova cura",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "159af3b6-e391-4438-b56d-476fdbeb6723",
+    "data": [
+      {
+        "text": "il medico",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ha dato ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nuova cura",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d496a2ed-9486-4554-8a6a-69d05a5e7558",
+    "data": [
+      {
+        "text": "aggiungi cura",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "428124e2-6542-4bba-9de6-11eec07463e0",
+    "data": [
+      {
+        "text": "inserisci cura",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87ce6902-a2fb-4ab4-8c74-d1b806273cba",
+    "data": [
+      {
+        "text": "aggiungi nuovo farmaco alla terapia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b4bb60c-4883-4832-999a-8cc43a9cf794",
+    "data": [
+      {
+        "text": "aggiungi medicine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c847590-869a-401b-a13d-5cb332caea53",
+    "data": [
+      {
+        "text": "aggiungi farmaci",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f383f21-d8e0-43ca-bf6c-a9b49da39dbe",
+    "data": [
+      {
+        "text": "aggiungi ",
+        "userDefined": false
+      },
+      {
+        "text": "nuove",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " medicine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be18c2de-173b-4e42-9e54-165de192cbe4",
+    "data": [
+      {
+        "text": "metti le medicine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0dde183-1de0-47df-aed4-daf144957e51",
+    "data": [
+      {
+        "text": "ho ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " terapia nuova",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04d366ee-7bb1-46ee-a1df-16ee93d64abb",
+    "data": [
+      {
+        "text": "inserisci ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " terapia nuova",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e51e8c6c-9ace-44db-80c8-e33030fd8523",
+    "data": [
+      {
+        "text": "voglio inserire ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " terapia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92eb285d-4e04-4650-9e8e-d7b8af613ff5",
+    "data": [
+      {
+        "text": "inserisci la mia terapia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "694a5c4c-9242-4c46-a745-827a66f71e33",
+    "data": [
+      {
+        "text": "il medico",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ha prescritto ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nuova terapia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0dd83716-1690-4aba-805c-a9cfe285184d",
+    "data": [
+      {
+        "text": "ho ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nuova terapia da aggiungere",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d7b52ebc-e61e-4656-a846-5b96a82515f5",
+    "data": [
+      {
+        "text": "ho ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nuova terapia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "30081055-5503-4074-a7b8-f774f5941d3a",
+    "data": [
+      {
+        "text": "aggiungi terapia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8535d57e-79d2-4aaa-b4ab-c6a6c2d70a14",
+    "data": [
+      {
+        "text": "aggiungi terapie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7be2c99b-1582-426d-b41b-cb64ceb17668",
+    "data": [
+      {
+        "text": "terapie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63d0de4c-ce77-44bf-b75d-49d6fc046f6b",
+    "data": [
+      {
+        "text": "aggiungi una terapia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

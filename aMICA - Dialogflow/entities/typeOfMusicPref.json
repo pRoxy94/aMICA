@@ -1,0 +1,9 @@
+{
+  "id": "a3066aee-b9fd-41a6-acca-84a836aa2c22",
+  "name": "typeOfMusicPref",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

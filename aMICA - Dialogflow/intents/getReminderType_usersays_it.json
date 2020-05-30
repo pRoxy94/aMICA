@@ -1,0 +1,115 @@
+[
+  {
+    "id": "4429a58c-f438-4295-a015-355c38edeb12",
+    "data": [
+      {
+        "text": "mostra",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " i promemoria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56f97581-67e8-4e44-87fd-693df08b1592",
+    "data": [
+      {
+        "text": "mostrami i promemoria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a598b38-0b33-48bb-98d3-72f0d222d933",
+    "data": [
+      {
+        "text": "non ricordo i promemoria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc14c555-4149-41fe-8130-1b3521d0a0f8",
+    "data": [
+      {
+        "text": "quali sono i miei promemoria?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c42cfa1-eda4-4b6f-a9b3-b0e9133874c3",
+    "data": [
+      {
+        "text": "ricordami i miei promemoria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "93bcbb94-5f33-48a3-964f-eb939a8dcf8c",
+    "data": [
+      {
+        "text": "ho dei promemoria?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a12b22b2-ef98-4419-ae3f-1a585b6b4718",
+    "data": [
+      {
+        "text": "dimmi i promemoria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "62d5900d-d375-4d6d-b501-16f907751c13",
+    "data": [
+      {
+        "text": "dimmi i miei promemoria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f5952bb-95e8-4a5e-aede-d33d6c5ba2a8",
+    "data": [
+      {
+        "text": "i miei promemoria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

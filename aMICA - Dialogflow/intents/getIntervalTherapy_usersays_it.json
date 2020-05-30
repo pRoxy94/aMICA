@@ -1,0 +1,50 @@
+[
+  {
+    "id": "7a2498e3-28cc-4c7f-acf5-fbe87416852f",
+    "data": [
+      {
+        "text": "le mie intervallari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9d544b48-efd8-460a-9f2a-6c248136db50",
+    "data": [
+      {
+        "text": "le mie terapie intervallo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da5a3548-8325-45f0-88bd-72dc52c6c2b6",
+    "data": [
+      {
+        "text": "le mie terapie intervallari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c380910a-c9d7-4dba-af64-22968a0bbfa6",
+    "data": [
+      {
+        "text": "dammi le pillole intervallari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

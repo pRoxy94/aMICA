@@ -1,0 +1,121 @@
+[
+  {
+    "id": "43847fbb-fc2d-4cae-8e39-ed8ad323d0c6",
+    "data": [
+      {
+        "text": "naviga verso ",
+        "userDefined": false
+      },
+      {
+        "text": "casa",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "400fed77-d272-4a26-a878-df6f8b77a5e9",
+    "data": [
+      {
+        "text": "avvia il navigatore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5de434f2-0d17-4f06-a6d2-e3733c3c21cf",
+    "data": [
+      {
+        "text": "avvia la navigazione",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f95470a-af14-4ee4-b427-9e396f710d30",
+    "data": [
+      {
+        "text": "navigazione",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "223593e9-8d4f-4553-88f9-33892bb2bf4a",
+    "data": [
+      {
+        "text": "navigatore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f58f976-3c21-443e-b744-f00436181774",
+    "data": [
+      {
+        "text": "torno a casa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c9c0f17-f673-4bfb-b85d-0f88f34bf6a7",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sono perso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ebe3429b-4b7b-4b29-9b0b-9adafd4b3446",
+    "data": [
+      {
+        "text": "torniamo a casa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "546b6945-06b6-4d0d-8aa5-f38630c6c843",
+    "data": [
+      {
+        "text": "voglio tornare a casa",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

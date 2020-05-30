@@ -1,0 +1,30 @@
+[
+  {
+    "id": "b6125a7b-9406-4f43-952d-fd54c08f9c07",
+    "data": [
+      {
+        "text": "Peppino Di Capri",
+        "alias": "vipQuiz",
+        "meta": "@typeOfVips",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2d4d1e9-1332-4baa-b699-dd42d5ee12ec",
+    "data": [
+      {
+        "text": "David Bowie",
+        "alias": "vipQuiz",
+        "meta": "@typeOfVips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

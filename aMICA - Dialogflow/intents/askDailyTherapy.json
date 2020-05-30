@@ -1,0 +1,176 @@
+{
+  "id": "53538339-5ed1-4aa2-8235-0ba443efa464",
+  "name": "askDailyTherapy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "askDailyTherapy-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "839dbbaf-3995-4e66-96d4-be59947b4306",
+          "required": false,
+          "dataType": "@drugUseType",
+          "name": "drugusetype",
+          "value": "$drugusetype",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "0e92aa75-68a0-4021-9ea3-09ae708d078d",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "descrizione",
+          "value": "$descrizione",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "Per cosa è la terapia?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "9d40d1ee-f584-4827-aa7e-a4f4d0d18d57",
+          "required": true,
+          "dataType": "@drug",
+          "name": "farmaco",
+          "value": "$farmaco",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "Quale farmaco  assumi?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "c63fb0d7-3d65-403f-b3da-50b226aeb3ec",
+          "required": true,
+          "dataType": "@sys.time",
+          "name": "orario",
+          "value": "$orario",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "A che ora?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "it",
+          "condition": "",
+          "textToSpeech": "Ho aggiunto le informazioni sulla tua terapia giornaliera! Ne vuoi aggiungere altre?",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "it",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Terapie"
+            },
+            {
+              "title": "No grazie"
+            },
+            {
+              "title": "Cancella"
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "text": "Ho aggiunto le informazioni sulla tua terapia giornaliera! Ne vuoi aggiungere altre?",
+              "reply_markup": {
+                "resize_keyboard": true,
+                "one_time_keyboard": true,
+                "keyboard": [
+                  [
+                    {
+                      "text": "Terapie",
+                      "callback_data": "terapie"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Più tardi",
+                      "callback_data": "più tardi"
+                    },
+                    {
+                      "text": "No grazie",
+                      "callback_data": "no grazie"
+                    },
+                    {
+                      "text": "Cancella",
+                      "callback_data": "cancella"
+                    }
+                  ]
+                ]
+              }
+            }
+          }
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Ho aggiunto le informazioni sulla tua terapia giornaliera! Ne vuoi aggiungere altre?",
+          "replies": [
+            "Terapie",
+            "Più tardi",
+            "No grazie",
+            "Cancella"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 750000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

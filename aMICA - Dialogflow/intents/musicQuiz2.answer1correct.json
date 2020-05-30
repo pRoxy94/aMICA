@@ -1,0 +1,79 @@
+{
+  "id": "a6cb4fc0-9dd4-437c-a896-23e9a7156e03",
+  "name": "musicQuiz2.answer1correct",
+  "auto": true,
+  "contexts": [
+    "musicQuiz2_await_answer1"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "musicQuiz2_await_answer2",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Risposta corretta, passiamo alla domanda successiva!."
+        },
+        {
+          "type": 4,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "payload": {
+                  "url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/musica%2F1)%20Tony%20Dallara%20-%20Come%20prima.mp3?alt\u003dmedia\u0026token\u003d7db0ef58-8bd9-4e7a-b459-aee873a181ca"
+                },
+                "type": "audio"
+              }
+            }
+          }
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Chi canta questa canzone?",
+          "buttons": [
+            {
+              "text": "Nico Fidenco",
+              "postback": "Nico Fidenco"
+            },
+            {
+              "text": "Johnny Dorelli",
+              "postback": "Johnny Dorelli"
+            },
+            {
+              "text": "Gianni Nazzaro",
+              "postback": "Gianni Nazzaro"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

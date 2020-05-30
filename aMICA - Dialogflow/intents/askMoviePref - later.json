@@ -1,0 +1,93 @@
+{
+  "id": "cb72a784-cb20-462b-a396-6043e42c6f8d",
+  "parentId": "945c5a6d-58e3-4a41-86f7-346a2b9aa60e",
+  "rootParentId": "945c5a6d-58e3-4a41-86f7-346a2b9aa60e",
+  "name": "askMoviePref - later",
+  "auto": true,
+  "contexts": [
+    "askMoviePref-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "askMoviePref.askMoviePref-later",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "text": "Bene. Sono sempre a tua disposizione! Hai bisogno di altro?",
+              "reply_markup": {
+                "resize_keyboard": true,
+                "one_time_keyboard": true,
+                "keyboard": [
+                  [
+                    {
+                      "text": "Aggiungi Informazioni",
+                      "callback_data": "aggiungi informazioni"
+                    },
+                    {
+                      "text": "Modifica Informazioni",
+                      "callback_data": "modifica informazioni"
+                    },
+                    {
+                      "text": "Elimina Informazioni",
+                      "callback_data": "elimina informazioni"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Mostra Informazioni",
+                      "callback_data": "mostra informazioni"
+                    },
+                    {
+                      "text": "Allenamento",
+                      "callback_data": "allenamento"
+                    }
+                  ],
+                  [
+                    {
+                      "callback_data": "no grazie",
+                      "text": "No grazie"
+                    },
+                    {
+                      "text": "Cancella",
+                      "callback_data": "cancella"
+                    }
+                  ]
+                ]
+              }
+            }
+          }
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Bene. Sono sempre a tua disposizione! Hai bisogno di altro?",
+          "replies": [
+            "Mostra funzionalità",
+            "No grazie",
+            "Cancella"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

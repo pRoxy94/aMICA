@@ -1,0 +1,28 @@
+[
+  {
+    "value": "programmato",
+    "synonyms": [
+      "appuntamento",
+      "programma",
+      "evento"
+    ]
+  },
+  {
+    "value": "ripetuto",
+    "synonyms": [
+      "routine",
+      "abitudine",
+      "giornaliero",
+      "ripetuto",
+      "ripetizione"
+    ]
+  },
+  {
+    "value": "lista",
+    "synonyms": [
+      "lista",
+      "spesa",
+      "cose da fare"
+    ]
+  }
+]

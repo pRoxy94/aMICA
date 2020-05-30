@@ -1,0 +1,46 @@
+{
+  "id": "8dcb6b1c-856f-48a8-aefb-d57765d39561",
+  "name": "misunderstooding",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "title": "Cerco di fare il meglio che posso. In cosa posso esserti utile?",
+          "replies": [
+            "Numeri di emergenza",
+            "Aggiungi info",
+            "Modifica info"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": [
+            "Cerco di fare del mio meglio! Ma attento a non offendermi.",
+            "Ehi, cerco di fare il mio lavoro!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

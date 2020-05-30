@@ -1,0 +1,2059 @@
+[
+  {
+    "id": "388db2f5-c151-4b9e-9989-b95049924023",
+    "data": [
+      {
+        "text": "ho dimenticato ",
+        "userDefined": false
+      },
+      {
+        "text": "come mi chiamo",
+        "alias": "nome",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "def31b86-4a25-4d0d-8c7e-266f57a6be72",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dici ",
+        "userDefined": false
+      },
+      {
+        "text": "dove sono nata",
+        "alias": "luogoNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8c448d2b-fd74-4983-8337-d7d05e277f6d",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dici ",
+        "userDefined": false
+      },
+      {
+        "text": "dove sono nato",
+        "alias": "luogoNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a5e376d-f2d0-4ce5-a339-51393453fc4e",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dici ",
+        "userDefined": false
+      },
+      {
+        "text": "dove sono nata",
+        "alias": "luogoNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16f25f65-9fc8-4aba-8016-c40841fd5e1b",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dici ",
+        "userDefined": false
+      },
+      {
+        "text": "dove sono nato",
+        "alias": "luogoNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc0962b3-83a4-4e19-b9fa-ac6058016742",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dici ",
+        "userDefined": false
+      },
+      {
+        "text": "quando sono nato",
+        "alias": "dataNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "12709e82-c6dc-42f9-885e-c8a01ead8b93",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dici ",
+        "userDefined": false
+      },
+      {
+        "text": "quando sono nata",
+        "alias": "dataNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25e0ecbe-547c-451c-813c-d504d596df81",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dici ",
+        "userDefined": false
+      },
+      {
+        "text": "la mia età",
+        "alias": "eta",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25c47a7d-a75a-41db-a63b-d53509216ee6",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dici ",
+        "userDefined": false
+      },
+      {
+        "text": "dove abito",
+        "alias": "luogoResidenza",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38ed9f82-e6d7-4305-9d2f-5b896496281e",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dici ",
+        "userDefined": false
+      },
+      {
+        "text": "quanti anni ho",
+        "alias": "eta",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8ac0910-c660-4e24-b450-a1d55826819a",
+    "data": [
+      {
+        "text": "non so ",
+        "userDefined": false
+      },
+      {
+        "text": "dove sono nata",
+        "alias": "luogoNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb573168-0f27-45dd-9e55-6f76d9091c81",
+    "data": [
+      {
+        "text": "non so ",
+        "userDefined": false
+      },
+      {
+        "text": "dove sono nato",
+        "alias": "luogoNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "676f8dcc-6ddd-4ec4-8320-0548cc72cd28",
+    "data": [
+      {
+        "text": "non so ",
+        "userDefined": false
+      },
+      {
+        "text": "dove vivo",
+        "alias": "luogoResidenza",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9697e6f2-800e-438f-8471-762958296dda",
+    "data": [
+      {
+        "text": "non so il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "cognome",
+        "alias": "cognome",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "186f8b21-196d-4cfb-8fe1-b415d34a4bf6",
+    "data": [
+      {
+        "text": "non so ",
+        "userDefined": false
+      },
+      {
+        "text": "come mi chiamo",
+        "alias": "nome",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd460ed1-06f6-48eb-a65f-f382d481c8aa",
+    "data": [
+      {
+        "text": "non so ",
+        "userDefined": false
+      },
+      {
+        "text": "dove abito",
+        "alias": "luogoResidenza",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b2fbe8c-e301-4dfe-a5ff-351caac4e1f2",
+    "data": [
+      {
+        "text": "non so ",
+        "userDefined": false
+      },
+      {
+        "text": "quanti anni ho",
+        "alias": "eta",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23ccc599-5f26-4c1a-99a1-71797c73f787",
+    "data": [
+      {
+        "text": "qual è la mia ",
+        "userDefined": false
+      },
+      {
+        "text": "eta",
+        "alias": "eta",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98bc8f23-1416-4508-bde5-5f0ca99e8c15",
+    "data": [
+      {
+        "text": "qual è il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "cognome",
+        "alias": "cognome",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38b749a7-6e12-430d-b765-d0d09475e32c",
+    "data": [
+      {
+        "text": "qualè il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "nome",
+        "alias": "nome",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1625bce2-098d-43e2-a7b7-d71e163af320",
+    "data": [
+      {
+        "text": "ricordami ",
+        "userDefined": false
+      },
+      {
+        "text": "dove sono nato",
+        "alias": "luogoNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bfe29a01-1e94-401d-9f5c-ef81d21b83e2",
+    "data": [
+      {
+        "text": "ricordami la mia ",
+        "userDefined": false
+      },
+      {
+        "text": "età",
+        "alias": "eta",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0958447b-209c-4c5d-9efa-049015b9b92d",
+    "data": [
+      {
+        "text": "ricordami il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "cognome",
+        "alias": "cognome",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd6d839e-7a47-4486-8bf0-7fa6aa925fab",
+    "data": [
+      {
+        "text": "ricordami il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "nome",
+        "alias": "nome",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92d23699-63bb-41a4-9a35-cea98d4e3349",
+    "data": [
+      {
+        "text": "ricordami ",
+        "userDefined": false
+      },
+      {
+        "text": "quanti anni ho",
+        "alias": "eta",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27c0ba8c-d590-4252-a1f9-3f09a428ecfc",
+    "data": [
+      {
+        "text": "ricordami ",
+        "userDefined": false
+      },
+      {
+        "text": "dove vivo",
+        "alias": "luogoResidenza",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "989d9f91-85b9-48a2-a2c5-6b49e5f2244d",
+    "data": [
+      {
+        "text": "ho dimenticato ",
+        "userDefined": false
+      },
+      {
+        "text": "quando sono nato",
+        "alias": "dataNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f4525ba8-fddc-4f4a-8b7d-55a3d6c89420",
+    "data": [
+      {
+        "text": "ho dimenticato ",
+        "userDefined": false
+      },
+      {
+        "text": "dove sono nato",
+        "alias": "luogoNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "954f11b5-ea07-45d5-b15e-ad727b030205",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ricordi il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "anno di nascita",
+        "alias": "dataNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88ee9f2a-3bc0-4974-ab42-9e6011cc3d6a",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ricordi il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "giorno di nascita",
+        "alias": "dataNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aaf2f993-f1ca-4121-862a-b0ed6c1febb6",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ricordi il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "mese di nascita",
+        "alias": "dataNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f40cbd2-b21e-4f7b-985e-3de57eac42b9",
+    "data": [
+      {
+        "text": "non ricordo il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "mese di nascita",
+        "alias": "dataNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23a2a0dc-aa47-4e7f-8c7c-cd5c7c2e738a",
+    "data": [
+      {
+        "text": "non ricordo il ",
+        "userDefined": false
+      },
+      {
+        "text": "mese di nascita",
+        "alias": "dataNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4502d66-0311-4168-a80c-4ee8321ab3e2",
+    "data": [
+      {
+        "text": "non ricordo il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "giorno di nascita",
+        "alias": "dataNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6d59b60e-cdf3-4769-a0e6-213ea924fc77",
+    "data": [
+      {
+        "text": "non ricordo il ",
+        "userDefined": false
+      },
+      {
+        "text": "giorno di nascita",
+        "alias": "dataNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1fc5fcc7-cc8e-4295-b262-d67e2ffb6ab6",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ricordi il ",
+        "userDefined": false
+      },
+      {
+        "text": "giorno di nascita",
+        "alias": "dataNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51733f50-d659-43ab-8a2c-9cd991419069",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ricordi il ",
+        "userDefined": false
+      },
+      {
+        "text": "mese di nascita",
+        "alias": "dataNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8446739d-113a-46c7-bc4e-b43bb935a320",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ricordi l\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "anno di nascita",
+        "alias": "dataNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "98fdd6b7-4c92-45dd-9ee3-8f5fed6abfd3",
+    "data": [
+      {
+        "text": "ho dimenticato ",
+        "userDefined": false
+      },
+      {
+        "text": "quando sono nata",
+        "alias": "dataNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b68f422f-47a1-4378-8227-2cdaaae81bf7",
+    "data": [
+      {
+        "text": "non ricordo il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "cognome",
+        "alias": "cognome",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f1da560-88d8-4e02-9701-59c382a9ced0",
+    "data": [
+      {
+        "text": "non ricordo ",
+        "userDefined": false
+      },
+      {
+        "text": "dove sono nato",
+        "alias": "luogoNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7d681cab-6354-45f4-9b52-7ca41bf2112c",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ricordi il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "cognome",
+        "alias": "cognome",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8569b04-cbe6-4125-8bea-33ef85b0061c",
+    "data": [
+      {
+        "text": "ricordami ",
+        "userDefined": false
+      },
+      {
+        "text": "dove abito",
+        "alias": "luogoResidenza",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0712772c-8876-41ea-a6ec-8ec253486ec4",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ricordi ",
+        "userDefined": false
+      },
+      {
+        "text": "dove vivo",
+        "alias": "luogoResidenza",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7489d5e2-b88f-4742-b59d-0a7ad4e8744e",
+    "data": [
+      {
+        "text": "ho dimenticato il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "giorno di nascita",
+        "alias": "dataNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4516221d-11e8-45ac-89e6-ac7704d57da3",
+    "data": [
+      {
+        "text": "non ricordo ",
+        "userDefined": false
+      },
+      {
+        "text": "quando sono nata",
+        "alias": "dataNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d60c646-ed70-4c29-8625-702e405df036",
+    "data": [
+      {
+        "text": "non ricordo la mia ",
+        "userDefined": false
+      },
+      {
+        "text": "data di nascita",
+        "alias": "dataNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ad28e38-4b63-4324-af5e-9489f29e6180",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sono scordato il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "cognome",
+        "alias": "cognome",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "246f75b1-9b5d-42c9-82ac-f52821ace9d2",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sono scordato ",
+        "userDefined": false
+      },
+      {
+        "text": "dove sono nato",
+        "alias": "luogoNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b0a2400-ebf8-4790-b2f3-d79eee28ea10",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ricordi ",
+        "userDefined": false
+      },
+      {
+        "text": "dove sono nata",
+        "alias": "luogoNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9df27c30-dcbf-4c8e-b58b-ac29499d525a",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ricordi ",
+        "userDefined": false
+      },
+      {
+        "text": "quando sono nata",
+        "alias": "dataNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4e5b36b-6016-4259-b2c9-f11a966690a5",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ricordi ",
+        "userDefined": false
+      },
+      {
+        "text": "quando sono nato",
+        "alias": "dataNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "af534057-ebba-418d-b06f-b6dedd0efc03",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ricordi ",
+        "userDefined": false
+      },
+      {
+        "text": "dove sono nato",
+        "alias": "luogoResidenza",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70854892-c0bc-43c5-8618-0b1191286816",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ricordi ",
+        "userDefined": false
+      },
+      {
+        "text": "come mi chiamo",
+        "alias": "nome",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "696f3d5d-f2b2-471a-8dbd-8859cbd70249",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ricordi il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "nome",
+        "alias": "nome",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dbc6a6a6-132e-49d1-9e3a-e778a08ca6ab",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ricordi ",
+        "userDefined": false
+      },
+      {
+        "text": "quanti anni ho",
+        "alias": "eta",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "abb39120-01e9-4b33-b0e6-39d72a562473",
+    "data": [
+      {
+        "text": "non ricordo ",
+        "userDefined": false
+      },
+      {
+        "text": "data di nascita",
+        "alias": "dataNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c1e22392-c4ec-424b-86e0-493d626f1066",
+    "data": [
+      {
+        "text": "non ricordo ",
+        "userDefined": false
+      },
+      {
+        "text": "dove abito",
+        "alias": "luogoResidenza",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5759b869-00e7-46ec-aaa8-bf7b65f78c03",
+    "data": [
+      {
+        "text": "non ricordo ",
+        "userDefined": false
+      },
+      {
+        "text": "dove vivo",
+        "alias": "luogoResidenza",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "280c5a9e-ab04-4a33-a815-2140907a05ed",
+    "data": [
+      {
+        "text": "non ricordo l\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "età",
+        "alias": "eta",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48023389-0ebd-444a-80ab-4164f077b283",
+    "data": [
+      {
+        "text": "non ricordo il ",
+        "userDefined": false
+      },
+      {
+        "text": "nome",
+        "alias": "nome",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ced6c71e-3eeb-4719-bb51-ff017a417951",
+    "data": [
+      {
+        "text": "non ricordo il ",
+        "userDefined": false
+      },
+      {
+        "text": "cognome",
+        "alias": "cognome",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e996dab5-03a8-49f9-be4f-67255c21f16b",
+    "data": [
+      {
+        "text": "non ricordo ",
+        "userDefined": false
+      },
+      {
+        "text": "dove sono nata",
+        "alias": "luogoNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5f77293-0303-4592-beba-0023b0009850",
+    "data": [
+      {
+        "text": "non ricordo ",
+        "userDefined": false
+      },
+      {
+        "text": "la mia età",
+        "alias": "eta",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2f885b1-7c45-4491-a4f9-a19fab5a4d38",
+    "data": [
+      {
+        "text": "ho dimenticato ",
+        "userDefined": false
+      },
+      {
+        "text": "dove sono nata",
+        "alias": "luogoNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16dd2cfe-81d0-4c72-af5c-89b206aa29aa",
+    "data": [
+      {
+        "text": "ho dimenticato il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "cognome",
+        "alias": "cognome",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9bf78c90-b8e0-440b-b0d0-9c0b27c06540",
+    "data": [
+      {
+        "text": "ho dimenticato ",
+        "userDefined": false
+      },
+      {
+        "text": "la mia età",
+        "alias": "eta",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b57b25ac-90aa-4082-bbc0-b1d1d4a26cf7",
+    "data": [
+      {
+        "text": "ho dimenticato ",
+        "userDefined": false
+      },
+      {
+        "text": "dove vivo",
+        "alias": "luogoResidenza",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c4893578-56b4-4227-8fd6-8c9e397abdb9",
+    "data": [
+      {
+        "text": "non ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ricordo ",
+        "userDefined": false
+      },
+      {
+        "text": "quanti anni ho",
+        "alias": "eta",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25ab1225-7326-4e3b-bb2a-899b7477d3b1",
+    "data": [
+      {
+        "text": "non ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ricordo ",
+        "userDefined": false
+      },
+      {
+        "text": "quando sono nata",
+        "alias": "dataNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a1a1837e-e681-43a0-a069-3adec8830469",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sono scordato ",
+        "userDefined": false
+      },
+      {
+        "text": "come mi chiamo",
+        "alias": "nome",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0dbc3e1-f923-42a8-b646-cedd1db0601c",
+    "data": [
+      {
+        "text": "ricordami ",
+        "userDefined": false
+      },
+      {
+        "text": "quando sono nata",
+        "alias": "dataNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9dd237d5-c5eb-40d3-b455-8f813ed5fa67",
+    "data": [
+      {
+        "text": "ho dimenticato ",
+        "userDefined": false
+      },
+      {
+        "text": "dove abito",
+        "alias": "luogoResidenza",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "34b613dc-b890-4721-ae96-66c015b479d3",
+    "data": [
+      {
+        "text": "non ricordo ",
+        "userDefined": false
+      },
+      {
+        "text": "come mi chiamo",
+        "alias": "nome",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c7fcb9f-771b-4c9e-9848-1b422678e0b8",
+    "data": [
+      {
+        "text": "non ricordo il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "nome",
+        "alias": "nome",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "816aacf8-f8b5-4c79-b007-d322fad1171f",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dici ",
+        "userDefined": false
+      },
+      {
+        "text": "dove vivo",
+        "alias": "luogoResidenza",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4dd00005-352b-467a-8ed2-3f7d76719420",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dici ",
+        "userDefined": false
+      },
+      {
+        "text": "come mi chiamo",
+        "alias": "nome",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "451eb71b-921a-4784-abf4-86776aa99738",
+    "data": [
+      {
+        "text": "dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "dove sono nato",
+        "alias": "luogoNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b3b8d44-dbb6-46ef-b09c-7bfb5aca478b",
+    "data": [
+      {
+        "text": "dimmi il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "nome",
+        "alias": "nome",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "700956dc-1469-4902-aff7-15a863d9a74a",
+    "data": [
+      {
+        "text": "voglio sapere il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "nome",
+        "alias": "nome",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "801aadaa-3428-4c3a-b687-d5cae64a15c9",
+    "data": [
+      {
+        "text": "voglio sapere ",
+        "userDefined": false
+      },
+      {
+        "text": "come mi chiamo",
+        "alias": "nome",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dac7d2e3-c5f2-4fad-89a0-0846b58469e4",
+    "data": [
+      {
+        "text": "e il ",
+        "userDefined": false
+      },
+      {
+        "text": "nome",
+        "alias": "nome",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "75f9144b-2952-4e2b-b9bf-9e375c492240",
+    "data": [
+      {
+        "text": "e il ",
+        "userDefined": false
+      },
+      {
+        "text": "cognome",
+        "alias": "cognome",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b7741894-f360-4f55-bb60-2cf388e3e88d",
+    "data": [
+      {
+        "text": "e il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "nome",
+        "alias": "nome",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "073e17d1-45d8-423f-865f-185f887c8efe",
+    "data": [
+      {
+        "text": "e il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "cognome",
+        "alias": "cognome",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "016e156e-db48-481b-8562-07fe1043c317",
+    "data": [
+      {
+        "text": "quando sono nata",
+        "alias": "dataNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "96d75c07-7b96-4dcd-94d0-9cbea31ea35a",
+    "data": [
+      {
+        "text": "dove sono nata",
+        "alias": "luogoNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3220fafb-cd52-4186-9d80-fd4cfec566a2",
+    "data": [
+      {
+        "text": "dove abito",
+        "alias": "luogoResidenza",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "869ef3ec-00cd-4db1-aad5-fdd1ba95f5a5",
+    "data": [
+      {
+        "text": "dove abito",
+        "alias": "luogoResidenza",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "009aabeb-cac3-4b66-9296-b339571a2d1b",
+    "data": [
+      {
+        "text": "dov è ",
+        "userDefined": false
+      },
+      {
+        "text": "casa mia",
+        "alias": "luogoResidenza",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2c3ac797-8173-4e26-bc50-1cb2cdb83ed7",
+    "data": [
+      {
+        "text": "dove vivo",
+        "alias": "luogoResidenza",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4887a6e-8d36-4e51-80c1-37fde95561cd",
+    "data": [
+      {
+        "text": "casa mia",
+        "alias": "luogoResidenza",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c51800e-14c5-4c2b-b1f7-e392329abad4",
+    "data": [
+      {
+        "text": "quando sono nato",
+        "alias": "dataNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c07eb26a-4804-4781-96f5-b8a87da8c0b9",
+    "data": [
+      {
+        "text": "dove sono nato",
+        "alias": "luogoNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "099ff1fa-d15d-4eb9-a5b0-1d1253e294f2",
+    "data": [
+      {
+        "text": "qual è il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "luogo di residenza",
+        "alias": "luogoResidenza",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "716569a0-7f72-4ea0-bc49-c93353c06e86",
+    "data": [
+      {
+        "text": "qual è il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "luogo di nascita",
+        "alias": "luogoNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "909854d7-5e87-4ffc-8ee7-9f9e519faba7",
+    "data": [
+      {
+        "text": "qual è la mia ",
+        "userDefined": false
+      },
+      {
+        "text": "data di nascita",
+        "alias": "dataNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5f595333-2c03-4ffc-ae2c-1df98d13cae4",
+    "data": [
+      {
+        "text": "e la mia ",
+        "userDefined": false
+      },
+      {
+        "text": "età",
+        "alias": "eta",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f1430aa-168b-411f-b45e-f559d7ece330",
+    "data": [
+      {
+        "text": "Come mi chiamo",
+        "alias": "nome",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a203cf5-550b-4ba0-a2f1-3247e5698420",
+    "data": [
+      {
+        "text": "quanti ",
+        "userDefined": false
+      },
+      {
+        "text": "anni",
+        "alias": "eta",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": true
+      },
+      {
+        "text": " ho?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a14ab73d-f40a-4083-9014-0ea0c0f95352",
+    "data": [
+      {
+        "text": "dove sono nata",
+        "alias": "luogoNascita",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8e352139-fc0b-4eac-8478-6686b5c71947",
+    "data": [
+      {
+        "text": "qual è il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "nome",
+        "alias": "nome",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3cf8475a-09ce-494f-9278-848a3386609d",
+    "data": [
+      {
+        "text": "qual è il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "cognome",
+        "alias": "cognome",
+        "meta": "@TypeOfBaseInfo",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

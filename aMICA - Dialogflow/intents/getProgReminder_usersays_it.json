@@ -1,0 +1,296 @@
+[
+  {
+    "id": "86ac9437-4a04-4448-8a7e-bd77e7188c0c",
+    "data": [
+      {
+        "text": "rendez-vous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5fb3426-a914-4049-a6f9-0002a8f4b5d2",
+    "data": [
+      {
+        "text": "convegni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e6ce6a4-4fed-4414-aeb1-d9cd6cffe241",
+    "data": [
+      {
+        "text": "i miei convegni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aaf80d1a-9d04-44dd-b967-2d80974c685d",
+    "data": [
+      {
+        "text": "quali sono i miei appuntamenti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5fdc34d8-a255-46e5-a082-a394db0e96d1",
+    "data": [
+      {
+        "text": "quali sono gli appuntamenti di ",
+        "userDefined": false
+      },
+      {
+        "text": "oggi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b27e970-902b-4f7b-b17a-79cf6198e2ca",
+    "data": [
+      {
+        "text": "ho dei colloqui?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a614dad1-1ad5-43e0-902d-1cf8c5998f0f",
+    "data": [
+      {
+        "text": "ho ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " colloquio?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8db1886-d2d6-41b0-a475-d80d9a675b27",
+    "data": [
+      {
+        "text": "colloqui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3205605d-bd25-4139-946a-055b8a7022a7",
+    "data": [
+      {
+        "text": "i miei incontri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "07e38080-29a2-4ea0-9015-140a02102587",
+    "data": [
+      {
+        "text": "ho degli incontri?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1ccb0fc-9b72-405a-9d41-1448c2f76488",
+    "data": [
+      {
+        "text": "appuntamenti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b47f86e7-cdd8-4a1a-aecf-e4a4420b4a18",
+    "data": [
+      {
+        "text": "appuntamenti di oggi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39fda552-865f-4033-b5ee-93c12de03c5c",
+    "data": [
+      {
+        "text": "i miei appuntamenti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5fbf6b81-68d1-40f7-89d8-dd5d52919847",
+    "data": [
+      {
+        "text": "dimmi i miei programmi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e11e5408-df75-427f-90c0-3cbd8f5e2c39",
+    "data": [
+      {
+        "text": "sai se ho degli appuntamenti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e89aac7-95af-49b9-8052-c6691b8f6faa",
+    "data": [
+      {
+        "text": "dimmi gli appuntamenti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "df8174d7-8f19-412a-bfa5-16344011b3fb",
+    "data": [
+      {
+        "text": "ho degli appuntamenti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dad94e38-d0d0-47b5-a234-d84f77b6a359",
+    "data": [
+      {
+        "text": "ricordami gli appuntamenti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6938bd1-4c80-4087-af66-3205d320bfa4",
+    "data": [
+      {
+        "text": "non ricordo i miei appuntamenti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7cb2ef11-778a-4973-8f94-6842932f1d88",
+    "data": [
+      {
+        "text": "dimmi i miei promemoria programmati",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cff398fd-0c60-4d5b-8853-86bc2babbf19",
+    "data": [
+      {
+        "text": "quali sono i miei programmi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "742d228c-3303-4af5-aa3c-642f6c1995d8",
+    "data": [
+      {
+        "text": "i miei programmi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bfa07c81-549e-46ff-aba8-1f5684cfb6ee",
+    "data": [
+      {
+        "text": "i miei promemoria programmati",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

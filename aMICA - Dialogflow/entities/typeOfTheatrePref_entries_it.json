@@ -1,0 +1,27 @@
+[
+  {
+    "value": "genere",
+    "synonyms": [
+      "genere",
+      "generi",
+      "genere teatrale"
+    ]
+  },
+  {
+    "value": "titolo",
+    "synonyms": [
+      "titolo",
+      "titoli",
+      "titolo opera",
+      "opera",
+      "opere"
+    ]
+  },
+  {
+    "value": "autore",
+    "synonyms": [
+      "autore",
+      "autori"
+    ]
+  }
+]

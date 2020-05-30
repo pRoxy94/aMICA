@@ -1,0 +1,288 @@
+[
+  {
+    "id": "4e0e1d15-358f-44e7-bf15-b1dcd311ec7f",
+    "data": [
+      {
+        "text": "la mia ",
+        "userDefined": false
+      },
+      {
+        "text": "opera",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " preferita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ad487fd-522e-4b51-b68c-1cd7313c437b",
+    "data": [
+      {
+        "text": "e i ",
+        "userDefined": false
+      },
+      {
+        "text": "generi",
+        "alias": "genere",
+        "meta": "@typeOfTheatrePref",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed20fcb1-0ab9-45ea-8cc1-6478c054b694",
+    "data": [
+      {
+        "text": "e il ",
+        "userDefined": false
+      },
+      {
+        "text": "genere",
+        "alias": "genere",
+        "meta": "@typeOfTheatrePref",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4ffdfe2-500d-4f45-a7af-0bd6c01acbef",
+    "data": [
+      {
+        "text": "quali sono i ",
+        "userDefined": false
+      },
+      {
+        "text": "titoli",
+        "alias": "titolo",
+        "meta": "@typeOfTheatrePref",
+        "userDefined": false
+      },
+      {
+        "text": " delle mie ",
+        "userDefined": false
+      },
+      {
+        "text": "opere",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " preferite?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cce907e7-1995-4297-9e91-6ac8aa72f897",
+    "data": [
+      {
+        "text": "e i ",
+        "userDefined": false
+      },
+      {
+        "text": "titoli",
+        "alias": "titolo",
+        "meta": "@typeOfTheatrePref",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a700b088-0c59-4438-b8aa-de3722e71d82",
+    "data": [
+      {
+        "text": "quali sono i ",
+        "userDefined": false
+      },
+      {
+        "text": "titoli",
+        "alias": "titolo",
+        "meta": "@typeOfTheatrePref",
+        "userDefined": false
+      },
+      {
+        "text": " delle ",
+        "userDefined": false
+      },
+      {
+        "text": "opere",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " che ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piacciono?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "382ddf0c-5a00-4def-9f21-2ff584f2b5c3",
+    "data": [
+      {
+        "text": "chi sono gli ",
+        "userDefined": false
+      },
+      {
+        "text": "autori",
+        "alias": "autore",
+        "meta": "@typeOfTheatrePref",
+        "userDefined": true
+      },
+      {
+        "text": " delle mie ",
+        "userDefined": false
+      },
+      {
+        "text": "opere",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " preferite?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ce411bbd-a943-41a1-82e1-f87bf8abf4b7",
+    "data": [
+      {
+        "text": "e gli ",
+        "userDefined": false
+      },
+      {
+        "text": "autori",
+        "alias": "autore",
+        "meta": "@typeOfTheatrePref",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "43ee359e-a253-456b-befd-c0e33403228d",
+    "data": [
+      {
+        "text": "che ",
+        "userDefined": false
+      },
+      {
+        "text": "opere",
+        "alias": "titolo",
+        "meta": "@typeOfTheatrePref",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piacciono?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3436334-cdf0-4b72-8589-e4c8a93a8702",
+    "data": [
+      {
+        "text": "i miei ",
+        "userDefined": false
+      },
+      {
+        "text": "generi teatrali",
+        "alias": "genere",
+        "meta": "@typeOfTheatrePref",
+        "userDefined": true
+      },
+      {
+        "text": " preferiti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d75dffa8-30b8-4019-8c3a-6d3e2854f4c8",
+    "data": [
+      {
+        "text": "qual è il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "genere teatrale",
+        "alias": "genere",
+        "meta": "@typeOfTheatrePref",
+        "userDefined": true
+      },
+      {
+        "text": " preferito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

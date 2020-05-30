@@ -1,0 +1,9 @@
+{
+  "id": "146b4b91-038f-4103-a616-b8dfa659da1d",
+  "name": "drugUseType",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

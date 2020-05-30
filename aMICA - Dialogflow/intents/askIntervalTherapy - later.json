@@ -1,0 +1,101 @@
+{
+  "id": "36ca61c3-352c-45aa-a813-1758919d3d1c",
+  "parentId": "2239a85d-718f-4882-ada5-fd4ace9d56ed",
+  "rootParentId": "2239a85d-718f-4882-ada5-fd4ace9d56ed",
+  "name": "askIntervalTherapy - later",
+  "auto": true,
+  "contexts": [
+    "askIntervalTherapy-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "askIntervalTherapy.askIntervalTherapy-later",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "text": "Certo! Sono sempre a tua disposizione. Hai bisogno di altro?",
+              "reply_markup": {
+                "resize_keyboard": true,
+                "one_time_keyboard": true,
+                "keyboard": [
+                  [
+                    {
+                      "text": "Aggiungi Informazioni",
+                      "callback_data": "aggiungi informazioni"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Modifica Informazioni",
+                      "callback_data": "modifica informazioni"
+                    }
+                  ],
+                  [
+                    {
+                      "callback_data": "elimina informazioni",
+                      "text": "Elimina Informazioni"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Mostra Informazioni",
+                      "callback_data": "mostra informazioni"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Allenamento",
+                      "callback_data": "allenamento"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "No grazie",
+                      "callback_data": "no grazie"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Cancella",
+                      "callback_data": "cancella"
+                    }
+                  ]
+                ]
+              }
+            }
+          }
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Bene. Sono sempre a tua disposizione! Hai bisogno di altro?",
+          "replies": [
+            "Mostra funzionalità",
+            "No grazie",
+            "Cancella"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 750000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

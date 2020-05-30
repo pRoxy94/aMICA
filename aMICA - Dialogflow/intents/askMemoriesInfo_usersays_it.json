@@ -1,0 +1,331 @@
+[
+  {
+    "id": "836b30d1-2172-4431-b1b7-e6dc3a28c6da",
+    "data": [
+      {
+        "text": "ho ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ricordo di quando ho fatto il ",
+        "userDefined": false
+      },
+      {
+        "text": "militare",
+        "alias": "descrizione",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "876de563-6324-4b21-b230-8872089ad453",
+    "data": [
+      {
+        "text": "due giorni fa",
+        "alias": "indTemporale",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ho ",
+        "userDefined": false
+      },
+      {
+        "text": "piantato nuovi alberi in giardino",
+        "alias": "descrizione",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0455495-33f0-4da7-9f17-a54f98adaf80",
+    "data": [
+      {
+        "text": "il ",
+        "userDefined": false
+      },
+      {
+        "text": "mese scorso",
+        "alias": "indTemporale",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " sono andato in ",
+        "userDefined": false
+      },
+      {
+        "text": "pizzeria con mio figlio",
+        "alias": "descrizione",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e44d08fd-eac6-4f50-a2d2-0ad29f587df4",
+    "data": [
+      {
+        "text": "la ",
+        "userDefined": false
+      },
+      {
+        "text": "settimana scorsa",
+        "alias": "indTemporale",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " sono andato al ",
+        "userDefined": false
+      },
+      {
+        "text": "teatro con mia moglie",
+        "alias": "descrizione",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ce2f5a78-ec25-4839-ae92-8a8d95f29013",
+    "data": [
+      {
+        "text": "scrivi della ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza con gli amici",
+        "alias": "descrizione",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "ieri",
+        "alias": "indTemporale",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31266cf3-313f-4703-a14f-4efcd2d08cf1",
+    "data": [
+      {
+        "text": "aggiungi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " evento nei ricordi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a219c7c2-caee-4662-9c0f-5587aea012da",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sono ricordato",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2688fec3-5db6-4115-8fc1-ba3b073a4bf3",
+    "data": [
+      {
+        "text": "scrivi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nuovo ricordo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a9fe7b0-0097-425b-9373-f515beb6e85f",
+    "data": [
+      {
+        "text": "scrivi ricordi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d82547e5-25a3-4530-b8d8-fb4f7c52edd7",
+    "data": [
+      {
+        "text": "voglio parlarti dei miei ricordi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "951efd33-26aa-4498-a140-6e4b6c2bbc7a",
+    "data": [
+      {
+        "text": "scrivi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ricordo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3620d14d-4595-49d1-ad95-ded4f0f63adb",
+    "data": [
+      {
+        "text": "voglio aggiungere ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ricordo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c148adba-55e7-4651-8e29-ac6282e1af8d",
+    "data": [
+      {
+        "text": "inserisci ricordo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97026cef-b738-4ed7-8e61-eb7c5f5744d5",
+    "data": [
+      {
+        "text": "aggiungi ",
+        "userDefined": false
+      },
+      {
+        "text": "ricordo",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " del ",
+        "userDefined": false
+      },
+      {
+        "text": "matrimonio di mia figlia",
+        "alias": "descrizione",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "184c3d22-3067-4df8-bc34-70fc6655da7f",
+    "data": [
+      {
+        "text": "aggiungi ",
+        "userDefined": false
+      },
+      {
+        "text": "ricordo",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5979e7a7-7f16-46a2-bf29-aede56086733",
+    "data": [
+      {
+        "text": "ricordi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

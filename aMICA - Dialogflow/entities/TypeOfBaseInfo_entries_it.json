@@ -1,0 +1,46 @@
+[
+  {
+    "value": "nome",
+    "synonyms": [
+      "nome"
+    ]
+  },
+  {
+    "value": "cognome",
+    "synonyms": [
+      "cognome"
+    ]
+  },
+  {
+    "value": "eta",
+    "synonyms": [
+      "eta",
+      "età",
+      "anni"
+    ]
+  },
+  {
+    "value": "data di nascita",
+    "synonyms": [
+      "data di nascita",
+      "data nascita"
+    ]
+  },
+  {
+    "value": "luogo di nascita",
+    "synonyms": [
+      "luogo di nascita",
+      "luogo nascita"
+    ]
+  },
+  {
+    "value": "luogo di residenza",
+    "synonyms": [
+      "luogo di residenza",
+      "luogo in cui vivo",
+      "residenza",
+      "domicilio",
+      "casa mia"
+    ]
+  }
+]

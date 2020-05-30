@@ -1,0 +1,36 @@
+{
+  "id": "2c310056-39e7-49e4-b79c-4e1f0faf36b3",
+  "parentId": "e6f99aea-b703-475e-b14a-1f49f5a04ade",
+  "rootParentId": "e6f99aea-b703-475e-b14a-1f49f5a04ade",
+  "name": "getAllMusicPref - later",
+  "auto": true,
+  "contexts": [
+    "getAllMusicPref-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "getAllMusicPref.getAllMusicPref-later",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": "Certo. Sono sempre a tua disposizione!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

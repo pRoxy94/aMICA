@@ -1,0 +1,9 @@
+{
+  "id": "6373b675-d55e-4c33-aaa9-58a64ba6fbc5",
+  "name": "allergyType",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

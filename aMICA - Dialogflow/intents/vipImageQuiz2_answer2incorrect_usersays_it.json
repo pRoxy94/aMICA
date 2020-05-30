@@ -1,0 +1,30 @@
+[
+  {
+    "id": "119036d7-c60a-41c3-bec6-94aaba7ad0c4",
+    "data": [
+      {
+        "text": "Renato Pozzetto",
+        "alias": "quiz_vip",
+        "meta": "@typeOfVips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6bce8128-8256-43dc-b476-8ea511853fe9",
+    "data": [
+      {
+        "text": "Bud Spencer",
+        "alias": "quiz_vip",
+        "meta": "@typeOfVips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

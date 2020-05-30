@@ -1,0 +1,43 @@
+{
+  "id": "fa668324-4e87-4176-a279-44401f5c06f5",
+  "name": "memoryNotFunction",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "memoryNotFunction-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": [
+            "Non preoccuparti, ci sono io ad aiutarti! Ti basta scrivere \"i miei ricordi\".",
+            "Non aver paura, c\u0027è un rimedio a tutto! Scrivi \"i miei ricordi\" e ti farò una sorpresa.",
+            "Tutto si risolve amico mio! Vuoi che ti ricordi qualcosa?",
+            "Non arrenderti mai! Chiedimi i tuoi ricordi e ti sentirai meglio.",
+            "Ci sono io qui ad aiutarti! Scrivi \"i miei ricordi\" e sarà tutto più chiaro."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

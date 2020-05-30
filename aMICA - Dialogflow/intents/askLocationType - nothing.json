@@ -1,0 +1,36 @@
+{
+  "id": "3a791598-52be-4eab-96c0-400b09e27e97",
+  "parentId": "718f40b1-ba11-434e-b1c4-4362501a8e1f",
+  "rootParentId": "718f40b1-ba11-434e-b1c4-4362501a8e1f",
+  "name": "askLocationType - nothing",
+  "auto": true,
+  "contexts": [
+    "askLocationType-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "askLocationType.askLocationType-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": "D\u0027accordo. Contattami quando vuoi!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

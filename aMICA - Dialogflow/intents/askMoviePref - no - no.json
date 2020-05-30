@@ -1,0 +1,36 @@
+{
+  "id": "113c2a6d-3788-481d-a91f-2be13440c3e2",
+  "parentId": "5d3048be-5385-4cdc-abff-e39826d8bd56",
+  "rootParentId": "945c5a6d-58e3-4a41-86f7-346a2b9aa60e",
+  "name": "askMoviePref - no - no",
+  "auto": true,
+  "contexts": [
+    "askMoviePref-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "askMoviePref.askMoviePref-no.askMoviePref-no-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": "Bene. Ci sentiamo pesto!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

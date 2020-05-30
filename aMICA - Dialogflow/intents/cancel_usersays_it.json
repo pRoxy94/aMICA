@@ -1,0 +1,138 @@
+[
+  {
+    "id": "f22af778-de93-47e8-8486-d97843af63b0",
+    "data": [
+      {
+        "text": "basta così",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d14ecbe5-3be9-4022-99ee-983d2a0a1925",
+    "data": [
+      {
+        "text": "basta",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd32aa09-a8ab-4b78-b571-bdf999b768d4",
+    "data": [
+      {
+        "text": "fermati qui",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71e3f018-0e95-43dc-bab4-c0b8577d6791",
+    "data": [
+      {
+        "text": "smettila",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64de1de6-68b8-4fdb-9924-f2614e1f00f8",
+    "data": [
+      {
+        "text": "non serve andare avanti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa8fe360-c620-4549-83cf-3f142543024b",
+    "data": [
+      {
+        "text": "non voglio continuare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f5106687-418a-4bf4-a74d-484bfb3f6952",
+    "data": [
+      {
+        "text": "stop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b1c37d5-2b5f-4423-914e-ea6e7b916a18",
+    "data": [
+      {
+        "text": "fermati",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d05b844c-4b91-4545-bfd9-edd6db6f7495",
+    "data": [
+      {
+        "text": "elimina",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "58298f72-3e66-45a8-b560-975756010b0d",
+    "data": [
+      {
+        "text": "esci",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "99580b9c-a343-4b67-800b-e1da7da5d0fd",
+    "data": [
+      {
+        "text": "cancella",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

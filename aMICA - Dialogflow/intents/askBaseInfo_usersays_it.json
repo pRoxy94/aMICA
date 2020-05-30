@@ -1,0 +1,26 @@
+[
+  {
+    "id": "c79c8d98-a52e-4f3d-a6a7-493148a25190",
+    "data": [
+      {
+        "text": "Sì",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fde98873-9f48-4be2-9401-23c5af9c9905",
+    "data": [
+      {
+        "text": "Avanti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

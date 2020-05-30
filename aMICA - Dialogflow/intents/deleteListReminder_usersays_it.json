@@ -1,0 +1,20 @@
+[
+  {
+    "id": "78dd1e10-c27d-45bc-95c1-deb9ee0be939",
+    "data": [
+      {
+        "text": "Elimina lista ",
+        "userDefined": false
+      },
+      {
+        "text": "spesa",
+        "alias": "titolo",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

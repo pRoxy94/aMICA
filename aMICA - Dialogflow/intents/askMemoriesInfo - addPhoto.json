@@ -1,0 +1,92 @@
+{
+  "id": "83f55a32-f70c-4273-b962-d3218c70f338",
+  "parentId": "73a6e06a-d922-4b0c-9aa3-811b5ed68ada",
+  "rootParentId": "73a6e06a-d922-4b0c-9aa3-811b5ed68ada",
+  "name": "askMemoriesInfo - addPhoto",
+  "auto": true,
+  "contexts": [
+    "askMemoriesInfo-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "askMemoriesInfo.askMemoriesInfo-yes",
+      "affectedContexts": [
+        {
+          "name": "askMemoriesInfo-addPhoto-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "text": "Ottimo! Ho aggiunto le informazioni al tuo profilo. Vuoi aggiungere altri ricordi?",
+              "reply_markup": {
+                "resize_keyboard": true,
+                "one_time_keyboard": true,
+                "keyboard": [
+                  [
+                    {
+                      "text": "Ricordi",
+                      "callback_data": "ricordi"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Più tardi",
+                      "callback_data": "più tardi"
+                    },
+                    {
+                      "text": "No grazie",
+                      "callback_data": "no grazie"
+                    },
+                    {
+                      "text": "Cancella",
+                      "callback_data": "cancella"
+                    }
+                  ]
+                ]
+              }
+            }
+          }
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Ottimo! Ho aggiunto le informazioni al tuo profilo. Vuoi aggiungere altri ricordi?",
+          "replies": [
+            "Ricordi",
+            "Più tardi",
+            "No grazie",
+            "Cancella"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 750000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "FACEBOOK_MEDIA"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

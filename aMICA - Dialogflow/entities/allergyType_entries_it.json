@@ -1,0 +1,103 @@
+[
+  {
+    "value": "crostacei",
+    "synonyms": [
+      "gamberi",
+      "gambero",
+      "cozze",
+      "molluschi"
+    ]
+  },
+  {
+    "value": "frutta secca",
+    "synonyms": [
+      "noci",
+      "pinoli",
+      "mandorle",
+      "pistacchio",
+      "arachidi",
+      "anacardi"
+    ]
+  },
+  {
+    "value": "pesce",
+    "synonyms": [
+      "pesce"
+    ]
+  },
+  {
+    "value": "frumento",
+    "synonyms": [
+      "frumento",
+      "cereali"
+    ]
+  },
+  {
+    "value": "uova",
+    "synonyms": [
+      "uova"
+    ]
+  },
+  {
+    "value": "polline",
+    "synonyms": [
+      "polline"
+    ]
+  },
+  {
+    "value": "glutine",
+    "synonyms": [
+      "glutine"
+    ]
+  },
+  {
+    "value": "frutta",
+    "synonyms": [
+      "frutta",
+      "fragole",
+      "kiwi",
+      "mele",
+      "pere",
+      "banane",
+      "arancia",
+      "mandarino",
+      "melone",
+      "anguria",
+      "cocomero",
+      "pesca",
+      "albicocca"
+    ]
+  },
+  {
+    "value": "latte",
+    "synonyms": [
+      "latte",
+      "lattosio"
+    ]
+  },
+  {
+    "value": "soia",
+    "synonyms": [
+      "soia"
+    ]
+  },
+  {
+    "value": "verdura",
+    "synonyms": [
+      "verdura",
+      "sedano"
+    ]
+  },
+  {
+    "value": "sesamo",
+    "synonyms": [
+      "sesamo"
+    ]
+  },
+  {
+    "value": "senape",
+    "synonyms": [
+      "senape"
+    ]
+  }
+]

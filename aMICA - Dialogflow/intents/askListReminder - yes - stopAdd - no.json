@@ -1,0 +1,36 @@
+{
+  "id": "15888cae-b223-4dc5-8ac0-5f8b968d9bbf",
+  "parentId": "36b94048-35f3-4a55-8dc4-707eaa26c681",
+  "rootParentId": "b1ca4902-0417-4f67-a1b9-9c9277d36502",
+  "name": "askListReminder - yes - stopAdd - no",
+  "auto": true,
+  "contexts": [
+    "askListReminder-yes-stopAdd-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "askListReminder.askListReminder-yes.askListReminder-yes-stopAdd-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": "D\u0027accordo. Contattami quando vuoi! ☺️"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

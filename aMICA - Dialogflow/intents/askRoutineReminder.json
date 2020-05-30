@@ -1,0 +1,190 @@
+{
+  "id": "02dc4b43-783e-4768-8879-f27de4a34f8b",
+  "name": "askRoutineReminder",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "askRoutineReminder-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8ee28930-79f8-474a-bcd7-eba31dd5f1d7",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "descrizione",
+          "value": "$descrizione",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "Di cosa si tratta?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "5840652f-db10-420b-a5c5-92d1363766d7",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "ripetizione",
+          "value": "$ripetizione",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "Quante volte a settimana?"
+            },
+            {
+              "lang": "it",
+              "value": "Quanti giorni a settimana?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "af9560bd-c049-4c69-a219-06aba8366a0e",
+          "required": true,
+          "dataType": "@daysOfWeek",
+          "name": "giorni",
+          "value": "$giorni",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "In quali giorni?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "df4fe03b-7d00-4279-8d37-38a0a4f252ab",
+          "required": true,
+          "dataType": "@sys.time",
+          "name": "orario",
+          "value": "$orario",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "a che ora? (specifica am/pm)"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "it",
+          "condition": "",
+          "textToSpeech": "Ho registrato il tuo promemoria! Ne vuoi registrare un altro?",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "it",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Promemoria"
+            },
+            {
+              "title": "No grazie"
+            },
+            {
+              "title": "Cancella"
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "text": "Ho registrato il tuo promemoria! Ne vuoi registrare un altro?",
+              "reply_markup": {
+                "one_time_keyboard": true,
+                "keyboard": [
+                  [
+                    {
+                      "text": "Promemoria",
+                      "callback_data": "promemoria"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Più tardi",
+                      "callback_data": "più tardi"
+                    }
+                  ],
+                  [
+                    {
+                      "callback_data": "no grazie",
+                      "text": "No grazie"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Cancella",
+                      "callback_data": "cancella"
+                    }
+                  ]
+                ],
+                "resize_keyboard": true
+              }
+            }
+          }
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Ho registrato il tuo promemoria! Ne vuoi registrare un altro?",
+          "replies": [
+            "Promemoria",
+            "Più tardi",
+            "No grazie",
+            "Cancella"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

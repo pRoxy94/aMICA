@@ -1,0 +1,86 @@
+[
+  {
+    "id": "394b399e-193a-48a6-8fd3-b98062f31a51",
+    "data": [
+      {
+        "text": "opera lirica",
+        "alias": "genere",
+        "meta": "@theatreGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0506699-3da7-46eb-abe1-e8d27282e314",
+    "data": [
+      {
+        "text": "teatro dell\u0027assurdo",
+        "alias": "genere",
+        "meta": "@theatreGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88e12929-ad74-4206-bf5c-19a1bb506cb2",
+    "data": [
+      {
+        "text": "musical",
+        "alias": "genere",
+        "meta": "@theatreGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ea434ca-ac45-46b5-908d-28b38a117117",
+    "data": [
+      {
+        "text": "tragedia",
+        "alias": "genere",
+        "meta": "@theatreGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f01cb398-b98a-4c8d-a5ff-030e469b0605",
+    "data": [
+      {
+        "text": "commedia dell\u0027arte",
+        "alias": "genere",
+        "meta": "@theatreGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "73ed1f8d-190b-4987-8f76-731b9ce92222",
+    "data": [
+      {
+        "text": "commedia teatrale",
+        "alias": "genere",
+        "meta": "@theatreGenre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

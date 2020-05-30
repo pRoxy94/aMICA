@@ -1,0 +1,43 @@
+{
+  "id": "f8c6dd8e-f9ac-4746-bc66-16540da1e486",
+  "name": "askNumberFaceQuiz",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Che bello allenarsi insieme! Scegli uno tra i seguenti quiz sui volti ☺️",
+          "replies": [
+            "🌟quiz volto 1",
+            "⭐quiz volto 2",
+            "💫quiz volto 3"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

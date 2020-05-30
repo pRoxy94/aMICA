@@ -1,0 +1,142 @@
+[
+  {
+    "id": "ce89220f-4bdf-4340-aeb5-c0e5a474e161",
+    "data": [
+      {
+        "text": "basket",
+        "alias": "genere",
+        "meta": "@sportGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5459c3a3-5e4a-4957-9df0-c0079ced5883",
+    "data": [
+      {
+        "text": "equitazione",
+        "alias": "genere",
+        "meta": "@sportGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29b0ed66-929c-4077-9ce0-2d8cb496b187",
+    "data": [
+      {
+        "text": "tennis",
+        "alias": "genere",
+        "meta": "@sportGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3bb08a0f-65a6-4a71-be3a-f24d65980fc7",
+    "data": [
+      {
+        "text": "carte",
+        "alias": "genere",
+        "meta": "@sportGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e132fa3f-f146-4581-8b67-223a1818cd6c",
+    "data": [
+      {
+        "text": "nuoto",
+        "alias": "genere",
+        "meta": "@sportGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bce7dc72-267c-4803-9c58-8008171c6c3e",
+    "data": [
+      {
+        "text": "atletica",
+        "alias": "genere",
+        "meta": "@sportGenre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f5b1144-8ab2-43dc-a0ad-ed3d117b2b8f",
+    "data": [
+      {
+        "text": "ballo",
+        "alias": "genere",
+        "meta": "@sportGenre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a3dab9db-5b2f-420c-b5a2-c19178c60151",
+    "data": [
+      {
+        "text": "ciclismo",
+        "alias": "genere",
+        "meta": "@sportGenre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b45bde9-27f2-4e21-80a2-472f9726931e",
+    "data": [
+      {
+        "text": "pallavolo",
+        "alias": "genere",
+        "meta": "@sportGenre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a6eab0e-b32d-4e1a-8438-47eb1ea28b59",
+    "data": [
+      {
+        "text": "calcio",
+        "alias": "genere",
+        "meta": "@sportGenre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

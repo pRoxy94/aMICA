@@ -1,0 +1,462 @@
+[
+  {
+    "id": "4030329d-746e-4ca7-9a9d-8d12c5779c02",
+    "data": [
+      {
+        "text": "ascolto ",
+        "userDefined": false
+      },
+      {
+        "text": "britney spears",
+        "alias": "artista",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee2cc19f-25e7-4df4-8768-6f8435906e67",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piacciono i ",
+        "userDefined": false
+      },
+      {
+        "text": "queen",
+        "alias": "artista",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f556532c-585b-4193-b6fe-5950e3a35eb3",
+    "data": [
+      {
+        "text": "mi piace tanto la ",
+        "userDefined": false
+      },
+      {
+        "text": "musica classica",
+        "alias": "genere",
+        "meta": "@musicGenre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69be5f70-93a9-416c-a047-e403a52474cc",
+    "data": [
+      {
+        "text": "adoro ",
+        "userDefined": false
+      },
+      {
+        "text": "jovanotti",
+        "alias": "artista",
+        "meta": "@sys.music-artist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54105b9d-6e7c-4a0c-b967-e98fbd504674",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace ",
+        "userDefined": false
+      },
+      {
+        "text": "vasco",
+        "alias": "artista",
+        "meta": "@sys.music-artist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b499438a-8b40-4877-bdcc-82210fd5fbc2",
+    "data": [
+      {
+        "text": "se ti dico le mie canzoni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8372b732-7812-4a48-9ae8-e295e281a656",
+    "data": [
+      {
+        "text": "ti dico che ",
+        "userDefined": false
+      },
+      {
+        "text": "musica",
+        "alias": "tipologia",
+        "meta": "@personalTastesType",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e37ceede-ca51-4da5-b02b-07e51c952d85",
+    "data": [
+      {
+        "text": "ti parlo dei brani che ascolto più spesso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97af7bce-c94a-4412-becb-48953ab27f8f",
+    "data": [
+      {
+        "text": "bella la ",
+        "userDefined": false
+      },
+      {
+        "text": "musica",
+        "alias": "tipologia",
+        "meta": "@personalTastesType",
+        "userDefined": false
+      },
+      {
+        "text": " vero?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "108262b0-3a3f-413e-bd92-4c4e0d0ada0e",
+    "data": [
+      {
+        "text": "parliamo di ",
+        "userDefined": false
+      },
+      {
+        "text": "musica",
+        "alias": "tipologia",
+        "meta": "@personalTastesType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6f1e45a-0f77-4927-9812-e79dbf1578c2",
+    "data": [
+      {
+        "text": "blues",
+        "alias": "genere",
+        "meta": "@musicGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1719f71d-74fa-4497-b328-f5bec0eb28fa",
+    "data": [
+      {
+        "text": "pop",
+        "alias": "genere",
+        "meta": "@musicGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4c1b4a0-1bcf-4d09-9f0e-c10e9a7dd454",
+    "data": [
+      {
+        "text": "funk",
+        "alias": "genere",
+        "meta": "@musicGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b23e8916-17c2-49c0-810e-2d9a8d8e70a4",
+    "data": [
+      {
+        "text": "classica",
+        "alias": "genere",
+        "meta": "@musicGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "715390f8-9d81-420e-a909-6d106ee9d881",
+    "data": [
+      {
+        "text": "reggae",
+        "alias": "genere",
+        "meta": "@musicGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae9a2bdc-7cdb-450e-b2d6-ba3b58a87be5",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace la ",
+        "userDefined": false
+      },
+      {
+        "text": "musica",
+        "alias": "tipologia",
+        "meta": "@personalTastesType",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "funk",
+        "alias": "genere",
+        "meta": "@musicGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36050174-18d9-4db6-8dbc-f4ba761032d0",
+    "data": [
+      {
+        "text": "elettronica",
+        "alias": "genere",
+        "meta": "@musicGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6241aa2-406d-4805-84be-a0e119983f5f",
+    "data": [
+      {
+        "text": "jazz",
+        "alias": "genere",
+        "meta": "@musicGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "99824e47-dd16-4c0d-9e3a-a30e3ceac64e",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace la musica ",
+        "userDefined": false
+      },
+      {
+        "text": "pop",
+        "alias": "genere",
+        "meta": "@musicGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf203466-626c-4f25-bd28-cb247a99e286",
+    "data": [
+      {
+        "text": "ascolto ",
+        "userDefined": false
+      },
+      {
+        "text": "musica",
+        "alias": "tipologia",
+        "meta": "@personalTastesType",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "blues",
+        "alias": "genere",
+        "meta": "@musicGenre",
+        "userDefined": false
+      },
+      {
+        "text": " e il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "cantante",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " preferito è ",
+        "userDefined": false
+      },
+      {
+        "text": "Eric Clapton",
+        "alias": "artista",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " con la ",
+        "userDefined": false
+      },
+      {
+        "text": "canzone",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Layla",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "755c73a8-04ee-4fb3-9f94-46c7a7a4ad40",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace il ",
+        "userDefined": false
+      },
+      {
+        "text": "rock",
+        "alias": "genere",
+        "meta": "@musicGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "665d0161-3efe-4d5d-aeba-2b23b3d2be0d",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace il cantante ",
+        "userDefined": false
+      },
+      {
+        "text": "Biagio Antonacci",
+        "alias": "artista",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

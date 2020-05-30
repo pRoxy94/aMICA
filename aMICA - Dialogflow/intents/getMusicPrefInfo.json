@@ -1,0 +1,68 @@
+{
+  "id": "81e2bc40-3cda-4bfd-b433-b19a8196f5e5",
+  "name": "getMusicPrefInfo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "05f194d9-40f3-4b3a-80ca-8627eeefc250",
+          "required": false,
+          "dataType": "@typeOfMusicPref",
+          "name": "canzone",
+          "value": "$canzone",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "5c087ea8-b87e-4f59-b741-0c476b0ebda4",
+          "required": false,
+          "dataType": "@typeOfMusicPref",
+          "name": "genere",
+          "value": "$genere",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "feb45d54-f857-47c6-8c43-963e0684cf82",
+          "required": false,
+          "dataType": "@typeOfMusicPref",
+          "name": "artista",
+          "value": "$artista",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

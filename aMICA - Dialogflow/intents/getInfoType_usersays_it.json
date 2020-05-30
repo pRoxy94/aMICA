@@ -1,0 +1,226 @@
+[
+  {
+    "id": "adab3c90-27ed-4ed7-bd02-f8d749711cf7",
+    "data": [
+      {
+        "text": "Fammi vedere",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b98c61cf-af89-4f76-bc4d-687aa688afa1",
+    "data": [
+      {
+        "text": "mostra",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a7ec70b-41ba-45a1-9cce-852b3c665965",
+    "data": [
+      {
+        "text": "mostra",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " informazioni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "96bfa35b-291d-488d-ac3d-7992bcf1eeb3",
+    "data": [
+      {
+        "text": "ricevi informazioni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d1cf62e1-1697-49d2-9605-b048e8a42948",
+    "data": [
+      {
+        "text": "chiedi info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f4c829d-fad0-4f41-88a8-e5e622bc172c",
+    "data": [
+      {
+        "text": "chiedi informazioni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0d8bdc9-7fca-4b49-8bdf-6f892fb484fc",
+    "data": [
+      {
+        "text": "ricevi info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57c0fc84-0461-4b42-8952-d92202704038",
+    "data": [
+      {
+        "text": "voglio informazioni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1397ff05-d7d9-4038-a114-29976bf776ff",
+    "data": [
+      {
+        "text": "ricevere informazioni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27799e69-66fa-4ea6-96e2-eb2e8f47b7fd",
+    "data": [
+      {
+        "text": "dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pò",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74170d0a-37a5-46fa-bf79-ee36aec0dd31",
+    "data": [
+      {
+        "text": "dimmi qualcosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3e9097a-0d83-418f-ae8d-dcc91dabf74f",
+    "data": [
+      {
+        "text": "dammi informazioni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f58e842-43dd-44a7-ae38-543e897ac20a",
+    "data": [
+      {
+        "text": "cosa sai di me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "115433ec-4137-44fd-bc53-64cc43f9af54",
+    "data": [
+      {
+        "text": "dimmi qualcosa su di me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c6bf996-7c5e-4d55-a806-44a2b3226952",
+    "data": [
+      {
+        "text": "parlami di me",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5266c8bf-749f-46db-9c9f-291f1222be7d",
+    "data": [
+      {
+        "text": "voglio ricevere informazioni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "862c6d73-8533-4350-b0a8-4e42bc8f9133",
+    "data": [
+      {
+        "text": "il mio profilo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

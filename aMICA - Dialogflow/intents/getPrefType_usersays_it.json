@@ -1,0 +1,347 @@
+[
+  {
+    "id": "7d5e4ead-bae6-4cd4-8393-74ef243b4a93",
+    "data": [
+      {
+        "text": "i miei passatempi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e60f1d5b-714a-414e-ac42-b477f4955fee",
+    "data": [
+      {
+        "text": "passatempo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4211b1ab-0263-4dee-a926-68cac8fec354",
+    "data": [
+      {
+        "text": "hobbies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f9fa427-0c9a-4a6f-aa71-c32640bfb86b",
+    "data": [
+      {
+        "text": "hobby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "928f19eb-1f93-4f31-a4b6-a6e8a6460f95",
+    "data": [
+      {
+        "text": "i miei hobby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89f0dd73-66b3-4aba-bf0e-fa39e75642ac",
+    "data": [
+      {
+        "text": "cosa ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "529d6c51-9486-4429-8907-c754d9caa078",
+    "data": [
+      {
+        "text": "cosa ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " crea soddisfazione?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74d04f50-f7f1-4028-9e26-c43c493246df",
+    "data": [
+      {
+        "text": "cosa ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " appaga?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5eb696b1-cd63-428b-a6ed-98bd1a86a791",
+    "data": [
+      {
+        "text": "cosa ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " arreca compiacimento?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0b3837c-44d9-498a-9613-797b9cbe90e8",
+    "data": [
+      {
+        "text": "gradimento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c73ea182-7347-40d8-888b-3249371f3961",
+    "data": [
+      {
+        "text": "cosa è di mio gradimento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8568bba-c7e0-4084-ab99-de778c88f74a",
+    "data": [
+      {
+        "text": "raffinatezze",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f236e48-7816-462f-a200-932c3277ddbe",
+    "data": [
+      {
+        "text": "quali sono i miei piaceri?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "208b3247-2bf0-4bb3-bf0e-70576ee98d07",
+    "data": [
+      {
+        "text": "i miei piaceri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "143d728a-1841-46e1-a278-2d29569bb2f7",
+    "data": [
+      {
+        "text": "cosa stimo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cffbadfb-8b9f-4723-b101-89c158bd9f56",
+    "data": [
+      {
+        "text": "a cosa sono propenso?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8416417c-d4c1-49aa-95c0-de0b94e3abb6",
+    "data": [
+      {
+        "text": "i miei affetti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c4ee2c7-deeb-4342-a3ca-f7a78425be34",
+    "data": [
+      {
+        "text": "cosa simpatizzo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "82b80c17-8784-4d80-a01f-6c203b4e5335",
+    "data": [
+      {
+        "text": "cos\u0027è che ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9d7cfb40-4615-4ebc-a601-abda4ee5b89c",
+    "data": [
+      {
+        "text": "cosa prediligo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7616f708-1b7d-4c31-9fe5-caf4afbd4157",
+    "data": [
+      {
+        "text": "dimmi i miei ",
+        "userDefined": false
+      },
+      {
+        "text": "gusti",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "3ba52ccd-3353-4119-99fe-e4ff8e069410",
+    "data": [
+      {
+        "text": "dimmi le mie preferenze",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2212051-5626-43e0-a450-f148af90b929",
+    "data": [
+      {
+        "text": "i miei ",
+        "userDefined": false
+      },
+      {
+        "text": "gusti",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2711468a-20bc-4062-98fa-5c7b0d9ef687",
+    "data": [
+      {
+        "text": "le mie preferenze",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

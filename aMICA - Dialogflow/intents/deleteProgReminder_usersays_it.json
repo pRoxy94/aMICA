@@ -1,0 +1,20 @@
+[
+  {
+    "id": "b1fd5e82-e759-4105-8604-ff57f9ede83f",
+    "data": [
+      {
+        "text": "Elimina promemoria ",
+        "userDefined": false
+      },
+      {
+        "text": "dottore",
+        "alias": "descrizione",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

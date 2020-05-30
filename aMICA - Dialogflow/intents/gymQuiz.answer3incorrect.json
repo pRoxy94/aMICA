@@ -1,0 +1,100 @@
+{
+  "id": "46162351-9f5a-4f91-966a-d84ca2c780eb",
+  "name": "gymQuiz.answer3incorrect",
+  "auto": true,
+  "contexts": [
+    "gymQuiz_await_answer3"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "gymQuiz_await_answer4",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "speech": "Non importa, prossimo esercizio!"
+        },
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "parse_mode": "Markdown",
+              "text": "[Clicca per ingrandire](https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/esercizi%2Fexercise4.gif?alt\u003dmedia\u0026token\u003d9dc3d763-4946-4c1f-afeb-b7d9675ae35b)"
+            }
+          }
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "title": "Ce l\u0027hai fatta?",
+          "replies": [
+            "Ce l\u0027ho fatta",
+            "Non ce l\u0027ho fatta"
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Non importa, prossimo esercizio!"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/esercizi%2Flivello%201%2Fgym7.gif?alt\u003dmedia\u0026token\u003da7b0c5ce-6bb6-498e-be53-ae364a0c65ae"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Esercizio 4",
+          "buttons": [
+            {
+              "text": "Ce l\u0027ho fatta",
+              "postback": "Ce l\u0027ho fatta"
+            },
+            {
+              "text": "Non ce l\u0027ho fatta",
+              "postback": "Non ce l\u0027ho fatta"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

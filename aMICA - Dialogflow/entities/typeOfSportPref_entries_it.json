@@ -1,0 +1,42 @@
+[
+  {
+    "value": "genere",
+    "synonyms": [
+      "genere",
+      "generi",
+      "genere sportivo",
+      "genere di sport",
+      "genere sport",
+      "sport preferito",
+      "sport che mi piace",
+      "sport mi piace",
+      "generi di sport"
+    ]
+  },
+  {
+    "value": "personaggio",
+    "synonyms": [
+      "personaggio",
+      "personaggi",
+      "calciatore",
+      "calciatori",
+      "nuotatore",
+      "nuotatrice",
+      "ciclista",
+      "ciclisti",
+      "pallavolista",
+      "pallavolisti",
+      "ballerino",
+      "ballerina",
+      "ballerini",
+      "atleti",
+      "atleta",
+      "atlete",
+      "tennista",
+      "tennisti",
+      "tenniste",
+      "personaggio sportivo",
+      "personaggi sportivi"
+    ]
+  }
+]

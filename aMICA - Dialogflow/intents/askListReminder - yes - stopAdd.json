@@ -1,0 +1,109 @@
+{
+  "id": "36b94048-35f3-4a55-8dc4-707eaa26c681",
+  "parentId": "b1ca4902-0417-4f67-a1b9-9c9277d36502",
+  "rootParentId": "b1ca4902-0417-4f67-a1b9-9c9277d36502",
+  "name": "askListReminder - yes - stopAdd",
+  "auto": true,
+  "contexts": [
+    "askListReminder-followup",
+    "askListReminder-followup-2",
+    "askListReminder-followup-3"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "askListReminder.askListReminder-yes",
+      "affectedContexts": [
+        {
+          "name": "askListReminder-yes-stopAdd-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "text": "Ottimo! C\u0027è qualcos\u0027altro che posso fare per te?",
+              "reply_markup": {
+                "resize_keyboard": true,
+                "one_time_keyboard": true,
+                "keyboard": [
+                  [
+                    {
+                      "text": "Aggiungi Informazioni",
+                      "callback_data": "aggiungi informazioni"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Modifica Informazioni",
+                      "callback_data": "modifica informazioni"
+                    }
+                  ],
+                  [
+                    {
+                      "callback_data": "elimina informazioni",
+                      "text": "Elimina Informazioni"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Mostra Informazioni",
+                      "callback_data": "mostra informazioni"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Allenamento",
+                      "callback_data": "allenamento"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "No grazie",
+                      "callback_data": "no grazie"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Cancella",
+                      "callback_data": "cancella"
+                    }
+                  ]
+                ]
+              }
+            }
+          }
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Ottimo! C\u0027è qualcos\u0027altro che posso fare per te?",
+          "replies": [
+            "Mostra funzionalità",
+            "No grazie",
+            "Cancella"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

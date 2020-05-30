@@ -1,0 +1,79 @@
+{
+  "id": "7b7eed27-b76d-4e1b-91ec-b566902e3ea7",
+  "name": "musicQuiz2.answer2incorrect",
+  "auto": true,
+  "contexts": [
+    "musicQuiz2_await_answer2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "musicQuiz2_await_answer3",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Mi dispiace, la risposta corretta era Johnny Dorelli! Prossima domanda!"
+        },
+        {
+          "type": 4,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "payload": {
+                  "url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/musica%2FmusicQuiz2%2F2%20-%203%20-%20Mina%20-%20Una%20zebra%20a%20pois.mp3?alt\u003dmedia\u0026token\u003d9814b2b3-cc10-4678-8f92-a3444f9ba2f5"
+                },
+                "type": "audio"
+              }
+            }
+          }
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Chi canta questa canzone?",
+          "buttons": [
+            {
+              "text": "Mina",
+              "postback": "Mina"
+            },
+            {
+              "text": "Louiselle",
+              "postback": "Louiselle"
+            },
+            {
+              "text": "Maria Monti",
+              "postback": "Maria Monti"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

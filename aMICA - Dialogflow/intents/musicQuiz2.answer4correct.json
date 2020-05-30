@@ -1,0 +1,79 @@
+{
+  "id": "afe28dec-d763-458a-abf4-140fc86057b8",
+  "name": "musicQuiz2.answer4correct",
+  "auto": true,
+  "contexts": [
+    "musicQuiz2_await_answer4"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "musicQuiz2_await_answer5",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Risposta corretta, passiamo all\u0027ultima domanda!"
+        },
+        {
+          "type": 4,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "audio",
+                "payload": {
+                  "url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/musica%2FmusicQuiz2%2F2%20-%205%20-%20Rosanna%20Fratello%20-%20Sono%20Una%20Donna%20Non%20Sono%20Una%20Santa%20(1971).mp3?alt\u003dmedia\u0026token\u003d8359bc9e-68e2-4d26-bcb2-188fa0458f60"
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Chi canta questa canzone?",
+          "buttons": [
+            {
+              "text": "Ombretta Colli",
+              "postback": "Ombretta Colli"
+            },
+            {
+              "text": "Orietta Berti",
+              "postback": "Orietta Berti"
+            },
+            {
+              "text": "Rosanna Fratello",
+              "postback": "Rosanna Fratello"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

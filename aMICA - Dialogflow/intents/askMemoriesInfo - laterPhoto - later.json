@@ -1,0 +1,36 @@
+{
+  "id": "f2b12e1a-41da-44d2-be74-b9ea46ee0351",
+  "parentId": "3c42b1ed-da3a-401c-8d3f-9aabc1a9dc42",
+  "rootParentId": "73a6e06a-d922-4b0c-9aa3-811b5ed68ada",
+  "name": "askMemoriesInfo - laterPhoto - later",
+  "auto": true,
+  "contexts": [
+    "askMemoriesInfo-laterPhoto-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "askMemoriesInfo.askMemoriesInfo-later.askMemoriesInfo-laterPhoto-later",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": "Certo. Sono sempre a tua disposizione!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

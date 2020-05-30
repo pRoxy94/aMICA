@@ -1,0 +1,451 @@
+[
+  {
+    "id": "de2fec5a-0337-42ad-a15f-c400862b54f7",
+    "data": [
+      {
+        "text": "facciamo qualcosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d201fae-d9b7-4c1b-ad61-acf0a485e5ef",
+    "data": [
+      {
+        "text": "e che facciamo ",
+        "userDefined": false
+      },
+      {
+        "text": "mo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b8b7cd2a-10ef-4e0a-9765-7637a51561ee",
+    "data": [
+      {
+        "text": "Che altro facciamo ",
+        "userDefined": false
+      },
+      {
+        "text": "oggi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9108a569-1bdd-4fd4-84aa-3b1e2fbb834a",
+    "data": [
+      {
+        "text": "come posso usarti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e33e8c3a-04c5-4b01-adf6-abd618f46b1c",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dici come si ",
+        "userDefined": false
+      },
+      {
+        "text": "usa",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb2ef83c-0f46-4d4f-b883-a764fb9bb3e0",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dici come usarti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d460cf11-d78e-49f5-8b38-6e23f310f8ce",
+    "data": [
+      {
+        "text": "cosa ",
+        "userDefined": false
+      },
+      {
+        "text": "sei in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "grado",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di fare?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d87ca0c6-c382-479f-afe4-6ddd65dd01c6",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dici come posso usarti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5fa7444a-2992-4abf-8faa-5bd92d73281d",
+    "data": [
+      {
+        "text": "come funzioni?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b30dc33-979f-4b50-8797-0a80a73dda89",
+    "data": [
+      {
+        "text": "non riesco a fare niente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5eaf1f3-acf1-4c41-bd96-89539db6b662",
+    "data": [
+      {
+        "text": "non so come usarti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89d3a71e-4b82-498d-ba73-b6bc40e60141",
+    "data": [
+      {
+        "text": "non capisco come funzioni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e5db7fd-49a7-4e87-9dbf-5d0a9096ab9e",
+    "data": [
+      {
+        "text": "che si fa ",
+        "userDefined": false
+      },
+      {
+        "text": "ora",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3937ab7a-aad7-4f63-936b-de6b969e1989",
+    "data": [
+      {
+        "text": "che facciamo ",
+        "userDefined": false
+      },
+      {
+        "text": "mo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "12018e9d-529c-48cc-907c-be8a8306f5d3",
+    "data": [
+      {
+        "text": "e mo che faccio?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59b2895f-89c7-4af1-ae62-78fc5cc30449",
+    "data": [
+      {
+        "text": "aiuto!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a607335a-c7b1-4afb-be30-9ad4033b71ec",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " puoi aiutare?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64f61ed0-6517-490b-9dff-7dacc8bf3307",
+    "data": [
+      {
+        "text": "aiutami",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec0071ca-4a33-4ed8-9eb0-8cf5e85f7f58",
+    "data": [
+      {
+        "text": "cosa posso chiederti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dff097d2-d19f-4d75-a61f-1e8a726f6c7f",
+    "data": [
+      {
+        "text": "cosa posso fare?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b8ed2ef-5f66-4e6d-ad40-d8c87558a670",
+    "data": [
+      {
+        "text": "presentati",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8aa0c851-369b-4bac-9c4d-340584009b89",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " spieghi cosa posso fare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bdbd4516-3e1b-4118-a78e-a4ad19debb40",
+    "data": [
+      {
+        "text": "non so usarti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22895c7d-beb6-4a32-a6b9-a45311670662",
+    "data": [
+      {
+        "text": "come funzioni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29c049f9-91b0-4fb5-931f-fba3905bd261",
+    "data": [
+      {
+        "text": "come si ",
+        "userDefined": false
+      },
+      {
+        "text": "usa",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60fb213a-7b92-48b3-8369-7e891b2cbcb2",
+    "data": [
+      {
+        "text": "non riesco a capire come funziona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba81eb40-80a1-4418-8eba-c7b5e3d53975",
+    "data": [
+      {
+        "text": "come puoi aiutarmi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "81e53812-d7a4-425b-8744-552196b36c6d",
+    "data": [
+      {
+        "text": "cosa sai fare?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80e253cc-e753-4577-8e2a-5cc43957c624",
+    "data": [
+      {
+        "text": "ho bisogno di aiuto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d567622-e564-4bfc-95fe-43294250db61",
+    "data": [
+      {
+        "text": "aiuto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

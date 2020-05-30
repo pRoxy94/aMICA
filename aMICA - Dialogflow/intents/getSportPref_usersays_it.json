@@ -1,0 +1,193 @@
+[
+  {
+    "id": "1b3a3733-afc2-4057-ae21-01fde7f03012",
+    "data": [
+      {
+        "text": "e i ",
+        "userDefined": false
+      },
+      {
+        "text": "generi di sport",
+        "alias": "genere",
+        "meta": "@typeOfSportPref",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69ca1fd0-69a0-4eaa-8896-17707f343118",
+    "data": [
+      {
+        "text": "e il ",
+        "userDefined": false
+      },
+      {
+        "text": "genere di sport",
+        "alias": "genere",
+        "meta": "@typeOfSportPref",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5aba126b-d174-4022-9383-ac15217a7216",
+    "data": [
+      {
+        "text": "genere di sport",
+        "alias": "genere",
+        "meta": "@typeOfSportPref",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "che preferisco",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c445974-5433-4db8-a75a-175726d938bf",
+    "data": [
+      {
+        "text": "e i ",
+        "userDefined": false
+      },
+      {
+        "text": "personaggi",
+        "alias": "personaggio",
+        "meta": "@typeOfSportPref",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59ac4251-828d-47d7-8226-eeedceef8b06",
+    "data": [
+      {
+        "text": "e i ",
+        "userDefined": false
+      },
+      {
+        "text": "personaggi sportivi",
+        "alias": "personaggio",
+        "meta": "@typeOfSportPref",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "68eee637-af2f-4026-bf59-83c075ff1932",
+    "data": [
+      {
+        "text": "e il ",
+        "userDefined": false
+      },
+      {
+        "text": "personaggio",
+        "alias": "personaggio",
+        "meta": "@typeOfSportPref",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eae9d3e0-5e87-4078-8ceb-9faf105b9951",
+    "data": [
+      {
+        "text": "sport che mi piace",
+        "alias": "genere",
+        "meta": "@typeOfSportPref",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d3f3de9-0f94-4b90-b875-ac70aeb2071f",
+    "data": [
+      {
+        "text": "qual è il mio ",
+        "userDefined": false
+      },
+      {
+        "text": "sport preferito",
+        "alias": "genere",
+        "meta": "@typeOfSportPref",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b496c7bd-68d6-458f-a47c-09851f1356df",
+    "data": [
+      {
+        "text": "che ",
+        "userDefined": false
+      },
+      {
+        "text": "sport mi piace",
+        "alias": "genere",
+        "meta": "@typeOfSportPref",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

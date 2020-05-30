@@ -1,0 +1,79 @@
+[
+  {
+    "value": "commedia",
+    "synonyms": [
+      "commedia",
+      "da ridere"
+    ]
+  },
+  {
+    "value": "serie tv",
+    "synonyms": [
+      "serie tv",
+      "serie"
+    ]
+  },
+  {
+    "value": "documentario",
+    "synonyms": [
+      "documentario"
+    ]
+  },
+  {
+    "value": "fantascienza",
+    "synonyms": [
+      "fantascienza"
+    ]
+  },
+  {
+    "value": "horror",
+    "synonyms": [
+      "horror",
+      "paura"
+    ]
+  },
+  {
+    "value": "thriller",
+    "synonyms": [
+      "thriller"
+    ]
+  },
+  {
+    "value": "azione",
+    "synonyms": [
+      "azione"
+    ]
+  },
+  {
+    "value": "fantasy",
+    "synonyms": [
+      "fantasy"
+    ]
+  },
+  {
+    "value": "storico",
+    "synonyms": [
+      "storico",
+      "guerra"
+    ]
+  },
+  {
+    "value": "western",
+    "synonyms": [
+      "western"
+    ]
+  },
+  {
+    "value": "biografico",
+    "synonyms": [
+      "biografico",
+      "biografia"
+    ]
+  },
+  {
+    "value": "animazione",
+    "synonyms": [
+      "animazione"
+    ]
+  }
+]

@@ -1,0 +1,151 @@
+[
+  {
+    "id": "11450605-6da4-4d5a-9cab-c404f01b08a9",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " aiuti ad aggiungere le mie preferenze",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "af753e3f-abe6-4dab-9b41-8510a7c95500",
+    "data": [
+      {
+        "text": "scrivi le cose che ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piacciono",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c053d50a-e02d-4b5d-9ef2-0495773ef240",
+    "data": [
+      {
+        "text": "scrivi le preferenze",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "059c68ca-d91b-4a6b-90c1-c8cb8cca30d6",
+    "data": [
+      {
+        "text": "aggiungi preferenze",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e8e84dc9-f0b3-487a-9413-1c0051346712",
+    "data": [
+      {
+        "text": "aggiungi gusti personali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7c21299b-f3f0-4ca3-8089-e1c80e729b02",
+    "data": [
+      {
+        "text": "aggiungi gusti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "155c488a-10d7-4916-bbcd-ef72117d3b5e",
+    "data": [
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "gusto personale",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "def8256a-c01f-4859-aab7-e3a31109227a",
+    "data": [
+      {
+        "text": "voglio aggiungere ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " preferenza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "82705967-a325-4aa2-843f-da096dbb14f1",
+    "data": [
+      {
+        "text": "preferenze",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2d035937-2cb0-4ef1-8114-b5498b811aa6",
+    "data": [
+      {
+        "text": "gusti personali",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

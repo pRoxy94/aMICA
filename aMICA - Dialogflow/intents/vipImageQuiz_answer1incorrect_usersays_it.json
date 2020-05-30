@@ -1,0 +1,58 @@
+[
+  {
+    "id": "9b872782-e1d0-4090-a1dc-8eaf3000eec9",
+    "data": [
+      {
+        "text": "Massimo Girotti",
+        "alias": "quiz_vip",
+        "meta": "@typeOfVips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "147699e1-0859-4b32-80a1-8c036988d325",
+    "data": [
+      {
+        "text": "Amadeus",
+        "alias": "quiz_vip",
+        "meta": "@typeOfVips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37921fe9-a36d-4fba-917f-0231a1d27612",
+    "data": [
+      {
+        "text": "Eduardo De Filippo",
+        "alias": "quiz_vip",
+        "meta": "@typeOfVips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63f35fd6-7fcc-4054-9dda-91427aba243c",
+    "data": [
+      {
+        "text": "Pippo Baudo",
+        "alias": "quiz_vip",
+        "meta": "@typeOfVips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "id": "3361a85d-5391-470a-88c4-2679b01b26f0",
+  "name": "musicQuiz.answer5incorrect",
+  "auto": true,
+  "contexts": [
+    "await_answer5"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "end_quiz",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0619a0cf-99f1-44bc-9798-4c356a9f0244",
+          "required": false,
+          "dataType": "@musicArtists",
+          "name": "quiz_cantante",
+          "value": "$quiz_cantante",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": "Mi dispiace, la risposta corretta era \"Adriano Celentano\". Ci sentiamo al prossimo quiz!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

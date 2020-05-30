@@ -1,0 +1,110 @@
+{
+  "id": "935e59a8-9852-4d30-a5c4-9c98dbde3819",
+  "name": "vipImageQuiz3_answer1correct",
+  "auto": true,
+  "contexts": [
+    "vipImageQuiz3_await_answer1"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "vipImageQuiz3_await_answer2",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a8f2f9e4-1403-4c0b-a7fe-8a9cd2afc82e",
+          "required": false,
+          "dataType": "@typeOfVips",
+          "name": "quiz_vip",
+          "value": "$quiz_vip",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "speech": "Risposta corretta! Passiamo al prossimo volto!"
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "title": "Di chi si tratta?",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/facce%2FvipImageQuiz2%2F2%20-%202%20-%20Adriano%20Celentano.jpg?alt\u003dmedia\u0026token\u003d3d25e344-9848-40f1-b979-1e16ca5449ab",
+          "buttons": [
+            {
+              "text": "Bud Spencer",
+              "postback": "Bud Spencer"
+            },
+            {
+              "text": "Adriano Celentano",
+              "postback": "Adriano Celentano"
+            },
+            {
+              "text": "Renato Pozzetto",
+              "postback": "Renato Pozzetto"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Risposta corretta! Passiamo al prossimo volto."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Di chi si tratta?",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/facce%2FvipImageQuiz3%2F3%20-%202%20-%20Massimo%20Troisi.png?alt\u003dmedia\u0026token\u003de0ee9ed8-3662-4afb-a45c-32eb9130a81e",
+          "buttons": [
+            {
+              "text": "Terence Hill",
+              "postback": "Terence Hill"
+            },
+            {
+              "text": "Massimo Troisi",
+              "postback": "Massimo Troisi"
+            },
+            {
+              "text": "Andrea Roncato",
+              "postback": "Andrea Roncato"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

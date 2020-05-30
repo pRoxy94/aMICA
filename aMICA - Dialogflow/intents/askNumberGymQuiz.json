@@ -1,0 +1,43 @@
+{
+  "id": "1caebe41-b8af-4cb9-9e31-d6930260b6d4",
+  "name": "askNumberGymQuiz",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Non vedevo l\u0027ora di allenarmi con te! Scegli una tra le seguenti schede di allenamento ☺️",
+          "replies": [
+            "🧘scheda 1-Facile",
+            "🏋️‍♀️scheda 2-Medio",
+            "🤸scheda 3-Difficile"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

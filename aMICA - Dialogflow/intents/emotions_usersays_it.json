@@ -1,0 +1,678 @@
+[
+  {
+    "id": "5337c76c-d663-47d7-a38c-bea96049269e",
+    "data": [
+      {
+        "text": "ho dormito male",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "127f4f1b-1c63-4f83-84e2-3babbcb6bae2",
+    "data": [
+      {
+        "text": "malumore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11ad1594-fa38-4363-9b82-49f3e1531ac4",
+    "data": [
+      {
+        "text": "che amarezza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2de40159-70b2-43a2-aa88-1daf7942678a",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sento abbattuto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64c3dcbe-2c48-484c-a14d-42d463bca45b",
+    "data": [
+      {
+        "text": "che depressione",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e911f5b7-60d9-4570-87d0-6a52c8834e5d",
+    "data": [
+      {
+        "text": "che delusione",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22e5951b-e47c-439e-affa-d51784fccd66",
+    "data": [
+      {
+        "text": "delusione assoluta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4037db9-2505-46ac-9ccd-febc9462fbd6",
+    "data": [
+      {
+        "text": "demoralizzato",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d845f30-533e-4726-b752-fa4f772ec967",
+    "data": [
+      {
+        "text": "che monotonia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dcda7de5-ec70-4fbf-8e77-4ad2f9ee0a0e",
+    "data": [
+      {
+        "text": "sono avvilito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6c307cf-6ae8-453b-8646-9cde28f434c8",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sento avvilito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a7ff0230-fcea-4032-969b-a406ed66efed",
+    "data": [
+      {
+        "text": "non ho tempo da perdere",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2689a662-23c5-43e0-8cc1-9d1baac3f528",
+    "data": [
+      {
+        "text": "ho tanti pensieri ",
+        "userDefined": false
+      },
+      {
+        "text": "per",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " la testa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "039b1222-f2f5-4ef3-a577-d26370e2bc68",
+    "data": [
+      {
+        "text": "quante rogne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c89748f-4dc5-442b-9a21-e3e2939b75ce",
+    "data": [
+      {
+        "text": "sono triste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ebeb6458-43d7-4642-aed7-445c13ef4812",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sento ",
+        "userDefined": false
+      },
+      {
+        "text": "giù",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di morale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7fc90f4e-5a19-4d44-9c4b-7605bce8fb8a",
+    "data": [
+      {
+        "text": "grigiore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ded27612-b2f8-4a3c-9beb-e63a2a17b8c9",
+    "data": [
+      {
+        "text": "non ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " fai compagnia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "206a1804-e581-40e8-afcb-296ba7e65afe",
+    "data": [
+      {
+        "text": "sto afflitto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "132fade2-6c10-4341-a82d-504d6cc8a300",
+    "data": [
+      {
+        "text": "non ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sei",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " vicino",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d59e2b80-81f4-401a-a73d-2ff5880d1372",
+    "data": [
+      {
+        "text": "non ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sei",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " accanto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "12cc78cb-411d-46e4-86e0-24826b41aa44",
+    "data": [
+      {
+        "text": "non ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " vuoi aiutare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "52ad4b1d-6469-4f60-8f01-e0a92c898020",
+    "data": [
+      {
+        "text": "non ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " vuoi bene",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4493ff6e-81d3-47a0-975d-2e814a59a480",
+    "data": [
+      {
+        "text": "umore ",
+        "userDefined": false
+      },
+      {
+        "text": "nero",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a3c250d-3315-4962-bea1-df117031d945",
+    "data": [
+      {
+        "text": "che ",
+        "userDefined": false
+      },
+      {
+        "text": "noia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16813695-9e75-4867-b086-c032fc371ac6",
+    "data": [
+      {
+        "text": "che angoscia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c1bae2e8-8225-456e-b019-eaef93cfaeed",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sento angoscioso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f2c4e51b-3b2b-4d59-9464-eafdfb25802e",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sento disperato",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c9edf415-72a8-45be-8424-598a3d6a418a",
+    "data": [
+      {
+        "text": "sto scontento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85b38691-93ad-41e9-94d3-83b27a374be5",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " serve conforto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e1b7e41-e162-4348-af6c-0a0caff5a9f2",
+    "data": [
+      {
+        "text": "infelice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3dfe1bd3-0176-41d1-8a85-3d23dbaca609",
+    "data": [
+      {
+        "text": "che tristezza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb7e8cf5-8797-4b3a-ba3b-948c2e920a40",
+    "data": [
+      {
+        "text": "che malinconia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a7772099-a2a6-4470-b480-b5cf8de0b47b",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sento malinconico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee768878-8db5-40fb-86c7-f75e0705b406",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sento triste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8aa35fd-20c1-4b0a-857e-2986cd7ae997",
+    "data": [
+      {
+        "text": "sto triste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df48d27f-d22d-4cfb-85f5-efaa086c2739",
+    "data": [
+      {
+        "text": "sto tutto triste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9999e91-d22d-48f6-bd6e-879ec6b843f2",
+    "data": [
+      {
+        "text": "malinconico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2ea30d0-bb22-4fee-b503-ef2684916237",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sento ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " po\u0027 ",
+        "userDefined": false
+      },
+      {
+        "text": "giù",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1fb777a3-ab6f-4aef-8230-e543c0145b8f",
+    "data": [
+      {
+        "text": "giù",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di morale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ff99f31-bb8f-4e22-ad0a-55e647aebdb7",
+    "data": [
+      {
+        "text": "depressione",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1dd64f7-e57b-479d-a633-d4c344d62eba",
+    "data": [
+      {
+        "text": "sto depresso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "296aeab1-96d5-422b-8cbe-283aeff6715d",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sento depresso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

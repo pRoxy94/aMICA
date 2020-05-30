@@ -1,0 +1,20 @@
+[
+  {
+    "id": "d405d3ab-358a-4a10-8bb2-376f80459f93",
+    "data": [
+      {
+        "text": "Cancella numero emergenza ",
+        "userDefined": false
+      },
+      {
+        "text": "Maria",
+        "alias": "nome",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

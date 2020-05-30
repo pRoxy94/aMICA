@@ -1,0 +1,95 @@
+{
+  "id": "c3f51f7d-34bc-4fdb-a0cf-44098844dec6",
+  "name": "vipImageQuiz2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "vipImageQuiz2_await_answer1",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "speech": "Bene, cominciamo! Ricordati che puoi terminare l\u0027allenamento in qualsiasi momento scrivendo \"cancella\"."
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "title": "Di chi si tratta?",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/facce%2FvipImageQuiz2%2F2%20-%201%20-%20Marylin%20Monroe.jpg?alt\u003dmedia\u0026token\u003df981bff5-30ed-4ad7-a6c1-8c7acb6a38cb",
+          "buttons": [
+            {
+              "text": "Marylin Monroe",
+              "postback": "Marylin Monroe"
+            },
+            {
+              "text": "Lorella Cuccarini",
+              "postback": "Lorella Cuccarini"
+            },
+            {
+              "text": "Heather Parisi",
+              "postback": "Heather Parisi"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Bene, cominciamo! Ricordati che puoi terminare l\u0027allenamento in qualsiasi momento scrivendo \"cancella\"."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Di chi si tratta?",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/facce%2FvipImageQuiz2%2F2%20-%201%20-%20Marylin%20Monroe.jpg?alt\u003dmedia\u0026token\u003df981bff5-30ed-4ad7-a6c1-8c7acb6a38cb",
+          "buttons": [
+            {
+              "text": "Marylin Monroe",
+              "postback": "Marylin Monroe"
+            },
+            {
+              "text": "Lorella Cuccarini",
+              "postback": "Lorella Cuccarini"
+            },
+            {
+              "text": "Heather Parisi",
+              "postback": "Heather Parisi"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

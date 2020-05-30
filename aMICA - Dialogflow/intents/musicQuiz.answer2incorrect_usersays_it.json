@@ -1,0 +1,30 @@
+[
+  {
+    "id": "269ed9e4-4389-422b-bcf0-2520e6a9db3d",
+    "data": [
+      {
+        "text": "Carmen Villani",
+        "alias": "quiz_cantante",
+        "meta": "@musicArtists",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a32340eb-1f71-47c7-a7c2-38124b043c9a",
+    "data": [
+      {
+        "text": "Claudio Baglioni",
+        "alias": "quiz_cantante",
+        "meta": "@musicArtists",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

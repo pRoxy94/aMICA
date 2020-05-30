@@ -1,0 +1,36 @@
+{
+  "id": "5cf096c2-1dd4-4ef7-9191-6ba7fd6c0006",
+  "parentId": "10c8fd44-053b-4861-a41f-269a2b89e080",
+  "rootParentId": "10c8fd44-053b-4861-a41f-269a2b89e080",
+  "name": "getAllBaseInfo - later",
+  "auto": true,
+  "contexts": [
+    "getAllBaseInfo-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "getAllBaseInfo.getAllBaseInfo-later",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": "Bene. Contattami quando vuoi!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

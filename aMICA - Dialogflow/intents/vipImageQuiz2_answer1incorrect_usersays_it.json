@@ -1,0 +1,30 @@
+[
+  {
+    "id": "29772de1-f117-4931-b2ce-4e09f09c0e29",
+    "data": [
+      {
+        "text": "Heather Parisi",
+        "alias": "quiz_vip",
+        "meta": "@typeOfVips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63f35fd6-7fcc-4054-9dda-91427aba243c",
+    "data": [
+      {
+        "text": "Lorella Cuccarini",
+        "alias": "quiz_vip",
+        "meta": "@typeOfVips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

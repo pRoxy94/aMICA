@@ -1,0 +1,77 @@
+{
+  "id": "03213043-2941-44ce-8b47-57974f1bb5b4",
+  "name": "musicQuiz.answer3correct",
+  "auto": true,
+  "contexts": [
+    "await_answer3"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "await_answer4",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Giusto! Passiamo alla prossima canzone!"
+        },
+        {
+          "type": 4,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "audio",
+                "payload": {
+                  "url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/musica%2F4)%20Raimondo%20Vianello%20-%20Abbronzatissima.mp3?alt\u003dmedia\u0026token\u003d6ce4e15e-e520-4575-abfa-7ca34a0899da"
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Chi canta questa canzone?",
+          "buttons": [
+            {
+              "text": "Massimo Ranieri",
+              "postback": "Massimo Ranieri"
+            },
+            {
+              "text": "Raimondo Vianello",
+              "postback": "Raimondo Vianello"
+            },
+            {
+              "text": "Fred Bongusto",
+              "postback": "Fred Bongusto"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

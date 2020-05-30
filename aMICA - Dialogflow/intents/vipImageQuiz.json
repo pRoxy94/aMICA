@@ -1,0 +1,95 @@
+{
+  "id": "49449168-a241-4b86-9ed0-41b347400579",
+  "name": "vipImageQuiz",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "vipImageQuiz_await_answer1",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "speech": "Bene, cominciamo! Ricordati che puoi terminare l\u0027allenamento in qualsiasi momento scrivendo \"cancella\"."
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "title": "Di chi si tratta?",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/facce%2Feinstein.jpg?alt\u003dmedia\u0026token\u003df8d84061-cb5f-4b2c-b8d7-b0c64efdc929",
+          "buttons": [
+            {
+              "text": "Pippo Baudo",
+              "postback": "Pippo Baudo"
+            },
+            {
+              "text": "Albert Einstein",
+              "postback": "Albert Einstein"
+            },
+            {
+              "text": "Massimo Girotti",
+              "postback": "Massimo Girotti"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Bene, cominciamo! Ricordati che puoi terminare l\u0027allenamento in qualsiasi momento scrivendo \"cancella\"."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Di chi si tratta?",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/facce%2Feinstein.jpg?alt\u003dmedia\u0026token\u003df8d84061-cb5f-4b2c-b8d7-b0c64efdc929",
+          "buttons": [
+            {
+              "text": "Pippo Baudo",
+              "postback": "Pippo Baudo"
+            },
+            {
+              "text": "Albert Einstein",
+              "postback": "Albert Einstein"
+            },
+            {
+              "text": "Massimo Girotti",
+              "postback": "Massimo Girotti"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

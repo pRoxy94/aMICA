@@ -1,0 +1,354 @@
+[
+  {
+    "id": "66e4b89d-c687-4eb5-8e88-a7dfff2a0527",
+    "data": [
+      {
+        "text": "aggiungi lista con ",
+        "userDefined": false
+      },
+      {
+        "text": "mele",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "pere",
+        "alias": "elementi",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " e kiwi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba30a743-7f4c-4abb-a985-75a061c39d79",
+    "data": [
+      {
+        "text": "scrivi ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " lista",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7dc61af5-2adc-4ca1-9ea6-ae9dd6aa0784",
+    "data": [
+      {
+        "text": "aggiungi lista",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4acb7c70-24bf-45b4-9aa2-f667224a0617",
+    "data": [
+      {
+        "text": "aggiungi una lista della ",
+        "userDefined": false
+      },
+      {
+        "text": "spesa",
+        "alias": "titolo",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " con limoni, ",
+        "userDefined": false
+      },
+      {
+        "text": "kiwi",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " e mele",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "52ad21be-fa9a-4d24-823c-9112974d53f8",
+    "data": [
+      {
+        "text": "lista del ",
+        "userDefined": false
+      },
+      {
+        "text": "fruttivendolo",
+        "alias": "titolo",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1f6e6c9-bdc6-41a6-a41a-7b82b777ae76",
+    "data": [
+      {
+        "text": "lista di ",
+        "userDefined": false
+      },
+      {
+        "text": "oggetti",
+        "alias": "titolo",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef3b2a20-7e08-4673-a06f-e7b8c42cb93f",
+    "data": [
+      {
+        "text": "lista delle ",
+        "userDefined": false
+      },
+      {
+        "text": "azioni da svolgere",
+        "alias": "titolo",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e11b91b-4a99-4c1b-ad93-4b0ab0375a3a",
+    "data": [
+      {
+        "text": "lista delle ",
+        "userDefined": false
+      },
+      {
+        "text": "cose da fare",
+        "alias": "titolo",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57cc2e64-0c22-455b-bba6-64f9651ecc7e",
+    "data": [
+      {
+        "text": "lista delle ",
+        "userDefined": false
+      },
+      {
+        "text": "cose da portare",
+        "alias": "titolo",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6186c4c-6685-4796-86e0-338aaf1243f5",
+    "data": [
+      {
+        "text": "scrivi la ",
+        "userDefined": false
+      },
+      {
+        "text": "spesa",
+        "alias": "titolo",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4da982b3-4839-47a0-81e9-d931a2f1aff3",
+    "data": [
+      {
+        "text": "facciamo ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " lista",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a933ddfa-3ba5-4d79-92c2-73f6a23fa7ec",
+    "data": [
+      {
+        "text": "voglio fare ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " lista della ",
+        "userDefined": false
+      },
+      {
+        "text": "spesa",
+        "alias": "titolo",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " con ",
+        "userDefined": false
+      },
+      {
+        "text": "limoni",
+        "alias": "elementi",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9de1a034-3d6f-432d-a643-fee3baa55495",
+    "data": [
+      {
+        "text": "voglio creare ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " lista della ",
+        "userDefined": false
+      },
+      {
+        "text": "spesa",
+        "alias": "titolo",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f59d620c-8a72-47d8-acdb-648c19a8ad55",
+    "data": [
+      {
+        "text": "voglio fare la ",
+        "userDefined": false
+      },
+      {
+        "text": "spesa",
+        "alias": "titolo",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89c8740f-542b-4d21-af78-2c029b25ea86",
+    "data": [
+      {
+        "text": "voglio fare ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " lista",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1914800-6951-49e3-8ec9-f1fa9ed3b355",
+    "data": [
+      {
+        "text": "nuova lista",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "5106b72b-8314-41d4-8a9c-ef50ae5a5fd1",
+    "data": [
+      {
+        "text": "lista",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

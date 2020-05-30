@@ -1,0 +1,9 @@
+{
+  "id": "af4188aa-91d4-4c92-b8e7-919bb6772baa",
+  "name": "typeOfSportPref",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,105 @@
+{
+  "id": "9c9e1fcc-e9a4-4e3e-ad9e-ea8f5af1674c",
+  "name": "storyQuiz",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "storyQuiz_await_answer1",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "speech": "Bene, cominciamo! Ricordati che puoi terminare l\u0027allenamento in qualsiasi momento scrivendo \"cancella\"."
+        },
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "speech": "Nella città di Messina vi abitavano tre fratelli, ricchi mercanti, con la sorella minore Elisabetta, fanciulla molto bella non ancora maritata. Questa si innamorò di un giovane di nome Lorenzo che lavorava presso il fondaco dei tre fratelli. Anche Lorenzo si innamorò di Elisabetta e i due incominciarono a frequentarsi segretamente. Il fratello maggiore accortosi della relazione né parlò agli altri due fratelli e tutti e tre, dopo aver portato Lorenzo in luogo solitario lo uccisero e lo seppellirono. Una notte comparve in sogno a Elisabetta Lorenzo che le dice di essere stato ucciso dai suoi fratelli e le rivelò dove era seppellito. La fanciulla vi si recò, scavò e tagliò la testa dal corpo che dopo averla fasciata mise in un vaso e ricoprì di terra e vi piantò delle piante. Spesso la fanciulla riversava lacrime sul vaso e i fratelli avvertiti dai vicini, le tolsero il vaso e scoperta la testa la sotterrarono. Dopo i tre fratelli partirono per Napoli affinché non si sapesse la storia e la sorella continuando a versare lacrime morì."
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "title": "Domanda 1",
+          "subtitle": "Quanti erano i fratelli?",
+          "buttons": [
+            {
+              "text": "uno",
+              "postback": "uno"
+            },
+            {
+              "text": "cinque",
+              "postback": "cinque"
+            },
+            {
+              "text": "tre",
+              "postback": "tre"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Bene, cominciamo! Ricordati che puoi terminare l\u0027allenamento in qualsiasi momento scrivendo \"cancella\". ☺️"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Nella città di Messina vi abitavano tre fratelli, ricchi mercanti, con la sorella minore Elisabetta, fanciulla molto bella non ancora maritata. Questa si innamorò di un giovane di nome Lorenzo che lavorava presso il fondaco dei tre fratelli. Anche Lorenzo si innamorò di Elisabetta e i due incominciarono a frequentarsi segretamente. Il fratello maggiore accortosi della relazione né parlò agli altri due fratelli e tutti e tre, dopo aver portato Lorenzo in luogo solitario lo uccisero e lo seppellirono. Una notte comparve in sogno a Elisabetta Lorenzo che le dice di essere stato ucciso dai suoi fratelli e le rivelò dove era seppellito. La fanciulla vi si recò, scavò e tagliò la testa dal corpo che dopo averla fasciata mise in un vaso e ricoprì di terra e vi piantò delle piante. Spesso la fanciulla riversava lacrime sul vaso e i fratelli avvertiti dai vicini, le tolsero il vaso e scoperta la testa la sotterrarono. Dopo i tre fratelli partirono per Napoli affinché non si sapesse la storia e la sorella continuando a versare lacrime morì."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Domanda 1",
+          "subtitle": "Quanti erano i fratelli?",
+          "buttons": [
+            {
+              "text": "uno",
+              "postback": "uno"
+            },
+            {
+              "text": "cinque",
+              "postback": "cinque"
+            },
+            {
+              "text": "tre",
+              "postback": "tre"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "b9ca042a-a255-4b2a-a80a-a34a44663d4b",
+  "name": "intoleranceType",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

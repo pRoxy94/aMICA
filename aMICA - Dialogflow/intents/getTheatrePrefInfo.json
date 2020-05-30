@@ -1,0 +1,68 @@
+{
+  "id": "8993fdbc-83e7-4566-98f6-166051930b96",
+  "name": "getTheatrePrefInfo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "424615be-6af5-4a0e-b496-0755c6e52a30",
+          "required": false,
+          "dataType": "@typeOfTheatrePref",
+          "name": "genere",
+          "value": "$genere",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "e5399171-8b81-4bd0-815a-36829895cfcc",
+          "required": false,
+          "dataType": "@typeOfTheatrePref",
+          "name": "titolo",
+          "value": "$titolo",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "d150a5e8-7e31-44e6-b3b0-3ad78137c4f3",
+          "required": false,
+          "dataType": "@typeOfTheatrePref",
+          "name": "autore",
+          "value": "$autore",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

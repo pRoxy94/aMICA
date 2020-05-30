@@ -1,0 +1,99 @@
+{
+  "id": "e3dd0730-bb49-4dcc-b7f3-4b4ef5849015",
+  "parentId": "1027334d-2d97-4059-954e-0d9b17698e25",
+  "rootParentId": "1027334d-2d97-4059-954e-0d9b17698e25",
+  "name": "askFoodPref - no",
+  "auto": true,
+  "contexts": [
+    "askFoodPref-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "askFoodPref.askFoodPref-no",
+      "affectedContexts": [
+        {
+          "name": "askFoodPref-no-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "text": "Bene. Hai bisogno di altro?",
+              "reply_markup": {
+                "resize_keyboard": true,
+                "one_time_keyboard": true,
+                "keyboard": [
+                  [
+                    {
+                      "callback_data": "aggiungi informazioni",
+                      "text": "Aggiungi Informazioni"
+                    },
+                    {
+                      "callback_data": "modifica informazioni",
+                      "text": "Modifica Informazioni"
+                    },
+                    {
+                      "callback_data": "elimina informazioni",
+                      "text": "Elimina Informazioni"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Mostra Informazioni",
+                      "callback_data": "mostra informazioni"
+                    },
+                    {
+                      "text": "Allenamento",
+                      "callback_data": "allenamento"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "No grazie",
+                      "callback_data": "no grazie"
+                    },
+                    {
+                      "callback_data": "cancella",
+                      "text": "Cancella"
+                    }
+                  ]
+                ]
+              }
+            }
+          }
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Bene. Hai bisogno di altro?",
+          "replies": [
+            "Mostra funzionalità",
+            "No grazie",
+            "Cancella"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

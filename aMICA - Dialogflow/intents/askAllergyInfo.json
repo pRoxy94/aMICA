@@ -1,0 +1,124 @@
+{
+  "id": "8c8ca943-ee15-4c4b-aeb5-6421dcffc5fd",
+  "name": "askAllergyInfo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "askAllergyInfo-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "fe4d0161-1479-4a2a-b2a8-e7e06adaa28c",
+          "required": true,
+          "dataType": "@allergyType",
+          "name": "descrizione",
+          "value": "$descrizione",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "A cosa sei allergico?"
+            },
+            {
+              "lang": "it",
+              "value": "Qual è la tua allergia?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "720d579f-9f9f-4a7a-ab02-969372c9ca3d",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "farmaco",
+          "value": "$farmaco",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "In caso di necessità quale farmaco assumi?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "text": "Ho aggiunto le informazioni sulla tua allergia. Ne vuoi aggiungere altre?",
+              "reply_markup": {
+                "resize_keyboard": true,
+                "one_time_keyboard": true,
+                "keyboard": [
+                  [
+                    {
+                      "text": "Allergie",
+                      "callback_data": "allergie"
+                    }
+                  ],
+                  [
+                    {
+                      "callback_data": "più tardi",
+                      "text": "Più tardi"
+                    },
+                    {
+                      "text": "No grazie",
+                      "callback_data": "no grazie"
+                    },
+                    {
+                      "text": "Cancella",
+                      "callback_data": "cancella"
+                    }
+                  ]
+                ]
+              }
+            }
+          }
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Ho aggiunto le informazioni sulla tua allergia. Ne vuoi aggiungere altre?",
+          "replies": [
+            "Aggiungi allergie",
+            "Più tardi",
+            "No grazie",
+            "Cancella"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

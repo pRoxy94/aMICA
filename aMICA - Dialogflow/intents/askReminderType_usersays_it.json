@@ -1,0 +1,86 @@
+[
+  {
+    "id": "efdd7e61-fe74-4250-9a66-f19753d69ddf",
+    "data": [
+      {
+        "text": "voglio salvare ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " promemoria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a6382631-654a-4fbd-bb54-bac60f73667a",
+    "data": [
+      {
+        "text": "inserisci promemoria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e58f6004-6a51-4fa1-aaf9-c7a97c4bad46",
+    "data": [
+      {
+        "text": "aggiungi promemoria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ccf98bf1-67df-4288-ab9e-67ffcc4a1841",
+    "data": [
+      {
+        "text": "voglio aggiungere ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "promemoria",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d22232b-18d9-4c47-b6b9-f5c6b3e9bd9d",
+    "data": [
+      {
+        "text": "promemoria",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

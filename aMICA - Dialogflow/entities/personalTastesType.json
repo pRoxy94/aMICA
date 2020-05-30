@@ -1,0 +1,9 @@
+{
+  "id": "54a180d4-bd7f-477f-88f8-c769b8fe2380",
+  "name": "personalTastesType",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

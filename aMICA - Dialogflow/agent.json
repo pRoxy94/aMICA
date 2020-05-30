@@ -1,0 +1,89 @@
+{
+  "description": "Assistente virtuale per il supporto ai malati di demenza senile.",
+  "language": "it",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "activeAssistantAgents": [
+    "smalltalk-domain-on"
+  ],
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "project": "amico-avkdjm",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [
+      {
+        "intentId": "ce3cf442-2813-48c9-a355-024b0a4ce174",
+        "signInRequired": false
+      },
+      {
+        "intentId": "0e3e9a77-a4bf-449d-bc86-e9ae8796eff6",
+        "signInRequired": false
+      },
+      {
+        "intentId": "02dc4b43-783e-4768-8879-f27de4a34f8b",
+        "signInRequired": false
+      },
+      {
+        "intentId": "53538339-5ed1-4aa2-8235-0ba443efa464",
+        "signInRequired": false
+      },
+      {
+        "intentId": "2239a85d-718f-4882-ada5-fd4ace9d56ed",
+        "signInRequired": false
+      },
+      {
+        "intentId": "0839847d-2bbd-4f28-a59a-ba4cbf04fe49",
+        "signInRequired": false
+      },
+      {
+        "intentId": "1a78b3e0-a247-41c8-9608-d3c12c64fca6",
+        "signInRequired": false
+      }
+    ],
+    "systemIntents": [],
+    "endIntentIds": [
+      "b17324da-df89-494d-b3b3-616589c37fdb",
+      "cb72a784-cb20-462b-a396-6043e42c6f8d"
+    ],
+    "oAuthLinking": {
+      "required": false,
+      "providerId": "",
+      "authorizationUrl": "",
+      "tokenUrl": "",
+      "scopes": "",
+      "privacyPolicyUrl": "",
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "env": "",
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": true,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "America/New_York",
+  "webhook": {
+    "url": "https://us-central1-amico-avkdjm.cloudfunctions.net/dialogflowFirebaseFulfillment",
+    "username": "",
+    "headers": {
+      "": ""
+    },
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": true,
+    "cloudFunctionsInitialized": true
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v2",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": ""
+}

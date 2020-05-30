@@ -1,0 +1,9 @@
+{
+  "id": "0c62de8e-cc28-45fb-941b-f37856f9963e",
+  "name": "sys.music-artist",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

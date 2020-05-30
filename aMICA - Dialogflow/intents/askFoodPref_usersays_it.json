@@ -1,0 +1,612 @@
+[
+  {
+    "id": "b03de966-6e00-4149-9445-bd4413cc6e8b",
+    "data": [
+      {
+        "text": "mangio spesso i ",
+        "userDefined": false
+      },
+      {
+        "text": "legumi",
+        "alias": "tipologia",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " e adoro i ",
+        "userDefined": false
+      },
+      {
+        "text": "ceci",
+        "alias": "tipologia",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ebb2602b-d2a1-45f4-9c57-c32ebe128f9c",
+    "data": [
+      {
+        "text": "il mio piatto preferito è la ",
+        "userDefined": false
+      },
+      {
+        "text": "carne di maiale con le patate",
+        "alias": "tipologia",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4943133b-40be-4814-9f7d-d8a34a1dab41",
+    "data": [
+      {
+        "text": "mi piace molto",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " la ",
+        "userDefined": false
+      },
+      {
+        "text": "carne",
+        "alias": "tipologia",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "sia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bianca",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " che ",
+        "userDefined": false
+      },
+      {
+        "text": "rossa",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "789b983f-842f-4b0e-ac42-0565dbfbd7a5",
+    "data": [
+      {
+        "text": "adoro la ",
+        "userDefined": false
+      },
+      {
+        "text": "verdura",
+        "alias": "tipologia",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": ", come gli ",
+        "userDefined": false
+      },
+      {
+        "text": "spinaci",
+        "alias": "tipologia",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d231f1ee-6c5a-4112-940b-d280967afcb9",
+    "data": [
+      {
+        "text": "adoro i ",
+        "userDefined": false
+      },
+      {
+        "text": "legumi",
+        "alias": "tipologia",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": ", in particolare i ",
+        "userDefined": false
+      },
+      {
+        "text": "ceci",
+        "alias": "tipologia",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "82c7a4a1-c0c7-4a7b-b253-07f0888dcce9",
+    "data": [
+      {
+        "text": "mangio molta ",
+        "userDefined": false
+      },
+      {
+        "text": "verdura",
+        "alias": "tipologia",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5f3c586-44ee-4847-a16a-4df8d2b6ef10",
+    "data": [
+      {
+        "text": "vado pazzo per gli ",
+        "userDefined": false
+      },
+      {
+        "text": "spaghetti con il tonno",
+        "alias": "tipologia",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc50bc25-6f70-4b74-89a2-69a740fe44fb",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace la ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "alias": "tipologia",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48c73a23-61be-4e74-b8e1-f0e470c9cfa6",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piacciono i ",
+        "userDefined": false
+      },
+      {
+        "text": "cannelloni al sugo",
+        "alias": "tipologia",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "43d3dcdb-b448-456e-9c20-7b07c473d070",
+    "data": [
+      {
+        "text": "adoro il ",
+        "userDefined": false
+      },
+      {
+        "text": "riso con i piselli",
+        "alias": "tipologia",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2a52a1d-bfe0-4867-90f0-dcfe596c1452",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace l\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "hamburger con l\u0027insalata",
+        "alias": "tipologia",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea90f750-2694-4a80-8f53-0d5eec8d790e",
+    "data": [
+      {
+        "text": "il mio cibo preferito è il ",
+        "userDefined": false
+      },
+      {
+        "text": "coniglio con le patate",
+        "alias": "tipologia",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf869057-4c50-4dec-9d28-abeb0b2bb617",
+    "data": [
+      {
+        "text": "il mio piatto preferito è la ",
+        "userDefined": false
+      },
+      {
+        "text": "lasagna",
+        "alias": "tipologia",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86063eda-ea81-4f97-bc54-ef2680796f74",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace il ",
+        "userDefined": false
+      },
+      {
+        "text": "pollo arrosto",
+        "alias": "tipologia",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7cd2b589-e9a1-460f-8dbf-a398e0dd3c90",
+    "data": [
+      {
+        "text": "metti ",
+        "userDefined": false
+      },
+      {
+        "text": "la pasta",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " che ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86dc9662-ba6c-452b-a16f-4c9b966daa4c",
+    "data": [
+      {
+        "text": "metti il mio piatto preferito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd9ea734-8e0e-426d-a374-72200e0b7bb7",
+    "data": [
+      {
+        "text": "scrivi le mie preferenze sul cibo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b350cc7-d9b7-47b3-a200-ab65dea289d6",
+    "data": [
+      {
+        "text": "scrivi il cibo che ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e20afe4-e60c-4e8b-84bd-44a82699fd7e",
+    "data": [
+      {
+        "text": "scrivi il mio piatto preferito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb74ef59-f88d-4896-b64f-3e836e77d856",
+    "data": [
+      {
+        "text": "ho ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piatto preferito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5066b672-80a4-4299-8265-827440a23e77",
+    "data": [
+      {
+        "text": "inserisci il mio piatto preferito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aad6cb63-8cf8-47ce-8b79-257b61641d6a",
+    "data": [
+      {
+        "text": "aggiungi le cose che ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace ",
+        "userDefined": false
+      },
+      {
+        "text": "mangiare",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "43fd9d7a-bcb4-435b-a0f0-665ffa94c472",
+    "data": [
+      {
+        "text": "inserisci cosa ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " piace ",
+        "userDefined": false
+      },
+      {
+        "text": "mangiare",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "78bb008e-27e9-441a-a9ff-dc8526c3be96",
+    "data": [
+      {
+        "text": "inserisci il mio cibo preferito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "421f70fd-edac-4d3f-ad7a-79fb56a067b0",
+    "data": [
+      {
+        "text": "aggiungi preferenza ",
+        "userDefined": false
+      },
+      {
+        "text": "cibo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ac4ea8e-c770-42e8-a962-3e1ebe169e74",
+    "data": [
+      {
+        "text": "aggiungi preferenza sul cibo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "039dd6df-8ea9-4f10-a397-0fb4e7f9a655",
+    "data": [
+      {
+        "text": "voglio aggiungere i miei ",
+        "userDefined": false
+      },
+      {
+        "text": "cibi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " preferiti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "17389df1-cd44-4d60-acc3-bb85c8f62801",
+    "data": [
+      {
+        "text": "aggiungi preferenza alimentare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f52b433b-0a86-4eaa-8ff6-d393e9e7502d",
+    "data": [
+      {
+        "text": "aggiungi ",
+        "userDefined": false
+      },
+      {
+        "text": "cibo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d6e5371c-9656-40f1-aec4-c8f9d626817d",
+    "data": [
+      {
+        "text": "cibo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "29b71bb5-6bf5-48da-8f38-d7d00b70ab70",
+    "data": [
+      {
+        "text": "Gianni Morandi",
+        "alias": "quiz_cantante",
+        "meta": "@musicArtists",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db51b343-5d43-4cdf-ad9c-77a96e7450ff",
+    "data": [
+      {
+        "text": "Iva Zanicchi",
+        "alias": "quiz_cantante",
+        "meta": "@musicArtists",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "9b872782-e1d0-4090-a1dc-8eaf3000eec9",
+    "data": [
+      {
+        "text": "Diego Abbatantuono",
+        "alias": "quiz_vip",
+        "meta": "@typeOfVips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "147699e1-0859-4b32-80a1-8c036988d325",
+    "data": [
+      {
+        "text": "Lino Banfi",
+        "alias": "quiz_vip",
+        "meta": "@typeOfVips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

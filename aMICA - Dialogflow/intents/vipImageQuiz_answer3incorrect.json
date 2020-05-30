@@ -1,0 +1,110 @@
+{
+  "id": "953a44a6-bca4-4e7e-a824-fef874247f81",
+  "name": "vipImageQuiz_answer3incorrect",
+  "auto": true,
+  "contexts": [
+    "vipImageQuiz_await_answer3"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "vipImageQuiz_await_answer4",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "326c752a-7fc6-4aeb-9cd8-3f9434bf4d94",
+          "required": false,
+          "dataType": "@typeOfVips",
+          "name": "quiz_vip",
+          "value": "$quiz_vip",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "speech": "Mi dispiace, era Luciano Pavarotti! Passiamo al prossimo volto!"
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "title": "Di chi tratta?",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/facce%2Fbongiorno.jpg?alt\u003dmedia\u0026token\u003d17f96a8f-18ff-4b0c-bf14-7d4588923978",
+          "buttons": [
+            {
+              "text": "Mike Bongiorno",
+              "postback": "Mike Bongiorno"
+            },
+            {
+              "text": "Totò",
+              "postback": "Totò"
+            },
+            {
+              "text": "Lino Banfi",
+              "postback": "Lino Banfi"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Mi dispiace, era Luciano Pavarotti! Passiamo al prossimo volto!"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Di chi si tratta?",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/facce%2Fbongiorno.jpg?alt\u003dmedia\u0026token\u003d17f96a8f-18ff-4b0c-bf14-7d4588923978",
+          "buttons": [
+            {
+              "text": "Mike Bongiorno",
+              "postback": "Mike Bongiorno"
+            },
+            {
+              "text": "Totò",
+              "postback": "Totò"
+            },
+            {
+              "text": "Lino Banfi",
+              "postback": "Lino Banfi"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

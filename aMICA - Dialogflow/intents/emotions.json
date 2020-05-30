@@ -1,0 +1,55 @@
+{
+  "id": "6bdfff7c-7d43-4991-9929-c996f90de850",
+  "name": "emotions",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "title": "Sono davvero dispiaciuto, ma sono qui proprio per aiutarti!",
+          "replies": [
+            "Aggiungi info",
+            "Modifica info",
+            "Numeri di emergenza"
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "title": "Mi dispiace davvero tanto, sappi che non sei solo! Il primo passo per sentirsi meglio è parlarne con qualcuno o magari allenare un pò la mente. Cosa posso fare per te?",
+          "replies": [
+            "Chiama qualcuno",
+            "Allenamento",
+            "Cancella"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "d4667242-13ec-4ad3-b29d-e6b2ec02054b",
+  "parentId": "6f82816c-5050-4c75-9f4c-889f38a1117d",
+  "rootParentId": "83af7099-2d10-4e7c-828d-ae829486d935",
+  "name": "askSportPref - no - no",
+  "auto": true,
+  "contexts": [
+    "askSportPref-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "askSportPref.askSportPref-no.askSportPref-no-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": "Bene. Ci sentiamo pesto!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

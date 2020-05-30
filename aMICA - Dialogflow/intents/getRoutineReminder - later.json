@@ -1,0 +1,36 @@
+{
+  "id": "ae4fab5b-b08b-40e4-ab14-2e2fdfb3c505",
+  "parentId": "4c652e4f-a80e-4ea6-bc29-64b05860b0c7",
+  "rootParentId": "4c652e4f-a80e-4ea6-bc29-64b05860b0c7",
+  "name": "getRoutineReminder - later",
+  "auto": true,
+  "contexts": [
+    "getRoutineReminder-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "getRoutineReminder.getRoutineReminder-later",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "condition": "",
+          "speech": "Nessun problema. Sono sempre a tua disposizione!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

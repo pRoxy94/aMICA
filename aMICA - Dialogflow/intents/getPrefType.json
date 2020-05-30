@@ -1,0 +1,159 @@
+{
+  "id": "1d0fec77-0731-488e-8ba1-74425a52eda1",
+  "name": "getPrefType",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "telegram": {
+              "text": "Su quali preferenze vuoi ricevere informazioni?",
+              "reply_markup": {
+                "resize_keyboard": true,
+                "one_time_keyboard": true,
+                "keyboard": [
+                  [
+                    {
+                      "text": "La Mia Musica",
+                      "callback_data": "la mia musica"
+                    },
+                    {
+                      "text": "Il Mio Cinema",
+                      "callback_data": "il mio cinema"
+                    },
+                    {
+                      "text": "Il Mio Teatro",
+                      "callback_data": "il mio teatro"
+                    }
+                  ],
+                  [
+                    {
+                      "callback_data": "il mio sport",
+                      "text": "Il Mio Sport"
+                    },
+                    {
+                      "text": "Il Mio Cibo",
+                      "callback_data": "il mio cibo"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Cancella",
+                      "callback_data": "cancella"
+                    }
+                  ]
+                ]
+              }
+            }
+          }
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "speech": "Nel caso in cui tu non abbia inserito l\u0027informazione di cui hai bisogno ti verrà chiesto di inserirla, potrai scegliere se farlo o meno. Su quali preferenze vuoi ricevere informazioni? ☺️"
+        },
+        {
+          "type": 4,
+          "platform": "facebook",
+          "lang": "it",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "generic",
+                  "elements": [
+                    {
+                      "title": "Le tue preferenze musicali",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Fmusic-and-multimedia-2.png?alt\u003dmedia\u0026token\u003d2fa3bab7-0321-45e2-9497-48fb66304d21",
+                      "subtitle": "Guarda le tue preferenze musicali",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Scopri di più",
+                          "payload": "la mia musica"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Le tue preferenze cinematografiche",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Fpopcorn%20(1).png?alt\u003dmedia\u0026token\u003ddb2a3420-1f3a-4c48-81c6-8bec4995ab6b",
+                      "subtitle": "Guarda le tue preferenze cinematografiche",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Scopri di più",
+                          "payload": "il mio cinema"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Le tue preferenze teatrali",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Ftheater%20(1).png?alt\u003dmedia\u0026token\u003dc0c7f627-d0da-4d6a-9bc6-3fb801b2b8f2",
+                      "subtitle": "Guarda le tue preferenze teatrali",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Scopri di più",
+                          "payload": "il mio teatro"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Le tue preferenze sportive",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Fsoccer.png?alt\u003dmedia\u0026token\u003dbab6b3f6-0232-48b9-aabe-4975e6552458",
+                      "subtitle": "Guarda le tue preferenze sportive",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Scopri di più",
+                          "payload": "il mio sport"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Le tue preferenze alimentari",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Fpizza.png?alt\u003dmedia\u0026token\u003d9c18f666-6fb8-4c3e-bcd1-b4e4d584f4f3",
+                      "subtitle": "Guarda tue preferenze alimentari",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Scopri di più",
+                          "payload": "il mio cibo"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

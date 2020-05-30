@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ffc7ea27-a15a-4295-8a04-1724a479a702",
+    "data": [
+      {
+        "text": "Stefania Sandrelli",
+        "alias": "vip_quiz",
+        "meta": "@typeOfVips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "58ed7c26-f27a-4a3a-b1ae-f74ceb4abfc5",
+    "data": [
+      {
+        "text": "Romina Power",
+        "alias": "vip_quiz",
+        "meta": "@typeOfVips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

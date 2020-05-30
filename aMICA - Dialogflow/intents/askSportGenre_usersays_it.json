@@ -1,0 +1,66 @@
+[
+  {
+    "id": "e301e891-044c-49d9-8022-a73446b23daa",
+    "data": [
+      {
+        "text": "aggiungi preferenza ",
+        "userDefined": false
+      },
+      {
+        "text": "sport",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "53a392ac-2eaa-46d9-8fdb-b88338601c09",
+    "data": [
+      {
+        "text": "aggiungi preferenze ",
+        "userDefined": false
+      },
+      {
+        "text": "sport",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a2b4dc8-ddb5-4bcd-87d0-013408e3f850",
+    "data": [
+      {
+        "text": "aggiungi preferenze ",
+        "userDefined": false
+      },
+      {
+        "text": "sportive",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ffa304e-bf76-4d94-b333-2c9877c54e38",
+    "data": [
+      {
+        "text": "sport",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

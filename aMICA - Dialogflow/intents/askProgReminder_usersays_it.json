@@ -1,0 +1,378 @@
+[
+  {
+    "id": "4110624e-c8fb-4f01-b670-ea234970d438",
+    "data": [
+      {
+        "text": "domani",
+        "alias": "data",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ho appuntamento dal ",
+        "userDefined": false
+      },
+      {
+        "text": "medico",
+        "alias": "descrizione",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " alle ",
+        "userDefined": false
+      },
+      {
+        "text": "18",
+        "alias": "ora",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " pm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "444d59cd-6a9c-45d5-a7a3-5b0f7a033519",
+    "data": [
+      {
+        "text": "il ",
+        "userDefined": false
+      },
+      {
+        "text": "dentista",
+        "alias": "descrizione",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " è in via ",
+        "userDefined": false
+      },
+      {
+        "text": "luigi sturzo 8, Capurso",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40303bd4-d0cc-420b-8be9-fbccc6f55cd1",
+    "data": [
+      {
+        "text": "domani",
+        "alias": "data",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "andrò",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ad ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " evento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bbcdd747-bfaf-401c-a80b-024df94f2ce9",
+    "data": [
+      {
+        "text": "oggi",
+        "alias": "data",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ho ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " appuntamento dal ",
+        "userDefined": false
+      },
+      {
+        "text": "medico",
+        "alias": "descrizione",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8dc7c874-5443-4c9e-96d4-8482cf22f6ee",
+    "data": [
+      {
+        "text": "scrivi nuovo appuntamento per ",
+        "userDefined": false
+      },
+      {
+        "text": "domani",
+        "alias": "data",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a1c9e54-c750-4e4c-8f0b-13363906dfd9",
+    "data": [
+      {
+        "text": "aggiungi programma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "377a5c92-3b61-4aa6-8946-e2fd43bd3ccf",
+    "data": [
+      {
+        "text": "programmato",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69a3f6fb-50ea-41ea-bdb1-b72c07b9d031",
+    "data": [
+      {
+        "text": "aggiungi appuntamento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57b45cc0-a56a-457e-b919-a8d7e0548c06",
+    "data": [
+      {
+        "text": "l\u0027appuntamento si terrà presso il ",
+        "userDefined": false
+      },
+      {
+        "text": "Teatro Margherita a Bari",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8432e8ee-ed45-4dba-be10-131ff9e12566",
+    "data": [
+      {
+        "text": "ricordami di andare dal ",
+        "userDefined": false
+      },
+      {
+        "text": "dentista",
+        "alias": "descrizione",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "domani",
+        "alias": "data",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " alle ",
+        "userDefined": false
+      },
+      {
+        "text": "18",
+        "alias": "ora",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "981deebb-1836-4660-a5e6-c3799fa4b78b",
+    "data": [
+      {
+        "text": "voglio aggiungere ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " appuntamento per ",
+        "userDefined": false
+      },
+      {
+        "text": "domani",
+        "alias": "data",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " alle ",
+        "userDefined": false
+      },
+      {
+        "text": "15",
+        "alias": "ora",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b2ab7ff-038a-483a-93bf-7497c6150d13",
+    "data": [
+      {
+        "text": "devo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " andare ",
+        "userDefined": false
+      },
+      {
+        "text": "ad un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "evento",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5489f8b2-e5c3-46a8-881d-eb08794f7059",
+    "data": [
+      {
+        "text": "voglio registrare ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "appuntamento",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f460a70c-b4ce-49e7-a85b-ba2abf037244",
+    "data": [
+      {
+        "text": "evento",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ba07fac-0b84-4e41-88cb-056c7e0f0284",
+    "data": [
+      {
+        "text": "programma",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "afbd4e5f-0157-452c-98a7-09fd18eae00c",
+    "data": [
+      {
+        "text": "appuntamento",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

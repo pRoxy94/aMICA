@@ -1,0 +1,30 @@
+[
+  {
+    "id": "67f5047b-45d9-486f-a5ac-2e68568b8c05",
+    "data": [
+      {
+        "text": "Roberto Benigni",
+        "alias": "quiz_vip",
+        "meta": "@typeOfVips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e0eccffc-4de0-4fcb-9112-0190c811bd9a",
+    "data": [
+      {
+        "text": "Michele Placido",
+        "alias": "quiz_vip",
+        "meta": "@typeOfVips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

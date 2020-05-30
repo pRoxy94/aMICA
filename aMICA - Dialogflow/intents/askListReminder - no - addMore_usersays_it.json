@@ -1,0 +1,93 @@
+[
+  {
+    "id": "505e0e05-33e7-401a-870d-e66d0fd1631c",
+    "data": [
+      {
+        "text": "prezzemolo",
+        "alias": "elementi",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "finocchi",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "crackers",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "anice",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb8a037e-a79f-486a-ad4d-6a82263ec895",
+    "data": [
+      {
+        "text": "no, aggiungi altro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1df404c8-4340-4ecf-910d-81cefa92081f",
+    "data": [
+      {
+        "text": "Aggiungi altro alla ",
+        "userDefined": false
+      },
+      {
+        "text": "lista",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "prima",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ee921a1-e306-4646-a8c5-b23f8b0ee219",
+    "data": [
+      {
+        "text": "Mettiamo altro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
